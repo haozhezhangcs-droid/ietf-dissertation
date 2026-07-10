@@ -1,31 +1,69 @@
 # IETF Dissertation
 
-This repository contains the code and analysis for my MSc dissertation at the University of Glasgow.
+**MSc Computing Science Dissertation**
 
-## Project
+**University of Glasgow**
 
-Research topic:
+Student: Haozhe Zhang
 
-**Who is Effective at Developing Internet Standards?**
+Supervisor: Prof. Colin Perkins
 
-The project analyses the IETF Datatracker dataset to understand factors influencing the development of Internet standards.
 
-## Repository Structure
+## Project Overview
 
-data/
-Local SQLite databases (not uploaded)
+This repository contains the code, analysis scripts, and research reports for my MSc dissertation at the University of Glasgow.
 
-scripts/
-Python analysis scripts
+The project investigates factors that influence the successful development of Internet standards within the Internet Engineering Task Force (IETF). The research uses the official IETF Datatracker archive together with metadata extracted from the Datatracker SQLite database.
 
-outputs/
-Generated CSV files and figures
+The objective is to identify characteristics associated with successful Internet-Drafts and understand how different aspects of the standardisation process relate to document outcomes.
 
-report/
-Progress reports and dissertation drafts
 
-## Current Progress
+## Research Questions
 
-- Datatracker library installed
-- Offline SQLite database configured
-- Successfully queried RFC and Working Group information
+Current research questions include:
+
+- What factors influence whether an Internet-Draft becomes an RFC?
+- Does participation within working groups affect document success?
+- Does document revision history influence the probability of publication?
+- How does the duration of the standardisation process relate to success?
+- Can characteristics of the development process be used to predict document outcomes?
+
+These questions may be refined as the project develops.
+
+
+## Data Source
+
+The analysis is based on the official IETF Datatracker archive.
+
+Main dataset:
+
+- ietfdata-dt.sqlite
+
+The SQLite database contains metadata describing
+
+- Internet-Drafts
+- RFCs
+- Working Groups
+- States
+- Document history
+- Authors
+- Events
+
+Large database files are stored locally and are **not included in this repository**.
+
+
+## Methodology
+
+The planned workflow is:
+
+1. Explore the Datatracker schema
+2. Extract relevant metadata
+3. Clean and preprocess the data
+4. Engineer useful analysis features
+5. Perform statistical analysis
+6. Build predictive models
+7. Visualise and interpret results
+
+The repository is organised according to this workflow.
+
+
