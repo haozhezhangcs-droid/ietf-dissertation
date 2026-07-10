@@ -65,5 +65,29 @@ The planned workflow is:
 7. Visualise and interpret results
 
 The repository is organised according to this workflow.
-
+Raw SQLite Database
+        │
+        ▼
+SQL Extraction
+        │
+        ▼
+CSV Dataset
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Feature Engineering
+        │
+        ▼
+Exploratory Analysis
+        │
+        ▼
+Statistical Analysis
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+     Results
 
