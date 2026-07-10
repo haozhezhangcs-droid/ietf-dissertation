@@ -81,6 +81,5 @@ Statistical Analysis
         │
 Machine Learning
         │
-        ▼
      Results
 
