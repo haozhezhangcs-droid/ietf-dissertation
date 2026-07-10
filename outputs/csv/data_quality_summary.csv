@@ -1,0 +1,11 @@
+﻿metric,value
+Raw document rows extracted,42667
+Clean unique Internet-Drafts,42667
+Drafts classified as RFC,8307
+Drafts with missing title,0
+Drafts with missing group,0
+Drafts with missing created date,0
+Raw author rows extracted,103281
+Clean Draft-author relationships,103265
+Author records missing affiliation,12521
+Author records using generic email domain,0
