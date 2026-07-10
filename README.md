@@ -67,25 +67,18 @@ The planned workflow is:
 The repository is organised according to this workflow.
 Raw SQLite Database
         │
-        ▼
 SQL Extraction
         │
-        ▼
 CSV Dataset
         │
-        ▼
 Data Cleaning
         │
-        ▼
 Feature Engineering
         │
-        ▼
 Exploratory Analysis
         │
-        ▼
 Statistical Analysis
         │
-        ▼
 Machine Learning
         │
         ▼
