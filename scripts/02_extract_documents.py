@@ -14,10 +14,7 @@ from pathlib import Path
 
 import pandas as pd
 
-
-# ============================================================
 # Step 1: Define project paths
-# ============================================================
 
 BASE_DIR = Path(r"C:\Users\ZHZ\Desktop\ietf-dissertation")
 DB_PATH = BASE_DIR / "data" / "ietfdata-dt.sqlite"
@@ -27,9 +24,7 @@ OUTPUT_PATH = BASE_DIR / "outputs" / "csv" / "documents_basic.csv"
 OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 
-# ============================================================
 # Step 2: Connect to the local Datatracker database
-# ============================================================
 
 if not DB_PATH.exists():
     raise FileNotFoundError(
@@ -38,10 +33,7 @@ if not DB_PATH.exists():
 
 conn = sqlite3.connect(DB_PATH)
 
-
-# ============================================================
 # Step 3: Extract basic Internet-Draft metadata
-# ============================================================
 
 query = """
 SELECT
@@ -60,10 +52,7 @@ df = pd.read_sql_query(query, conn)
 
 conn.close()
 
-
-# ============================================================
 # Step 4: Perform simple data cleaning
-# ============================================================
 
 # Remove exact duplicate rows.
 df = df.drop_duplicates()
@@ -97,10 +86,7 @@ df["missing_title"] = df["title"].isna()
 df["missing_group"] = df["group_uri"].isna()
 df["missing_date"] = df["created_at"].isna()
 
-
-# ============================================================
 # Step 5: Save the cleaned dataset
-# ============================================================
 
 df.to_csv(
     OUTPUT_PATH,
@@ -108,10 +94,7 @@ df.to_csv(
     encoding="utf-8-sig",
 )
 
-
-# ============================================================
 # Step 6: Display a simple summary
-# ============================================================
 
 print("\n=== Basic document dataset ===")
 print(df.head())
@@ -128,9 +111,7 @@ print("\nSaved to:")
 print(OUTPUT_PATH)
 
 
-# ============================================================
 # Planned later stages — not implemented yet
-# ============================================================
 
 # TODO 1:
 # Extract document states and determine whether each

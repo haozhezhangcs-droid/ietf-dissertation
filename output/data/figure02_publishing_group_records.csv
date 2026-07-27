@@ -1,0 +1,2002 @@
+﻿publication_year,publishing_unit_id,figure_area,rfc_count,group_acronym,group_name,stream_slug,group_type_slug
+2001,stream:iab,Other,2,iab,Internet Architecture Board,iab,ietf
+2001,stream:ietf-other,Other,4,none,Individual Submissions,ietf,individ
+2001,stream:ise,Other,6,none,Individual Submissions,ise,individ
+2001,stream:legacy,Other,57,none,Individual Submissions,legacy,individ
+2001,wg:/api/v1/group/group/1220/,Other,1,poisson,Process for Organization of Internet Standards ONgoing,ietf,wg
+2001,wg:/api/v1/group/group/1241/,Other,1,run,Responsible Use of the Network,ietf,wg
+2001,wg:/api/v1/group/group/1345/,Other,1,uswg,User Services,ietf,wg
+2001,wg:/api/v1/group/group/1054/,app,2,fax,Internet Fax,ietf,wg
+2001,wg:/api/v1/group/group/1062/,app,1,ipp,Internet Printing Protocol,ietf,wg
+2001,wg:/api/v1/group/group/1310/,app,1,tn3270e,Telnet TN3270 Enhancements,ietf,wg
+2001,wg:/api/v1/group/group/1415/,app,1,wrec,Web Replication and Caching,ietf,wg
+2001,wg:/api/v1/group/group/1495/,app,2,beep,Blocks Extensible Exchange Protocol,ietf,wg
+2001,wg:/api/v1/group/group/970/,app,2,drums,Detailed Revision/Update of Message Standards,ietf,wg
+2001,wg:/api/v1/group/group/1138/,art,1,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2001,wg:/api/v1/group/group/1090/,int,2,mobileip,IP Routing for Wireless/Mobile Hosts,ietf,wg
+2001,wg:/api/v1/group/group/1093/,int,5,ipngwg,IPNG,ietf,wg
+2001,wg:/api/v1/group/group/1210/,int,2,pppext,Point-to-Point Protocol Extensions,ietf,wg
+2001,wg:/api/v1/group/group/1265/,int,1,svrloc,Service Location Protocol,ietf,wg
+2001,wg:/api/v1/group/group/1479/,int,6,dnsext,DNS Extensions,ietf,wg
+2001,wg:/api/v1/group/group/988/,int,4,dhc,Dynamic Host Configuration,ietf,wg
+2001,wg:/api/v1/group/group/1061/,ops,4,rap,Resource Allocation Protocol,ietf,wg
+2001,wg:/api/v1/group/group/1081/,ops,1,ipcdn,IP over Cable Data Network,ietf,wg
+2001,wg:/api/v1/group/group/1089/,ops,1,ippm,IP Performance Measurement,ietf,wg
+2001,wg:/api/v1/group/group/1118/,ops,4,mboned,MBONE Deployment,ietf,wg
+2001,wg:/api/v1/group/group/1147/,ops,1,nasreq,Network Access Server Requirements,ietf,wg
+2001,wg:/api/v1/group/group/1174/,ops,5,ngtrans,Next Generation Transition,ietf,wg
+2001,wg:/api/v1/group/group/1237/,ops,1,rmonmib,Remote Network Monitoring,ietf,wg
+2001,wg:/api/v1/group/group/1401/,ops,2,policy,Policy Framework,ietf,wg
+2001,wg:/api/v1/group/group/1408/,ops,1,aaa,"Authentication, Authorization and Accounting",ietf,wg
+2001,wg:/api/v1/group/group/1512/,ops,1,sming,Next Generation Structure of Management Information,ietf,wg
+2001,wg:/api/v1/group/group/945/,ops,4,bmwg,Benchmarking Methodology,ietf,wg
+2001,wg:/api/v1/group/group/977/,ops,1,disman,Distributed Management,ietf,wg
+2001,wg:/api/v1/group/group/1421/,rai,1,sigtran,Signaling Transport,ietf,wg
+2001,wg:/api/v1/group/group/1423/,rai,1,megaco,Media Gateway Control,ietf,wg
+2001,wg:/api/v1/group/group/1462/,rai,1,sip,Session Initiation Protocol,ietf,wg
+2001,wg:/api/v1/group/group/941/,rai,3,avt,Audio/Video Transport,ietf,wg
+2001,wg:/api/v1/group/group/1041/,rtg,1,idr,Inter-Domain Routing,ietf,wg
+2001,wg:/api/v1/group/group/1140/,rtg,12,mpls,Multiprotocol Label Switching,ietf,wg
+2001,wg:/api/v1/group/group/1188/,rtg,1,ospf,Open Shortest Path First IGP,ietf,wg
+2001,wg:/api/v1/group/group/1334/,rtg,1,udlr,UniDirectional Link Routing,ietf,wg
+2001,wg:/api/v1/group/group/1469/,rtg,3,l2tpext,Layer Two Tunneling Protocol Extensions,ietf,wg
+2001,wg:/api/v1/group/group/1223/,sec,3,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2001,wg:/api/v1/group/group/1258/,sec,7,smime,S/MIME Mail Security,ietf,wg
+2001,wg:/api/v1/group/group/1365/,sec,1,openpgp,Open Specification for Pretty Good Privacy,ietf,wg
+2001,wg:/api/v1/group/group/1442/,sec,2,xmldsig,XML Digital Signatures,ietf,wg
+2001,wg:/api/v1/group/group/1468/,sec,2,syslog,Security Issues in Network Event Logging,ietf,wg
+2001,wg:/api/v1/group/group/1501/,sec,1,sacred,Securely Available Credentials,ietf,wg
+2001,wg:/api/v1/group/group/1510/,sec,1,kink,Kerberized Internet Negotiation of Keys,ietf,wg
+2001,wg:/api/v1/group/group/1035/,tsv,1,issll,Integrated Services over Specific Link Layers,ietf,wg
+2001,wg:/api/v1/group/group/1148/,tsv,6,nat,Network Address Translators,ietf,wg
+2001,wg:/api/v1/group/group/1222/,tsv,1,pint,PSTN and Internet Internetworking,ietf,wg
+2001,wg:/api/v1/group/group/1240/,tsv,2,rsvp,Resource Reservation Setup Protocol,ietf,wg
+2001,wg:/api/v1/group/group/1388/,tsv,2,diffserv,Differentiated Services,ietf,wg
+2001,wg:/api/v1/group/group/1427/,tsv,3,pilc,Performance Implications of Link Characteristics,ietf,wg
+2001,wg:/api/v1/group/group/1437/,tsv,1,rmt,Reliable Multicast Transport,ietf,wg
+2001,wg:/api/v1/group/group/1466/,tsv,1,ecm,Endpoint Congestion Management,ietf,wg
+2001,wg:/api/v1/group/group/1471/,tsv,1,spirits,Service in the PSTN/IN Requesting InTernet Service,ietf,wg
+2001,wg:/api/v1/group/group/1474/,tsv,2,rohc,Robust Header Compression,ietf,wg
+2001,wg:/api/v1/group/group/1499/,tsv,2,seamoby,"Context Transfer, Handoff Candidate Discovery, and Dormant Mode Host Alerting",ietf,wg
+2001,wg:/api/v1/group/group/1463/,wit,2,tsvwg,Transport and Services Working Group,ietf,wg
+2002,stream:iab,Other,4,iab,Internet Architecture Board,iab,ietf
+2002,stream:ietf-other,Other,18,ops,Operations and Management Area,ietf,area
+2002,stream:ise,Other,3,none,Individual Submissions,ise,individ
+2002,stream:legacy,Other,29,none,Individual Submissions,legacy,individ
+2002,wg:/api/v1/group/group/1434/,Other,4,gsmp,General Switch Management Protocol,ietf,wg
+2002,wg:/api/v1/group/group/1458/,Other,3,tewg,Internet Traffic Engineering,ietf,wg
+2002,wg:/api/v1/group/group/1054/,app,4,fax,Internet Fax,ietf,wg
+2002,wg:/api/v1/group/group/1062/,app,4,ipp,Internet Printing Protocol,ietf,wg
+2002,wg:/api/v1/group/group/1339/,app,6,urn,Uniform Resource Names,ietf,wg
+2002,wg:/api/v1/group/group/1373/,app,1,ldup,LDAP Duplication/Replication/Update Protocols,ietf,wg
+2002,wg:/api/v1/group/group/1395/,app,1,trade,Internet Open Trading Protocol,ietf,wg
+2002,wg:/api/v1/group/group/1425/,app,1,impp,Instant Messaging and Presence Protocol,ietf,wg
+2002,wg:/api/v1/group/group/1447/,app,1,deltav,Web Versioning and Configuration Management,ietf,wg
+2002,wg:/api/v1/group/group/1506/,app,2,ldapbis,LDAP (v3) Revision,ietf,wg
+2002,wg:/api/v1/group/group/1530/,app,3,apex,Application Exchange,ietf,wg
+2002,wg:/api/v1/group/group/1531/,app,1,provreg,Provisioning Registry Protocol,ietf,wg
+2002,wg:/api/v1/group/group/949/,app,1,calsch,Calendaring and Scheduling,ietf,wg
+2002,wg:/api/v1/group/group/1138/,art,4,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2002,wg:/api/v1/group/group/990/,art,1,ediint,Electronic Data Interchange-Internet Integration,ietf,wg
+2002,wg:/api/v1/group/group/1002/,int,2,frnetmib,Frame Relay Service MIB,ietf,wg
+2002,wg:/api/v1/group/group/1090/,int,2,mobileip,IP Routing for Wireless/Mobile Hosts,ietf,wg
+2002,wg:/api/v1/group/group/1210/,int,3,pppext,Point-to-Point Protocol Extensions,ietf,wg
+2002,wg:/api/v1/group/group/1479/,int,4,dnsext,DNS Extensions,ietf,wg
+2002,wg:/api/v1/group/group/1544/,int,1,magma,Multicast & Anycast Group Membership,ietf,wg
+2002,wg:/api/v1/group/group/1547/,int,2,ipv6,IP Version 6 Working Group,ietf,wg
+2002,wg:/api/v1/group/group/988/,int,3,dhc,Dynamic Host Configuration,ietf,wg
+2002,wg:/api/v1/group/group/1007/,ops,1,grip,G & R for Security Incident Processing,ietf,wg
+2002,wg:/api/v1/group/group/1089/,ops,3,ippm,IP Performance Measurement,ietf,wg
+2002,wg:/api/v1/group/group/1174/,ops,1,ngtrans,Next Generation Transition,ietf,wg
+2002,wg:/api/v1/group/group/1237/,ops,4,rmonmib,Remote Network Monitoring,ietf,wg
+2002,wg:/api/v1/group/group/1291/,ops,9,snmpv3,SNMP Version 3,ietf,wg
+2002,wg:/api/v1/group/group/1396/,ops,1,adslmib,ADSL MIB,ietf,wg
+2002,wg:/api/v1/group/group/1452/,ops,1,dnsop,Domain Name System Operations,ietf,wg
+2002,wg:/api/v1/group/group/977/,ops,1,disman,Distributed Management,ietf,wg
+2002,wg:/api/v1/group/group/994/,ops,1,entmib,Entity MIB,ietf,wg
+2002,wg:/api/v1/group/group/1374/,rai,1,iptel,IP Telephony,ietf,wg
+2002,wg:/api/v1/group/group/1421/,rai,3,sigtran,Signaling Transport,ietf,wg
+2002,wg:/api/v1/group/group/1462/,rai,14,sip,Session Initiation Protocol,ietf,wg
+2002,wg:/api/v1/group/group/1542/,rai,4,sipping,Session Initiation Proposal Investigation,ietf,wg
+2002,wg:/api/v1/group/group/941/,rai,4,avt,Audio/Video Transport,ietf,wg
+2002,wg:/api/v1/group/group/1039/,rtg,1,idmr,Inter-Domain Multicast Routing,ietf,wg
+2002,wg:/api/v1/group/group/1041/,rtg,2,idr,Inter-Domain Routing,ietf,wg
+2002,wg:/api/v1/group/group/1102/,rtg,4,isis,IS-IS for IP Internets,ietf,wg
+2002,wg:/api/v1/group/group/1140/,rtg,6,mpls,Multiprotocol Label Switching,ietf,wg
+2002,wg:/api/v1/group/group/1469/,rtg,5,l2tpext,Layer Two Tunneling Protocol Extensions,ietf,wg
+2002,wg:/api/v1/group/group/1223/,sec,4,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2002,wg:/api/v1/group/group/1258/,sec,7,smime,S/MIME Mail Security,ietf,wg
+2002,wg:/api/v1/group/group/1326/,sec,1,tls,Transport Layer Security,ietf,wg
+2002,wg:/api/v1/group/group/1442/,sec,1,xmldsig,XML Digital Signatures,ietf,wg
+2002,wg:/api/v1/group/group/1148/,tsv,1,nat,Network Address Translators,ietf,wg
+2002,wg:/api/v1/group/group/1381/,tsv,1,malloc,Multicast-Address Allocation,ietf,wg
+2002,wg:/api/v1/group/group/1388/,tsv,6,diffserv,Differentiated Services,ietf,wg
+2002,wg:/api/v1/group/group/1427/,tsv,2,pilc,Performance Implications of Link Characteristics,ietf,wg
+2002,wg:/api/v1/group/group/1437/,tsv,5,rmt,Reliable Multicast Transport,ietf,wg
+2002,wg:/api/v1/group/group/1471/,tsv,1,spirits,Service in the PSTN/IN Requesting InTernet Service,ietf,wg
+2002,wg:/api/v1/group/group/1474/,tsv,5,rohc,Robust Header Compression,ietf,wg
+2002,wg:/api/v1/group/group/1485/,tsv,1,ips,IP Storage,ietf,wg
+2002,wg:/api/v1/group/group/1499/,tsv,1,seamoby,"Context Transfer, Handoff Candidate Discovery, and Dormant Mode Host Alerting",ietf,wg
+2002,wg:/api/v1/group/group/1504/,tsv,1,rserpool,Reliable Server Pooling,ietf,wg
+2002,wg:/api/v1/group/group/1525/,tsv,2,midcom,Middlebox Communication,ietf,wg
+2002,wg:/api/v1/group/group/1463/,wit,3,tsvwg,Transport and Services Working Group,ietf,wg
+2003,stream:iab,Other,5,iab,Internet Architecture Board,iab,ietf
+2003,stream:ietf-other,Other,34,int,Internet Area,ietf,area
+2003,stream:ise,Other,30,none,Individual Submissions,ise,individ
+2003,stream:legacy,Other,15,none,Individual Submissions,legacy,individ
+2003,wg:/api/v1/group/group/1434/,Other,2,gsmp,General Switch Management Protocol,ietf,wg
+2003,wg:/api/v1/group/group/1458/,Other,1,tewg,Internet Traffic Engineering,ietf,wg
+2003,wg:/api/v1/group/group/1062/,app,1,ipp,Internet Printing Protocol,ietf,wg
+2003,wg:/api/v1/group/group/1358/,app,1,webdav,WWW Distributed Authoring and Versioning,ietf,wg
+2003,wg:/api/v1/group/group/1395/,app,4,trade,Internet Open Trading Protocol,ietf,wg
+2003,wg:/api/v1/group/group/1451/,app,2,vpim,Voice Profile for Internet Mail,ietf,wg
+2003,wg:/api/v1/group/group/1478/,app,3,idn,Internationalized Domain Name,ietf,wg
+2003,wg:/api/v1/group/group/1519/,app,3,cdi,Content Distribution Internetworking,ietf,wg
+2003,wg:/api/v1/group/group/1530/,app,1,apex,Application Exchange,ietf,wg
+2003,wg:/api/v1/group/group/1138/,art,2,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2003,wg:/api/v1/group/group/1090/,int,2,mobileip,IP Routing for Wireless/Mobile Hosts,ietf,wg
+2003,wg:/api/v1/group/group/1210/,int,1,pppext,Point-to-Point Protocol Extensions,ietf,wg
+2003,wg:/api/v1/group/group/1479/,int,5,dnsext,DNS Extensions,ietf,wg
+2003,wg:/api/v1/group/group/1544/,int,1,magma,Multicast & Anycast Group Membership,ietf,wg
+2003,wg:/api/v1/group/group/1547/,int,7,ipv6,IP Version 6 Working Group,ietf,wg
+2003,wg:/api/v1/group/group/988/,int,7,dhc,Dynamic Host Configuration,ietf,wg
+2003,wg:/api/v1/group/group/1022/,ops,5,hubmib,Ethernet Interfaces and Hub MIB,ietf,wg
+2003,wg:/api/v1/group/group/1061/,ops,5,rap,Resource Allocation Protocol,ietf,wg
+2003,wg:/api/v1/group/group/1118/,ops,1,mboned,MBONE Deployment,ietf,wg
+2003,wg:/api/v1/group/group/1237/,ops,1,rmonmib,Remote Network Monitoring,ietf,wg
+2003,wg:/api/v1/group/group/1291/,ops,1,snmpv3,SNMP Version 3,ietf,wg
+2003,wg:/api/v1/group/group/1396/,ops,1,adslmib,ADSL MIB,ietf,wg
+2003,wg:/api/v1/group/group/1401/,ops,2,policy,Policy Framework,ietf,wg
+2003,wg:/api/v1/group/group/1408/,ops,2,aaa,"Authentication, Authorization and Accounting",ietf,wg
+2003,wg:/api/v1/group/group/1480/,ops,1,snmpconf,Configuration Management with SNMP,ietf,wg
+2003,wg:/api/v1/group/group/1526/,ops,1,multi6,Site Multihoming in IPv6,ietf,wg
+2003,wg:/api/v1/group/group/1578/,ops,1,v6ops,IPv6 Operations,ietf,wg
+2003,wg:/api/v1/group/group/940/,ops,5,atommib,AToM MIB,ietf,wg
+2003,wg:/api/v1/group/group/945/,ops,1,bmwg,Benchmarking Methodology,ietf,wg
+2003,wg:/api/v1/group/group/1413/,rai,1,enum,Telephone Number Mapping,ietf,wg
+2003,wg:/api/v1/group/group/1423/,rai,1,megaco,Media Gateway Control,ietf,wg
+2003,wg:/api/v1/group/group/1462/,rai,7,sip,Session Initiation Protocol,ietf,wg
+2003,wg:/api/v1/group/group/1542/,rai,2,sipping,Session Initiation Proposal Investigation,ietf,wg
+2003,wg:/api/v1/group/group/1556/,rai,2,ieprep,Internet Emergency Preparedness,ietf,wg
+2003,wg:/api/v1/group/group/941/,rai,10,avt,Audio/Video Transport,ietf,wg
+2003,wg:/api/v1/group/group/1041/,rtg,1,idr,Inter-Domain Routing,ietf,wg
+2003,wg:/api/v1/group/group/1102/,rtg,1,isis,IS-IS for IP Internets,ietf,wg
+2003,wg:/api/v1/group/group/1132/,rtg,2,manet,Mobile Ad-hoc Networks,ietf,wg
+2003,wg:/api/v1/group/group/1140/,rtg,8,mpls,Multiprotocol Label Switching,ietf,wg
+2003,wg:/api/v1/group/group/1188/,rtg,4,ospf,Open Shortest Path First IGP,ietf,wg
+2003,wg:/api/v1/group/group/1419/,rtg,1,msdp,Multicast Source Discovery Protocol,ietf,wg
+2003,wg:/api/v1/group/group/1469/,rtg,2,l2tpext,Layer Two Tunneling Protocol Extensions,ietf,wg
+2003,wg:/api/v1/group/group/1497/,rtg,1,ssm,Source-Specific Multicast,ietf,wg
+2003,wg:/api/v1/group/group/1518/,rtg,2,forces,Forwarding and Control Element Separation,ietf,wg
+2003,wg:/api/v1/group/group/1524/,rtg,4,ccamp,Common Control and Measurement Plane,ietf,wg
+2003,wg:/api/v1/group/group/1091/,sec,4,ipsec,IP Security Protocol,ietf,wg
+2003,wg:/api/v1/group/group/1223/,sec,2,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2003,wg:/api/v1/group/group/1258/,sec,3,smime,S/MIME Mail Security,ietf,wg
+2003,wg:/api/v1/group/group/1326/,sec,1,tls,Transport Layer Security,ietf,wg
+2003,wg:/api/v1/group/group/1420/,sec,1,idwg,Intrusion Detection Exchange Format,ietf,wg
+2003,wg:/api/v1/group/group/1436/,sec,2,ipsp,IP Security Policy,ietf,wg
+2003,wg:/api/v1/group/group/1442/,sec,1,xmldsig,XML Digital Signatures,ietf,wg
+2003,wg:/api/v1/group/group/1453/,sec,2,ipsra,IP Security Remote Access,ietf,wg
+2003,wg:/api/v1/group/group/1511/,sec,1,msec,Multicast Security,ietf,wg
+2003,wg:/api/v1/group/group/1381/,tsv,1,malloc,Multicast-Address Allocation,ietf,wg
+2003,wg:/api/v1/group/group/1388/,tsv,1,diffserv,Differentiated Services,ietf,wg
+2003,wg:/api/v1/group/group/1427/,tsv,1,pilc,Performance Implications of Link Characteristics,ietf,wg
+2003,wg:/api/v1/group/group/1474/,tsv,3,rohc,Robust Header Compression,ietf,wg
+2003,wg:/api/v1/group/group/1485/,tsv,1,ips,IP Storage,ietf,wg
+2003,wg:/api/v1/group/group/1525/,tsv,1,midcom,Middlebox Communication,ietf,wg
+2003,wg:/api/v1/group/group/1537/,tsv,1,nsis,Next Steps in Signaling,ietf,wg
+2003,wg:/api/v1/group/group/1152/,wit,1,nfsv4,Network File System Version 4,ietf,wg
+2003,wg:/api/v1/group/group/1463/,wit,5,tsvwg,Transport and Services Working Group,ietf,wg
+2004,stream:iab,Other,4,iab,Internet Architecture Board,iab,ietf
+2004,stream:ietf-other,Other,49,int,Internet Area,ietf,area
+2004,stream:ise,Other,23,gen,General Area,ise,area
+2004,wg:/api/v1/group/group/1458/,Other,1,tewg,Internet Traffic Engineering,ietf,wg
+2004,wg:/api/v1/group/group/1484/,Other,1,ipo,IP over Optical,ietf,wg
+2004,wg:/api/v1/group/group/1568/,Other,1,nomcom,Operation of the IESG/IAB Nominating and Recall Committees,ietf,wg
+2004,wg:/api/v1/group/group/1572/,Other,4,ipr,Intellectual Property Rights,ietf,wg
+2004,wg:/api/v1/group/group/1585/,Other,2,problem,Problem Statement,ietf,wg
+2004,wg:/api/v1/group/group/1054/,app,1,fax,Internet Fax,ietf,wg
+2004,wg:/api/v1/group/group/1215/,app,1,printmib,Printer MIB,ietf,wg
+2004,wg:/api/v1/group/group/1358/,app,1,webdav,WWW Distributed Authoring and Versioning,ietf,wg
+2004,wg:/api/v1/group/group/1363/,app,1,ldapext,LDAP Extension,ietf,wg
+2004,wg:/api/v1/group/group/1372/,app,4,msgtrk,Message Tracking Protocol,ietf,wg
+2004,wg:/api/v1/group/group/1373/,app,1,ldup,LDAP Duplication/Replication/Update Protocols,ietf,wg
+2004,wg:/api/v1/group/group/1395/,app,1,trade,Internet Open Trading Protocol,ietf,wg
+2004,wg:/api/v1/group/group/1425/,app,5,impp,Instant Messaging and Presence Protocol,ietf,wg
+2004,wg:/api/v1/group/group/1451/,app,5,vpim,Voice Profile for Internet Mail,ietf,wg
+2004,wg:/api/v1/group/group/1515/,app,7,opes,Open Pluggable Edge Services,ietf,wg
+2004,wg:/api/v1/group/group/1531/,app,6,provreg,Provisioning Registry Protocol,ietf,wg
+2004,wg:/api/v1/group/group/1563/,app,1,crisp,Cross Registry Information Service Protocol,ietf,wg
+2004,wg:/api/v1/group/group/1569/,app,4,xmpp-old,Extensible Messaging and Presence Protocol,ietf,wg
+2004,wg:/api/v1/group/group/1138/,art,1,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2004,wg:/api/v1/group/group/1210/,int,2,pppext,Point-to-Point Protocol Extensions,ietf,wg
+2004,wg:/api/v1/group/group/1428/,int,1,eap,Extensible Authentication Protocol,ietf,wg
+2004,wg:/api/v1/group/group/1479/,int,4,dnsext,DNS Extensions,ietf,wg
+2004,wg:/api/v1/group/group/1544/,int,2,magma,Multicast & Anycast Group Membership,ietf,wg
+2004,wg:/api/v1/group/group/1547/,int,3,ipv6,IP Version 6 Working Group,ietf,wg
+2004,wg:/api/v1/group/group/1570/,int,1,send,Securing Neighbor Discovery,ietf,wg
+2004,wg:/api/v1/group/group/1596/,int,1,mip4,Mobility for IPv4,ietf,wg
+2004,wg:/api/v1/group/group/1597/,int,2,mip6,Mobility for IPv6,ietf,wg
+2004,wg:/api/v1/group/group/988/,int,5,dhc,Dynamic Host Configuration,ietf,wg
+2004,wg:/api/v1/group/group/1089/,ops,1,ippm,IP Performance Measurement,ietf,wg
+2004,wg:/api/v1/group/group/1118/,ops,1,mboned,MBONE Deployment,ietf,wg
+2004,wg:/api/v1/group/group/1237/,ops,3,rmonmib,Remote Network Monitoring,ietf,wg
+2004,wg:/api/v1/group/group/1396/,ops,2,adslmib,ADSL MIB,ietf,wg
+2004,wg:/api/v1/group/group/1401/,ops,2,policy,Policy Framework,ietf,wg
+2004,wg:/api/v1/group/group/1452/,ops,1,dnsop,Domain Name System Operations,ietf,wg
+2004,wg:/api/v1/group/group/1480/,ops,1,snmpconf,Configuration Management with SNMP,ietf,wg
+2004,wg:/api/v1/group/group/1546/,ops,2,ipfix,IP Flow Information Export,ietf,wg
+2004,wg:/api/v1/group/group/1578/,ops,11,v6ops,IPv6 Operations,ietf,wg
+2004,wg:/api/v1/group/group/1609/,ops,1,imss,Internet and Management Support for Storage,ietf,wg
+2004,wg:/api/v1/group/group/940/,ops,2,atommib,AToM MIB,ietf,wg
+2004,wg:/api/v1/group/group/945/,ops,1,bmwg,Benchmarking Methodology,ietf,wg
+2004,wg:/api/v1/group/group/977/,ops,2,disman,Distributed Management,ietf,wg
+2004,wg:/api/v1/group/group/1374/,rai,3,iptel,IP Telephony,ietf,wg
+2004,wg:/api/v1/group/group/1413/,rai,3,enum,Telephone Number Mapping,ietf,wg
+2004,wg:/api/v1/group/group/1421/,rai,4,sigtran,Signaling Transport,ietf,wg
+2004,wg:/api/v1/group/group/1462/,rai,10,sip,Session Initiation Protocol,ietf,wg
+2004,wg:/api/v1/group/group/1527/,rai,3,simple,SIP for Instant Messaging and Presence Leveraging Extensions,ietf,wg
+2004,wg:/api/v1/group/group/1542/,rai,9,sipping,Session Initiation Proposal Investigation,ietf,wg
+2004,wg:/api/v1/group/group/1543/,rai,3,geopriv,Geographic Location/Privacy,ietf,wg
+2004,wg:/api/v1/group/group/1556/,rai,2,ieprep,Internet Emergency Preparedness,ietf,wg
+2004,wg:/api/v1/group/group/941/,rai,3,avt,Audio/Video Transport,ietf,wg
+2004,wg:/api/v1/group/group/1102/,rtg,5,isis,IS-IS for IP Internets,ietf,wg
+2004,wg:/api/v1/group/group/1132/,rtg,1,manet,Mobile Ad-hoc Networks,ietf,wg
+2004,wg:/api/v1/group/group/1140/,rtg,5,mpls,Multiprotocol Label Switching,ietf,wg
+2004,wg:/api/v1/group/group/1188/,rtg,1,ospf,Open Shortest Path First IGP,ietf,wg
+2004,wg:/api/v1/group/group/1348/,rtg,1,vrrp,Virtual Router Redundancy Protocol,ietf,wg
+2004,wg:/api/v1/group/group/1456/,rtg,1,bgmp,Border Gateway Multicast Protocol,ietf,wg
+2004,wg:/api/v1/group/group/1469/,rtg,1,l2tpext,Layer Two Tunneling Protocol Extensions,ietf,wg
+2004,wg:/api/v1/group/group/1518/,rtg,1,forces,Forwarding and Control Element Separation,ietf,wg
+2004,wg:/api/v1/group/group/1524/,rtg,2,ccamp,Common Control and Measurement Plane,ietf,wg
+2004,wg:/api/v1/group/group/1538/,rtg,1,pwe3,Pseudowire Emulation Edge to Edge,ietf,wg
+2004,wg:/api/v1/group/group/1594/,rtg,1,l3vpn,Layer 3 Virtual Private Networks,ietf,wg
+2004,wg:/api/v1/group/group/1619/,rtg,1,rtgwg,Routing Area Working Group,ietf,wg
+2004,wg:/api/v1/group/group/1091/,sec,4,ipsec,IP Security Protocol,ietf,wg
+2004,wg:/api/v1/group/group/1223/,sec,6,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2004,wg:/api/v1/group/group/1258/,sec,6,smime,S/MIME Mail Security,ietf,wg
+2004,wg:/api/v1/group/group/1326/,sec,1,tls,Transport Layer Security,ietf,wg
+2004,wg:/api/v1/group/group/1442/,sec,1,xmldsig,XML Digital Signatures,ietf,wg
+2004,wg:/api/v1/group/group/1501/,sec,2,sacred,Securely Available Credentials,ietf,wg
+2004,wg:/api/v1/group/group/1511/,sec,2,msec,Multicast Security,ietf,wg
+2004,wg:/api/v1/group/group/1427/,tsv,1,pilc,Performance Implications of Link Characteristics,ietf,wg
+2004,wg:/api/v1/group/group/1437/,tsv,5,rmt,Reliable Multicast Transport,ietf,wg
+2004,wg:/api/v1/group/group/1471/,tsv,1,spirits,Service in the PSTN/IN Requesting InTernet Service,ietf,wg
+2004,wg:/api/v1/group/group/1474/,tsv,3,rohc,Robust Header Compression,ietf,wg
+2004,wg:/api/v1/group/group/1485/,tsv,7,ips,IP Storage,ietf,wg
+2004,wg:/api/v1/group/group/1499/,tsv,1,seamoby,"Context Transfer, Handoff Candidate Discovery, and Dormant Mode Host Alerting",ietf,wg
+2004,wg:/api/v1/group/group/1537/,tsv,1,nsis,Next Steps in Signaling,ietf,wg
+2004,wg:/api/v1/group/group/1463/,wit,5,tsvwg,Transport and Services Working Group,ietf,wg
+2005,stream:iab,Other,6,iab,Internet Architecture Board,iab,ietf
+2005,stream:ietf-other,Other,66,gen,General Area,ietf,area
+2005,stream:ise,Other,19,ops,Operations and Management Area,ise,area
+2005,stream:legacy,Other,1,tewg,Internet Traffic Engineering,legacy,wg
+2005,wg:/api/v1/group/group/1458/,Other,6,tewg,Internet Traffic Engineering,ietf,wg
+2005,wg:/api/v1/group/group/1484/,Other,1,ipo,IP over Optical,ietf,wg
+2005,wg:/api/v1/group/group/1572/,Other,2,ipr,Intellectual Property Rights,ietf,wg
+2005,wg:/api/v1/group/group/1054/,app,7,fax,Internet Fax,ietf,wg
+2005,wg:/api/v1/group/group/1062/,app,4,ipp,Internet Printing Protocol,ietf,wg
+2005,wg:/api/v1/group/group/1395/,app,3,trade,Internet Open Trading Protocol,ietf,wg
+2005,wg:/api/v1/group/group/1409/,app,1,imapext,Internet Message Access Protocol Extension,ietf,wg
+2005,wg:/api/v1/group/group/1451/,app,3,vpim,Voice Profile for Internet Mail,ietf,wg
+2005,wg:/api/v1/group/group/1515/,app,2,opes,Open Pluggable Edge Services,ietf,wg
+2005,wg:/api/v1/group/group/1563/,app,3,crisp,Cross Registry Information Service Protocol,ietf,wg
+2005,wg:/api/v1/group/group/1604/,app,2,ipdvb,IP over DVB,ietf,wg
+2005,wg:/api/v1/group/group/1627/,app,1,atompub,Atom Publishing Format and Protocol,ietf,wg
+2005,wg:/api/v1/group/group/1138/,art,3,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2005,wg:/api/v1/group/group/990/,art,1,ediint,Electronic Data Interchange-Internet Integration,ietf,wg
+2005,wg:/api/v1/group/group/1428/,int,1,eap,Extensible Authentication Protocol,ietf,wg
+2005,wg:/api/v1/group/group/1461/,int,1,zeroconf,Zero Configuration Networking,ietf,wg
+2005,wg:/api/v1/group/group/1479/,int,3,dnsext,DNS Extensions,ietf,wg
+2005,wg:/api/v1/group/group/1544/,int,1,magma,Multicast & Anycast Group Membership,ietf,wg
+2005,wg:/api/v1/group/group/1547/,int,7,ipv6,IP Version 6 Working Group,ietf,wg
+2005,wg:/api/v1/group/group/1550/,int,2,pana,Protocol for carrying Authentication for Network Access,ietf,wg
+2005,wg:/api/v1/group/group/1570/,int,2,send,Securing Neighbor Discovery,ietf,wg
+2005,wg:/api/v1/group/group/1576/,int,1,nemo,Network Mobility,ietf,wg
+2005,wg:/api/v1/group/group/1596/,int,3,mip4,Mobility for IPv4,ietf,wg
+2005,wg:/api/v1/group/group/1597/,int,2,mip6,Mobility for IPv6,ietf,wg
+2005,wg:/api/v1/group/group/1598/,int,3,mipshop,"Mobility for IP: Performance, Signaling and Handoff Optimization",ietf,wg
+2005,wg:/api/v1/group/group/1607/,int,1,dna,Detecting Network Attachment,ietf,wg
+2005,wg:/api/v1/group/group/988/,int,10,dhc,Dynamic Host Configuration,ietf,wg
+2005,wg:/api/v1/group/group/1061/,ops,1,rap,Resource Allocation Protocol,ietf,wg
+2005,wg:/api/v1/group/group/1081/,ops,2,ipcdn,IP over Cable Data Network,ietf,wg
+2005,wg:/api/v1/group/group/1089/,ops,1,ippm,IP Performance Measurement,ietf,wg
+2005,wg:/api/v1/group/group/1237/,ops,2,rmonmib,Remote Network Monitoring,ietf,wg
+2005,wg:/api/v1/group/group/1396/,ops,3,adslmib,ADSL MIB,ietf,wg
+2005,wg:/api/v1/group/group/1408/,ops,4,aaa,"Authentication, Authorization and Accounting",ietf,wg
+2005,wg:/api/v1/group/group/1452/,ops,1,dnsop,Domain Name System Operations,ietf,wg
+2005,wg:/api/v1/group/group/1480/,ops,1,snmpconf,Configuration Management with SNMP,ietf,wg
+2005,wg:/api/v1/group/group/1526/,ops,4,multi6,Site Multihoming in IPv6,ietf,wg
+2005,wg:/api/v1/group/group/1578/,ops,6,v6ops,IPv6 Operations,ietf,wg
+2005,wg:/api/v1/group/group/1584/,ops,2,grow,Global Routing Operations,ietf,wg
+2005,wg:/api/v1/group/group/1600/,ops,2,capwap,Control And Provisioning of Wireless Access Points,ietf,wg
+2005,wg:/api/v1/group/group/945/,ops,4,bmwg,Benchmarking Methodology,ietf,wg
+2005,wg:/api/v1/group/group/948/,ops,2,bridge,Bridge MIB,ietf,wg
+2005,wg:/api/v1/group/group/994/,ops,2,entmib,Entity MIB,ietf,wg
+2005,wg:/api/v1/group/group/1413/,rai,3,enum,Telephone Number Mapping,ietf,wg
+2005,wg:/api/v1/group/group/1421/,rai,2,sigtran,Signaling Transport,ietf,wg
+2005,wg:/api/v1/group/group/1462/,rai,5,sip,Session Initiation Protocol,ietf,wg
+2005,wg:/api/v1/group/group/1527/,rai,1,simple,SIP for Instant Messaging and Presence Leveraging Extensions,ietf,wg
+2005,wg:/api/v1/group/group/1542/,rai,5,sipping,Session Initiation Proposal Investigation,ietf,wg
+2005,wg:/api/v1/group/group/1543/,rai,2,geopriv,Geographic Location/Privacy,ietf,wg
+2005,wg:/api/v1/group/group/1556/,rai,1,ieprep,Internet Emergency Preparedness,ietf,wg
+2005,wg:/api/v1/group/group/1566/,rai,1,speechsc,Speech Services Control,ietf,wg
+2005,wg:/api/v1/group/group/941/,rai,10,avt,Audio/Video Transport,ietf,wg
+2005,wg:/api/v1/group/group/1041/,rtg,1,idr,Inter-Domain Routing,ietf,wg
+2005,wg:/api/v1/group/group/1102/,rtg,1,isis,IS-IS for IP Internets,ietf,wg
+2005,wg:/api/v1/group/group/1140/,rtg,8,mpls,Multiprotocol Label Switching,ietf,wg
+2005,wg:/api/v1/group/group/1188/,rtg,3,ospf,Open Shortest Path First IGP,ietf,wg
+2005,wg:/api/v1/group/group/1397/,rtg,1,pim,Protocols for IP Multicast,ietf,wg
+2005,wg:/api/v1/group/group/1469/,rtg,2,l2tpext,Layer Two Tunneling Protocol Extensions,ietf,wg
+2005,wg:/api/v1/group/group/1524/,rtg,10,ccamp,Common Control and Measurement Plane,ietf,wg
+2005,wg:/api/v1/group/group/1538/,rtg,2,pwe3,Pseudowire Emulation Edge to Edge,ietf,wg
+2005,wg:/api/v1/group/group/1594/,rtg,6,l3vpn,Layer 3 Virtual Private Networks,ietf,wg
+2005,wg:/api/v1/group/group/1091/,sec,12,ipsec,IP Security Protocol,ietf,wg
+2005,wg:/api/v1/group/group/1223/,sec,7,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2005,wg:/api/v1/group/group/1258/,sec,4,smime,S/MIME Mail Security,ietf,wg
+2005,wg:/api/v1/group/group/1326/,sec,2,tls,Transport Layer Security,ietf,wg
+2005,wg:/api/v1/group/group/1496/,sec,4,krb-wg,Kerberos,ietf,wg
+2005,wg:/api/v1/group/group/1511/,sec,2,msec,Multicast Security,ietf,wg
+2005,wg:/api/v1/group/group/1545/,sec,1,sasl,Simple Authentication and Security Layer,ietf,wg
+2005,wg:/api/v1/group/group/1580/,sec,1,ipseckey,IPSEC KEYing information resource record,ietf,wg
+2005,wg:/api/v1/group/group/1612/,sec,1,radext,RADIUS EXTensions,ietf,wg
+2005,wg:/api/v1/group/group/1634/,sec,1,kitten,Common Authentication Technology Next Generation,ietf,wg
+2005,wg:/api/v1/group/group/1148/,tsv,1,nat,Network Address Translators,ietf,wg
+2005,wg:/api/v1/group/group/1474/,tsv,4,rohc,Robust Header Compression,ietf,wg
+2005,wg:/api/v1/group/group/1485/,tsv,6,ips,IP Storage,ietf,wg
+2005,wg:/api/v1/group/group/1499/,tsv,3,seamoby,"Context Transfer, Handoff Candidate Discovery, and Dormant Mode Host Alerting",ietf,wg
+2005,wg:/api/v1/group/group/1525/,tsv,2,midcom,Middlebox Communication,ietf,wg
+2005,wg:/api/v1/group/group/1537/,tsv,4,nsis,Next Steps in Signaling,ietf,wg
+2005,wg:/api/v1/group/group/1573/,tsv,2,rddp,Remote Direct Data Placement,ietf,wg
+2005,wg:/api/v1/group/group/1463/,wit,1,tsvwg,Transport and Services Working Group,ietf,wg
+2005,wg:/api/v1/group/group/1620/,wit,1,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2006,stream:iab,Other,7,iab,Internet Architecture Board,iab,ietf
+2006,stream:ietf-other,Other,102,app,Applications Area,ietf,area
+2006,stream:ise,Other,18,int,Internet Area,ise,area
+2006,wg:/api/v1/group/group/1572/,Other,1,ipr,Intellectual Property Rights,ietf,wg
+2006,wg:/api/v1/group/group/1614/,Other,1,newtrk,New IETF Standards Track Discussion,ietf,wg
+2006,wg:/api/v1/group/group/1176/,app,4,nntpext,NNTP Extensions,ietf,wg
+2006,wg:/api/v1/group/group/1358/,app,2,webdav,WWW Distributed Authoring and Versioning,ietf,wg
+2006,wg:/api/v1/group/group/1409/,app,1,imapext,Internet Message Access Protocol Extension,ietf,wg
+2006,wg:/api/v1/group/group/1506/,app,11,ldapbis,LDAP (v3) Revision,ietf,wg
+2006,wg:/api/v1/group/group/1515/,app,1,opes,Open Pluggable Edge Services,ietf,wg
+2006,wg:/api/v1/group/group/1563/,app,1,crisp,Cross Registry Information Service Protocol,ietf,wg
+2006,wg:/api/v1/group/group/1581/,app,6,lemonade,Enhancements to Internet email to Support Diverse Service Environments,ietf,wg
+2006,wg:/api/v1/group/group/1655/,app,3,ltru,Language Tag Registry Update,ietf,wg
+2006,wg:/api/v1/group/group/1138/,art,10,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2006,wg:/api/v1/group/group/1671/,art,1,dkim,Domain Keys Identified Mail,ietf,wg
+2006,wg:/api/v1/group/group/1210/,int,1,pppext,Point-to-Point Protocol Extensions,ietf,wg
+2006,wg:/api/v1/group/group/1479/,int,8,dnsext,DNS Extensions,ietf,wg
+2006,wg:/api/v1/group/group/1539/,int,4,ipoib,IP over InfiniBand,ietf,wg
+2006,wg:/api/v1/group/group/1544/,int,3,magma,Multicast & Anycast Group Membership,ietf,wg
+2006,wg:/api/v1/group/group/1547/,int,9,ipv6,IP Version 6 Working Group,ietf,wg
+2006,wg:/api/v1/group/group/1596/,int,2,mip4,Mobility for IPv4,ietf,wg
+2006,wg:/api/v1/group/group/1597/,int,6,mip6,Mobility for IPv6,ietf,wg
+2006,wg:/api/v1/group/group/1626/,int,1,hip,Host Identity Protocol,ietf,wg
+2006,wg:/api/v1/group/group/988/,int,10,dhc,Dynamic Host Configuration,ietf,wg
+2006,wg:/api/v1/group/group/1081/,ops,5,ipcdn,IP over Cable Data Network,ietf,wg
+2006,wg:/api/v1/group/group/1089/,ops,2,ippm,IP Performance Measurement,ietf,wg
+2006,wg:/api/v1/group/group/1118/,ops,4,mboned,MBONE Deployment,ietf,wg
+2006,wg:/api/v1/group/group/1237/,ops,4,rmonmib,Remote Network Monitoring,ietf,wg
+2006,wg:/api/v1/group/group/1396/,ops,1,adslmib,ADSL MIB,ietf,wg
+2006,wg:/api/v1/group/group/1408/,ops,1,aaa,"Authentication, Authorization and Accounting",ietf,wg
+2006,wg:/api/v1/group/group/1452/,ops,4,dnsop,Domain Name System Operations,ietf,wg
+2006,wg:/api/v1/group/group/1575/,ops,4,netconf,Network Configuration,ietf,wg
+2006,wg:/api/v1/group/group/1578/,ops,1,v6ops,IPv6 Operations,ietf,wg
+2006,wg:/api/v1/group/group/1584/,ops,4,grow,Global Routing Operations,ietf,wg
+2006,wg:/api/v1/group/group/1600/,ops,2,capwap,Control And Provisioning of Wireless Access Points,ietf,wg
+2006,wg:/api/v1/group/group/1609/,ops,6,imss,Internet and Management Support for Storage,ietf,wg
+2006,wg:/api/v1/group/group/945/,ops,1,bmwg,Benchmarking Methodology,ietf,wg
+2006,wg:/api/v1/group/group/948/,ops,1,bridge,Bridge MIB,ietf,wg
+2006,wg:/api/v1/group/group/977/,ops,1,disman,Distributed Management,ietf,wg
+2006,wg:/api/v1/group/group/1374/,rai,2,iptel,IP Telephony,ietf,wg
+2006,wg:/api/v1/group/group/1413/,rai,5,enum,Telephone Number Mapping,ietf,wg
+2006,wg:/api/v1/group/group/1421/,rai,3,sigtran,Signaling Transport,ietf,wg
+2006,wg:/api/v1/group/group/1462/,rai,9,sip,Session Initiation Protocol,ietf,wg
+2006,wg:/api/v1/group/group/1527/,rai,7,simple,SIP for Instant Messaging and Presence Leveraging Extensions,ietf,wg
+2006,wg:/api/v1/group/group/1542/,rai,11,sipping,Session Initiation Proposal Investigation,ietf,wg
+2006,wg:/api/v1/group/group/1543/,rai,3,geopriv,Geographic Location/Privacy,ietf,wg
+2006,wg:/api/v1/group/group/1556/,rai,1,ieprep,Internet Emergency Preparedness,ietf,wg
+2006,wg:/api/v1/group/group/1601/,rai,3,xcon,Centralized Conferencing,ietf,wg
+2006,wg:/api/v1/group/group/941/,rai,18,avt,Audio/Video Transport,ietf,wg
+2006,wg:/api/v1/group/group/1041/,rtg,10,idr,Inter-Domain Routing,ietf,wg
+2006,wg:/api/v1/group/group/1102/,rtg,1,isis,IS-IS for IP Internets,ietf,wg
+2006,wg:/api/v1/group/group/1140/,rtg,8,mpls,Multiprotocol Label Switching,ietf,wg
+2006,wg:/api/v1/group/group/1188/,rtg,3,ospf,Open Shortest Path First IGP,ietf,wg
+2006,wg:/api/v1/group/group/1397/,rtg,3,pim,Protocols for IP Multicast,ietf,wg
+2006,wg:/api/v1/group/group/1469/,rtg,5,l2tpext,Layer Two Tunneling Protocol Extensions,ietf,wg
+2006,wg:/api/v1/group/group/1497/,rtg,1,ssm,Source-Specific Multicast,ietf,wg
+2006,wg:/api/v1/group/group/1524/,rtg,14,ccamp,Common Control and Measurement Plane,ietf,wg
+2006,wg:/api/v1/group/group/1538/,rtg,10,pwe3,Pseudowire Emulation Edge to Edge,ietf,wg
+2006,wg:/api/v1/group/group/1567/,rtg,1,rpsec,Routing Protocol Security Requirements,ietf,wg
+2006,wg:/api/v1/group/group/1593/,rtg,2,l2vpn,Layer 2 Virtual Private Networks,ietf,wg
+2006,wg:/api/v1/group/group/1594/,rtg,6,l3vpn,Layer 3 Virtual Private Networks,ietf,wg
+2006,wg:/api/v1/group/group/1630/,rtg,3,pce,Path Computation Element,ietf,wg
+2006,wg:/api/v1/group/group/1223/,sec,7,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2006,wg:/api/v1/group/group/1258/,sec,1,smime,S/MIME Mail Security,ietf,wg
+2006,wg:/api/v1/group/group/1259/,sec,12,secsh,Secure Shell,ietf,wg
+2006,wg:/api/v1/group/group/1326/,sec,3,tls,Transport Layer Security,ietf,wg
+2006,wg:/api/v1/group/group/1496/,sec,3,krb-wg,Kerberos,ietf,wg
+2006,wg:/api/v1/group/group/1510/,sec,1,kink,Kerberized Internet Negotiation of Keys,ietf,wg
+2006,wg:/api/v1/group/group/1511/,sec,8,msec,Multicast Security,ietf,wg
+2006,wg:/api/v1/group/group/1545/,sec,4,sasl,Simple Authentication and Security Layer,ietf,wg
+2006,wg:/api/v1/group/group/1612/,sec,9,radext,RADIUS EXTensions,ietf,wg
+2006,wg:/api/v1/group/group/1617/,sec,2,mobike,IKEv2 Mobility and Multihoming,ietf,wg
+2006,wg:/api/v1/group/group/1634/,sec,3,kitten,Common Authentication Technology Next Generation,ietf,wg
+2006,wg:/api/v1/group/group/1437/,tsv,1,rmt,Reliable Multicast Transport,ietf,wg
+2006,wg:/api/v1/group/group/1474/,tsv,5,rohc,Robust Header Compression,ietf,wg
+2006,wg:/api/v1/group/group/1485/,tsv,5,ips,IP Storage,ietf,wg
+2006,wg:/api/v1/group/group/1571/,tsv,4,dccp,Datagram Congestion Control Protocol,ietf,wg
+2006,wg:/api/v1/group/group/1152/,wit,1,nfsv4,Network File System Version 4,ietf,wg
+2006,wg:/api/v1/group/group/1463/,wit,5,tsvwg,Transport and Services Working Group,ietf,wg
+2006,wg:/api/v1/group/group/1620/,wit,2,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2007,rg:/api/v1/group/group/32/,Other,2,dtnrg,Delay-Tolerant Networking,irtf,rg
+2007,rg:/api/v1/group/group/37/,Other,1,mobopts,IP Mobility Optimizations Research Group,irtf,rg
+2007,stream:iab,Other,9,iab,Internet Architecture Board,iab,ietf
+2007,stream:ietf-other,Other,76,gen,General Area,ietf,area
+2007,stream:ise,Other,13,int,Internet Area,ise,area
+2007,wg:/api/v1/group/group/1572/,Other,1,ipr,Intellectual Property Rights,ietf,wg
+2007,wg:/api/v1/group/group/1358/,app,1,webdav,WWW Distributed Authoring and Versioning,ietf,wg
+2007,wg:/api/v1/group/group/1515/,app,1,opes,Open Pluggable Edge Services,ietf,wg
+2007,wg:/api/v1/group/group/1563/,app,3,crisp,Cross Registry Information Service Protocol,ietf,wg
+2007,wg:/api/v1/group/group/1581/,app,3,lemonade,Enhancements to Internet email to Support Diverse Service Environments,ietf,wg
+2007,wg:/api/v1/group/group/1604/,app,1,ipdvb,IP over DVB,ietf,wg
+2007,wg:/api/v1/group/group/1611/,app,2,ltans,Long-Term Archive and Notary Services,ietf,wg
+2007,wg:/api/v1/group/group/1627/,app,1,atompub,Atom Publishing Format and Protocol,ietf,wg
+2007,wg:/api/v1/group/group/1686/,app,1,eai,Email Address Internationalization,ietf,wg
+2007,wg:/api/v1/group/group/998/,app,1,ftpext,Extensions to FTP,ietf,wg
+2007,wg:/api/v1/group/group/1138/,art,2,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2007,wg:/api/v1/group/group/1671/,art,2,dkim,Domain Keys Identified Mail,ietf,wg
+2007,wg:/api/v1/group/group/990/,art,1,ediint,Electronic Data Interchange-Internet Integration,ietf,wg
+2007,wg:/api/v1/group/group/1479/,int,6,dnsext,DNS Extensions,ietf,wg
+2007,wg:/api/v1/group/group/1547/,int,6,ipv6,IP Version 6 Working Group,ietf,wg
+2007,wg:/api/v1/group/group/1576/,int,6,nemo,Network Mobility,ietf,wg
+2007,wg:/api/v1/group/group/1596/,int,6,mip4,Mobility for IPv4,ietf,wg
+2007,wg:/api/v1/group/group/1597/,int,6,mip6,Mobility for IPv6,ietf,wg
+2007,wg:/api/v1/group/group/1598/,int,1,mipshop,"Mobility for IP: Performance, Signaling and Handoff Optimization",ietf,wg
+2007,wg:/api/v1/group/group/1607/,int,1,dna,Detecting Network Attachment,ietf,wg
+2007,wg:/api/v1/group/group/1639/,int,2,6lowpan,IPv6 over Low power WPAN,ietf,wg
+2007,wg:/api/v1/group/group/1664/,int,3,netlmm,Network-based Localized Mobility Management,ietf,wg
+2007,wg:/api/v1/group/group/1675/,int,1,16ng,IP over IEEE 802.16 Networks,ietf,wg
+2007,wg:/api/v1/group/group/1678/,int,1,softwire,Softwires,ietf,wg
+2007,wg:/api/v1/group/group/988/,int,5,dhc,Dynamic Host Configuration,ietf,wg
+2007,wg:/api/v1/group/group/1022/,ops,4,hubmib,Ethernet Interfaces and Hub MIB,ietf,wg
+2007,wg:/api/v1/group/group/1118/,ops,1,mboned,MBONE Deployment,ietf,wg
+2007,wg:/api/v1/group/group/1452/,ops,1,dnsop,Domain Name System Operations,ietf,wg
+2007,wg:/api/v1/group/group/1578/,ops,8,v6ops,IPv6 Operations,ietf,wg
+2007,wg:/api/v1/group/group/1599/,ops,1,opsec,Operational Security Capabilities for IP Network Infrastructure,ietf,wg
+2007,wg:/api/v1/group/group/1609/,ops,3,imss,Internet and Management Support for Storage,ietf,wg
+2007,wg:/api/v1/group/group/945/,ops,2,bmwg,Benchmarking Methodology,ietf,wg
+2007,wg:/api/v1/group/group/1374/,rai,1,iptel,IP Telephony,ietf,wg
+2007,wg:/api/v1/group/group/1413/,rai,6,enum,Telephone Number Mapping,ietf,wg
+2007,wg:/api/v1/group/group/1421/,rai,1,sigtran,Signaling Transport,ietf,wg
+2007,wg:/api/v1/group/group/1462/,rai,3,sip,Session Initiation Protocol,ietf,wg
+2007,wg:/api/v1/group/group/1527/,rai,6,simple,SIP for Instant Messaging and Presence Leveraging Extensions,ietf,wg
+2007,wg:/api/v1/group/group/1542/,rai,1,sipping,Session Initiation Proposal Investigation,ietf,wg
+2007,wg:/api/v1/group/group/1543/,rai,1,geopriv,Geographic Location/Privacy,ietf,wg
+2007,wg:/api/v1/group/group/1556/,rai,1,ieprep,Internet Emergency Preparedness,ietf,wg
+2007,wg:/api/v1/group/group/1601/,rai,1,xcon,Centralized Conferencing,ietf,wg
+2007,wg:/api/v1/group/group/941/,rai,8,avt,Audio/Video Transport,ietf,wg
+2007,wg:/api/v1/group/group/1041/,rtg,6,idr,Inter-Domain Routing,ietf,wg
+2007,wg:/api/v1/group/group/1102/,rtg,2,isis,IS-IS for IP Internets,ietf,wg
+2007,wg:/api/v1/group/group/1132/,rtg,1,manet,Mobile Ad-hoc Networks,ietf,wg
+2007,wg:/api/v1/group/group/1140/,rtg,9,mpls,Multiprotocol Label Switching,ietf,wg
+2007,wg:/api/v1/group/group/1188/,rtg,3,ospf,Open Shortest Path First IGP,ietf,wg
+2007,wg:/api/v1/group/group/1397/,rtg,1,pim,Protocols for IP Multicast,ietf,wg
+2007,wg:/api/v1/group/group/1469/,rtg,1,l2tpext,Layer Two Tunneling Protocol Extensions,ietf,wg
+2007,wg:/api/v1/group/group/1524/,rtg,12,ccamp,Common Control and Measurement Plane,ietf,wg
+2007,wg:/api/v1/group/group/1538/,rtg,7,pwe3,Pseudowire Emulation Edge to Edge,ietf,wg
+2007,wg:/api/v1/group/group/1593/,rtg,2,l2vpn,Layer 2 Virtual Private Networks,ietf,wg
+2007,wg:/api/v1/group/group/1594/,rtg,2,l3vpn,Layer 3 Virtual Private Networks,ietf,wg
+2007,wg:/api/v1/group/group/1619/,rtg,1,rtgwg,Routing Area Working Group,ietf,wg
+2007,wg:/api/v1/group/group/1630/,rtg,1,pce,Path Computation Element,ietf,wg
+2007,wg:/api/v1/group/group/1656/,rtg,1,l1vpn,Layer 1 Virtual Private Networks,ietf,wg
+2007,wg:/api/v1/group/group/1223/,sec,3,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2007,wg:/api/v1/group/group/1258/,sec,4,smime,S/MIME Mail Security,ietf,wg
+2007,wg:/api/v1/group/group/1259/,sec,1,secsh,Secure Shell,ietf,wg
+2007,wg:/api/v1/group/group/1326/,sec,3,tls,Transport Layer Security,ietf,wg
+2007,wg:/api/v1/group/group/1365/,sec,1,openpgp,Open Specification for Pretty Good Privacy,ietf,wg
+2007,wg:/api/v1/group/group/1420/,sec,3,idwg,Intrusion Detection Exchange Format,ietf,wg
+2007,wg:/api/v1/group/group/1496/,sec,1,krb-wg,Kerberos,ietf,wg
+2007,wg:/api/v1/group/group/1548/,sec,1,inch,Extended Incident Handling,ietf,wg
+2007,wg:/api/v1/group/group/1612/,sec,3,radext,RADIUS EXTensions,ietf,wg
+2007,wg:/api/v1/group/group/1613/,sec,2,pki4ipsec,Profiling Use of PKI in IPSEC,ietf,wg
+2007,wg:/api/v1/group/group/1437/,tsv,2,rmt,Reliable Multicast Transport,ietf,wg
+2007,wg:/api/v1/group/group/1474/,tsv,6,rohc,Robust Header Compression,ietf,wg
+2007,wg:/api/v1/group/group/1485/,tsv,5,ips,IP Storage,ietf,wg
+2007,wg:/api/v1/group/group/1571/,tsv,1,dccp,Datagram Congestion Control Protocol,ietf,wg
+2007,wg:/api/v1/group/group/1573/,tsv,6,rddp,Remote Direct Data Placement,ietf,wg
+2007,wg:/api/v1/group/group/1608/,tsv,1,pmtud,Path MTU Discovery,ietf,wg
+2007,wg:/api/v1/group/group/1632/,tsv,1,behave,Behavior Engineering for Hindrance Avoidance,ietf,wg
+2007,wg:/api/v1/group/group/1463/,wit,11,tsvwg,Transport and Services Working Group,ietf,wg
+2007,wg:/api/v1/group/group/1620/,wit,2,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2008,rg:/api/v1/group/group/32/,Other,3,dtnrg,Delay-Tolerant Networking,irtf,rg
+2008,rg:/api/v1/group/group/35/,Other,1,hiprg,Host Identity Protocol,irtf,rg
+2008,rg:/api/v1/group/group/37/,Other,1,mobopts,IP Mobility Optimizations Research Group,irtf,rg
+2008,rg:/api/v1/group/group/38/,Other,1,nmrg,Network Management,irtf,rg
+2008,rg:/api/v1/group/group/45/,Other,1,tmrg,Transport Modeling Research Group,irtf,rg
+2008,stream:iab,Other,1,iab,Internet Architecture Board,iab,ietf
+2008,stream:ietf-other,Other,52,gen,General Area,ietf,area
+2008,stream:ise,Other,11,tsv,Transport Area,ise,area
+2008,wg:/api/v1/group/group/1572/,Other,2,ipr,Intellectual Property Rights,ietf,wg
+2008,wg:/api/v1/group/group/1389/,app,9,sieve,Sieve Mail Filtering Language,ietf,wg
+2008,wg:/api/v1/group/group/1409/,app,4,imapext,Internet Message Access Protocol Extension,ietf,wg
+2008,wg:/api/v1/group/group/1563/,app,1,crisp,Cross Registry Information Service Protocol,ietf,wg
+2008,wg:/api/v1/group/group/1581/,app,3,lemonade,Enhancements to Internet email to Support Diverse Service Environments,ietf,wg
+2008,wg:/api/v1/group/group/1604/,app,1,ipdvb,IP over DVB,ietf,wg
+2008,wg:/api/v1/group/group/1611/,app,1,ltans,Long-Term Archive and Notary Services,ietf,wg
+2008,wg:/api/v1/group/group/1686/,app,3,eai,Email Address Internationalization,ietf,wg
+2008,wg:/api/v1/group/group/1643/,art,5,ecrit,Emergency Context Resolution with Internet Technologies,ietf,wg
+2008,wg:/api/v1/group/group/1428/,int,2,eap,Extensible Authentication Protocol,ietf,wg
+2008,wg:/api/v1/group/group/1479/,int,2,dnsext,DNS Extensions,ietf,wg
+2008,wg:/api/v1/group/group/1544/,int,1,magma,Multicast & Anycast Group Membership,ietf,wg
+2008,wg:/api/v1/group/group/1547/,int,1,ipv6,IP Version 6 Working Group,ietf,wg
+2008,wg:/api/v1/group/group/1550/,int,2,pana,Protocol for carrying Authentication for Network Access,ietf,wg
+2008,wg:/api/v1/group/group/1596/,int,3,mip4,Mobility for IPv4,ietf,wg
+2008,wg:/api/v1/group/group/1597/,int,1,mip6,Mobility for IPv6,ietf,wg
+2008,wg:/api/v1/group/group/1598/,int,6,mipshop,"Mobility for IP: Performance, Signaling and Handoff Optimization",ietf,wg
+2008,wg:/api/v1/group/group/1626/,int,7,hip,Host Identity Protocol,ietf,wg
+2008,wg:/api/v1/group/group/1664/,int,1,netlmm,Network-based Localized Mobility Management,ietf,wg
+2008,wg:/api/v1/group/group/1675/,int,2,16ng,IP over IEEE 802.16 Networks,ietf,wg
+2008,wg:/api/v1/group/group/1723/,int,1,6man,IPv6 Maintenance,ietf,wg
+2008,wg:/api/v1/group/group/988/,int,2,dhc,Dynamic Host Configuration,ietf,wg
+2008,wg:/api/v1/group/group/1081/,ops,1,ipcdn,IP over Cable Data Network,ietf,wg
+2008,wg:/api/v1/group/group/1089/,ops,3,ippm,IP Performance Measurement,ietf,wg
+2008,wg:/api/v1/group/group/1118/,ops,1,mboned,MBONE Deployment,ietf,wg
+2008,wg:/api/v1/group/group/1452/,ops,1,dnsop,Domain Name System Operations,ietf,wg
+2008,wg:/api/v1/group/group/1546/,ops,4,ipfix,IP Flow Information Export,ietf,wg
+2008,wg:/api/v1/group/group/1575/,ops,1,netconf,Network Configuration,ietf,wg
+2008,wg:/api/v1/group/group/1578/,ops,6,v6ops,IPv6 Operations,ietf,wg
+2008,wg:/api/v1/group/group/1609/,ops,1,imss,Internet and Management Support for Storage,ietf,wg
+2008,wg:/api/v1/group/group/1714/,ops,1,opsawg,Operations and Management Area Working Group,ietf,wg
+2008,wg:/api/v1/group/group/945/,ops,1,bmwg,Benchmarking Methodology,ietf,wg
+2008,wg:/api/v1/group/group/1374/,rai,2,iptel,IP Telephony,ietf,wg
+2008,wg:/api/v1/group/group/1413/,rai,2,enum,Telephone Number Mapping,ietf,wg
+2008,wg:/api/v1/group/group/1462/,rai,7,sip,Session Initiation Protocol,ietf,wg
+2008,wg:/api/v1/group/group/1527/,rai,5,simple,SIP for Instant Messaging and Presence Leveraging Extensions,ietf,wg
+2008,wg:/api/v1/group/group/1542/,rai,12,sipping,Session Initiation Proposal Investigation,ietf,wg
+2008,wg:/api/v1/group/group/1543/,rai,1,geopriv,Geographic Location/Privacy,ietf,wg
+2008,wg:/api/v1/group/group/1601/,rai,1,xcon,Centralized Conferencing,ietf,wg
+2008,wg:/api/v1/group/group/1685/,rai,1,speermint,Session PEERing for Multimedia INTerconnect,ietf,wg
+2008,wg:/api/v1/group/group/1702/,rai,1,mediactrl,Media Server Control,ietf,wg
+2008,wg:/api/v1/group/group/941/,rai,11,avt,Audio/Video Transport,ietf,wg
+2008,wg:/api/v1/group/group/1041/,rtg,4,idr,Inter-Domain Routing,ietf,wg
+2008,wg:/api/v1/group/group/1102/,rtg,11,isis,IS-IS for IP Internets,ietf,wg
+2008,wg:/api/v1/group/group/1132/,rtg,1,manet,Mobile Ad-hoc Networks,ietf,wg
+2008,wg:/api/v1/group/group/1140/,rtg,4,mpls,Multiprotocol Label Switching,ietf,wg
+2008,wg:/api/v1/group/group/1188/,rtg,6,ospf,Open Shortest Path First IGP,ietf,wg
+2008,wg:/api/v1/group/group/1397/,rtg,5,pim,Protocols for IP Multicast,ietf,wg
+2008,wg:/api/v1/group/group/1524/,rtg,9,ccamp,Common Control and Measurement Plane,ietf,wg
+2008,wg:/api/v1/group/group/1538/,rtg,2,pwe3,Pseudowire Emulation Edge to Edge,ietf,wg
+2008,wg:/api/v1/group/group/1619/,rtg,1,rtgwg,Routing Area Working Group,ietf,wg
+2008,wg:/api/v1/group/group/1630/,rtg,4,pce,Path Computation Element,ietf,wg
+2008,wg:/api/v1/group/group/1656/,rtg,4,l1vpn,Layer 1 Virtual Private Networks,ietf,wg
+2008,wg:/api/v1/group/group/1223/,sec,4,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2008,wg:/api/v1/group/group/1258/,sec,2,smime,S/MIME Mail Security,ietf,wg
+2008,wg:/api/v1/group/group/1326/,sec,3,tls,Transport Layer Security,ietf,wg
+2008,wg:/api/v1/group/group/1496/,sec,1,krb-wg,Kerberos,ietf,wg
+2008,wg:/api/v1/group/group/1511/,sec,2,msec,Multicast Security,ietf,wg
+2008,wg:/api/v1/group/group/1612/,sec,2,radext,RADIUS EXTensions,ietf,wg
+2008,wg:/api/v1/group/group/1634/,sec,2,kitten,Common Authentication Technology Next Generation,ietf,wg
+2008,wg:/api/v1/group/group/1641/,sec,2,btns,Better-Than-Nothing Security,ietf,wg
+2008,wg:/api/v1/group/group/1674/,sec,1,emu,EAP Method Update,ietf,wg
+2008,wg:/api/v1/group/group/1688/,sec,1,nea,Network Endpoint Assessment,ietf,wg
+2008,wg:/api/v1/group/group/1700/,sec,3,hokey,Handover Keying,ietf,wg
+2008,wg:/api/v1/group/group/1437/,tsv,2,rmt,Reliable Multicast Transport,ietf,wg
+2008,wg:/api/v1/group/group/1474/,tsv,1,rohc,Robust Header Compression,ietf,wg
+2008,wg:/api/v1/group/group/1504/,tsv,6,rserpool,Reliable Server Pooling,ietf,wg
+2008,wg:/api/v1/group/group/1525/,tsv,2,midcom,Middlebox Communication,ietf,wg
+2008,wg:/api/v1/group/group/1571/,tsv,2,dccp,Datagram Congestion Control Protocol,ietf,wg
+2008,wg:/api/v1/group/group/1632/,tsv,4,behave,Behavior Engineering for Hindrance Avoidance,ietf,wg
+2008,wg:/api/v1/group/group/1463/,wit,5,tsvwg,Transport and Services Working Group,ietf,wg
+2009,stream:iab,Other,7,iab,Internet Architecture Board,iab,ietf
+2009,stream:ietf-other,Other,48,gen,General Area,ietf,area
+2009,stream:irtf,Other,1,none,Individual Submissions,irtf,individ
+2009,stream:ise,Other,4,none,Individual Submissions,ise,individ
+2009,wg:/api/v1/group/group/1368/,app,2,usefor,Usenet Article Standard Update,ietf,wg
+2009,wg:/api/v1/group/group/1389/,app,7,sieve,Sieve Mail Filtering Language,ietf,wg
+2009,wg:/api/v1/group/group/1581/,app,8,lemonade,Enhancements to Internet email to Support Diverse Service Environments,ietf,wg
+2009,wg:/api/v1/group/group/1604/,app,1,ipdvb,IP over DVB,ietf,wg
+2009,wg:/api/v1/group/group/1611/,app,1,ltans,Long-Term Archive and Notary Services,ietf,wg
+2009,wg:/api/v1/group/group/1633/,app,4,isms,Integrated Security Model for SNMP,ietf,wg
+2009,wg:/api/v1/group/group/1648/,app,2,calsify,Calendaring and Scheduling Standards Simplification,ietf,wg
+2009,wg:/api/v1/group/group/1655/,app,2,ltru,Language Tag Registry Update,ietf,wg
+2009,wg:/api/v1/group/group/1686/,app,1,eai,Email Address Internationalization,ietf,wg
+2009,wg:/api/v1/group/group/1721/,app,1,vcarddav,vCard and CardDAV,ietf,wg
+2009,wg:/api/v1/group/group/1138/,art,4,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2009,wg:/api/v1/group/group/1643/,art,1,ecrit,Emergency Context Resolution with Internet Technologies,ietf,wg
+2009,wg:/api/v1/group/group/1671/,art,3,dkim,Domain Keys Identified Mail,ietf,wg
+2009,wg:/api/v1/group/group/1479/,int,3,dnsext,DNS Extensions,ietf,wg
+2009,wg:/api/v1/group/group/1544/,int,1,magma,Multicast & Anycast Group Membership,ietf,wg
+2009,wg:/api/v1/group/group/1550/,int,1,pana,Protocol for carrying Authentication for Network Access,ietf,wg
+2009,wg:/api/v1/group/group/1596/,int,1,mip4,Mobility for IPv4,ietf,wg
+2009,wg:/api/v1/group/group/1597/,int,1,mip6,Mobility for IPv6,ietf,wg
+2009,wg:/api/v1/group/group/1598/,int,4,mipshop,"Mobility for IP: Performance, Signaling and Handoff Optimization",ietf,wg
+2009,wg:/api/v1/group/group/1646/,int,3,shim6,Site Multihoming by IPv6 Intermediation,ietf,wg
+2009,wg:/api/v1/group/group/1675/,int,1,16ng,IP over IEEE 802.16 Networks,ietf,wg
+2009,wg:/api/v1/group/group/1678/,int,8,softwire,Softwires,ietf,wg
+2009,wg:/api/v1/group/group/1720/,int,5,mext,Mobility EXTensions for IPv6,ietf,wg
+2009,wg:/api/v1/group/group/1723/,int,2,6man,IPv6 Maintenance,ietf,wg
+2009,wg:/api/v1/group/group/988/,int,1,dhc,Dynamic Host Configuration,ietf,wg
+2009,wg:/api/v1/group/group/1081/,ops,1,ipcdn,IP over Cable Data Network,ietf,wg
+2009,wg:/api/v1/group/group/1089/,ops,4,ippm,IP Performance Measurement,ietf,wg
+2009,wg:/api/v1/group/group/1396/,ops,1,adslmib,ADSL MIB,ietf,wg
+2009,wg:/api/v1/group/group/1546/,ops,6,ipfix,IP Flow Information Export,ietf,wg
+2009,wg:/api/v1/group/group/1564/,ops,4,psamp,Packet Sampling,ietf,wg
+2009,wg:/api/v1/group/group/1575/,ops,2,netconf,Network Configuration,ietf,wg
+2009,wg:/api/v1/group/group/1599/,ops,1,opsec,Operational Security Capabilities for IP Network Infrastructure,ietf,wg
+2009,wg:/api/v1/group/group/1600/,ops,4,capwap,Control And Provisioning of Wireless Access Points,ietf,wg
+2009,wg:/api/v1/group/group/1682/,ops,3,dime,Diameter Maintenance and Extensions,ietf,wg
+2009,wg:/api/v1/group/group/1714/,ops,4,opsawg,Operations and Management Area Working Group,ietf,wg
+2009,wg:/api/v1/group/group/1744/,ops,1,alto,Application-Layer Traffic Optimization,ietf,wg
+2009,wg:/api/v1/group/group/945/,ops,1,bmwg,Benchmarking Methodology,ietf,wg
+2009,wg:/api/v1/group/group/1413/,rai,4,enum,Telephone Number Mapping,ietf,wg
+2009,wg:/api/v1/group/group/1462/,rai,8,sip,Session Initiation Protocol,ietf,wg
+2009,wg:/api/v1/group/group/1527/,rai,1,simple,SIP for Instant Messaging and Presence Leveraging Extensions,ietf,wg
+2009,wg:/api/v1/group/group/1542/,rai,3,sipping,Session Initiation Proposal Investigation,ietf,wg
+2009,wg:/api/v1/group/group/1543/,rai,3,geopriv,Geographic Location/Privacy,ietf,wg
+2009,wg:/api/v1/group/group/1685/,rai,1,speermint,Session PEERing for Multimedia INTerconnect,ietf,wg
+2009,wg:/api/v1/group/group/1702/,rai,2,mediactrl,Media Server Control,ietf,wg
+2009,wg:/api/v1/group/group/941/,rai,10,avt,Audio/Video Transport,ietf,wg
+2009,wg:/api/v1/group/group/1041/,rtg,2,idr,Inter-Domain Routing,ietf,wg
+2009,wg:/api/v1/group/group/1102/,rtg,2,isis,IS-IS for IP Internets,ietf,wg
+2009,wg:/api/v1/group/group/1132/,rtg,3,manet,Mobile Ad-hoc Networks,ietf,wg
+2009,wg:/api/v1/group/group/1140/,rtg,6,mpls,Multiprotocol Label Switching,ietf,wg
+2009,wg:/api/v1/group/group/1188/,rtg,6,ospf,Open Shortest Path First IGP,ietf,wg
+2009,wg:/api/v1/group/group/1397/,rtg,1,pim,Protocols for IP Multicast,ietf,wg
+2009,wg:/api/v1/group/group/1469/,rtg,2,l2tpext,Layer Two Tunneling Protocol Extensions,ietf,wg
+2009,wg:/api/v1/group/group/1524/,rtg,6,ccamp,Common Control and Measurement Plane,ietf,wg
+2009,wg:/api/v1/group/group/1538/,rtg,7,pwe3,Pseudowire Emulation Edge to Edge,ietf,wg
+2009,wg:/api/v1/group/group/1593/,rtg,1,l2vpn,Layer 2 Virtual Private Networks,ietf,wg
+2009,wg:/api/v1/group/group/1594/,rtg,2,l3vpn,Layer 3 Virtual Private Networks,ietf,wg
+2009,wg:/api/v1/group/group/1630/,rtg,9,pce,Path Computation Element,ietf,wg
+2009,wg:/api/v1/group/group/1650/,rtg,1,trill,Transparent Interconnection of Lots of Links,ietf,wg
+2009,wg:/api/v1/group/group/1656/,rtg,1,l1vpn,Layer 1 Virtual Private Networks,ietf,wg
+2009,wg:/api/v1/group/group/1730/,rtg,2,roll,Routing Over Low power and Lossy networks,ietf,wg
+2009,wg:/api/v1/group/group/1223/,sec,3,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2009,wg:/api/v1/group/group/1258/,sec,3,smime,S/MIME Mail Security,ietf,wg
+2009,wg:/api/v1/group/group/1326/,sec,3,tls,Transport Layer Security,ietf,wg
+2009,wg:/api/v1/group/group/1468/,sec,4,syslog,Security Issues in Network Event Logging,ietf,wg
+2009,wg:/api/v1/group/group/1612/,sec,1,radext,RADIUS EXTensions,ietf,wg
+2009,wg:/api/v1/group/group/1634/,sec,4,kitten,Common Authentication Technology Next Generation,ietf,wg
+2009,wg:/api/v1/group/group/1641/,sec,1,btns,Better-Than-Nothing Security,ietf,wg
+2009,wg:/api/v1/group/group/1674/,sec,1,emu,EAP Method Update,ietf,wg
+2009,wg:/api/v1/group/group/1740/,sec,1,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2009,wg:/api/v1/group/group/1437/,tsv,4,rmt,Reliable Multicast Transport,ietf,wg
+2009,wg:/api/v1/group/group/1504/,tsv,1,rserpool,Reliable Server Pooling,ietf,wg
+2009,wg:/api/v1/group/group/1571/,tsv,4,dccp,Datagram Congestion Control Protocol,ietf,wg
+2009,wg:/api/v1/group/group/1632/,tsv,2,behave,Behavior Engineering for Hindrance Avoidance,ietf,wg
+2009,wg:/api/v1/group/group/1701/,tsv,3,pcn,Congestion and Pre-Congestion Notification,ietf,wg
+2009,wg:/api/v1/group/group/1152/,wit,3,nfsv4,Network File System Version 4,ietf,wg
+2009,wg:/api/v1/group/group/1620/,wit,5,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2010,rg:/api/v1/group/group/30/,Other,1,asrg,Anti-Spam Research Group,irtf,rg
+2010,rg:/api/v1/group/group/37/,Other,2,mobopts,IP Mobility Optimizations Research Group,irtf,rg
+2010,rg:/api/v1/group/group/39/,Other,2,p2prg,Peer-to-Peer Research Group,irtf,rg
+2010,rg:/api/v1/group/group/42/,Other,1,iccrg,Internet Congestion Control,irtf,rg
+2010,stream:iab,Other,1,iab,Internet Architecture Board,iab,ietf
+2010,stream:ietf-other,Other,73,rai,Real-time Applications and Infrastructure Area,ietf,area
+2010,stream:irtf,Other,2,gen,General Area,irtf,area
+2010,stream:ise,Other,42,int,Internet Area,ise,area
+2010,wg:/api/v1/group/group/1389/,app,3,sieve,Sieve Mail Filtering Language,ietf,wg
+2010,wg:/api/v1/group/group/1633/,app,2,isms,Integrated Security Model for SNMP,ietf,wg
+2010,wg:/api/v1/group/group/1648/,app,1,calsify,Calendaring and Scheduling Standards Simplification,ietf,wg
+2010,wg:/api/v1/group/group/1686/,app,4,eai,Email Address Internationalization,ietf,wg
+2010,wg:/api/v1/group/group/1738/,app,5,idnabis,"Internationalized Domain Names in Applications, Revised",ietf,wg
+2010,wg:/api/v1/group/group/1741/,app,2,morg,Message Organization,ietf,wg
+2010,wg:/api/v1/group/group/1783/,app,1,marf,Messaging Abuse Reporting Format,ietf,wg
+2010,wg:/api/v1/group/group/1138/,art,5,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2010,wg:/api/v1/group/group/1643/,art,1,ecrit,Emergency Context Resolution with Internet Technologies,ietf,wg
+2010,wg:/api/v1/group/group/1671/,art,1,dkim,Domain Keys Identified Mail,ietf,wg
+2010,wg:/api/v1/group/group/1762/,art,2,sipcore,Session Initiation Protocol Core,ietf,wg
+2010,wg:/api/v1/group/group/1479/,int,4,dnsext,DNS Extensions,ietf,wg
+2010,wg:/api/v1/group/group/1596/,int,1,mip4,Mobility for IPv4,ietf,wg
+2010,wg:/api/v1/group/group/1598/,int,1,mipshop,"Mobility for IP: Performance, Signaling and Handoff Optimization",ietf,wg
+2010,wg:/api/v1/group/group/1607/,int,1,dna,Detecting Network Attachment,ietf,wg
+2010,wg:/api/v1/group/group/1626/,int,2,hip,Host Identity Protocol,ietf,wg
+2010,wg:/api/v1/group/group/1642/,int,4,ntp,Network Time Protocols,ietf,wg
+2010,wg:/api/v1/group/group/1653/,int,1,autoconf,Ad-Hoc Network Autoconfiguration,ietf,wg
+2010,wg:/api/v1/group/group/1664/,int,3,netlmm,Network-based Localized Mobility Management,ietf,wg
+2010,wg:/api/v1/group/group/1675/,int,1,16ng,IP over IEEE 802.16 Networks,ietf,wg
+2010,wg:/api/v1/group/group/1678/,int,1,softwire,Softwires,ietf,wg
+2010,wg:/api/v1/group/group/1693/,int,2,ancp,Access Node Control Protocol,ietf,wg
+2010,wg:/api/v1/group/group/1720/,int,1,mext,Mobility EXTensions for IPv6,ietf,wg
+2010,wg:/api/v1/group/group/1723/,int,4,6man,IPv6 Maintenance,ietf,wg
+2010,wg:/api/v1/group/group/1726/,int,1,csi,Cga & Send maIntenance,ietf,wg
+2010,wg:/api/v1/group/group/988/,int,1,dhc,Dynamic Host Configuration,ietf,wg
+2010,wg:/api/v1/group/group/1089/,ops,3,ippm,IP Performance Measurement,ietf,wg
+2010,wg:/api/v1/group/group/1118/,ops,3,mboned,MBONE Deployment,ietf,wg
+2010,wg:/api/v1/group/group/1546/,ops,2,ipfix,IP Flow Information Export,ietf,wg
+2010,wg:/api/v1/group/group/1575/,ops,1,netconf,Network Configuration,ietf,wg
+2010,wg:/api/v1/group/group/1578/,ops,2,v6ops,IPv6 Operations,ietf,wg
+2010,wg:/api/v1/group/group/1599/,ops,1,opsec,Operational Security Capabilities for IP Network Infrastructure,ietf,wg
+2010,wg:/api/v1/group/group/1600/,ops,2,capwap,Control And Provisioning of Wireless Access Points,ietf,wg
+2010,wg:/api/v1/group/group/1638/,ops,2,netmod,Network Modeling,ietf,wg
+2010,wg:/api/v1/group/group/1682/,ops,5,dime,Diameter Maintenance and Extensions,ietf,wg
+2010,wg:/api/v1/group/group/1714/,ops,1,opsawg,Operations and Management Area Working Group,ietf,wg
+2010,wg:/api/v1/group/group/1462/,rai,8,sip,Session Initiation Protocol,ietf,wg
+2010,wg:/api/v1/group/group/1527/,rai,1,simple,SIP for Instant Messaging and Presence Leveraging Extensions,ietf,wg
+2010,wg:/api/v1/group/group/1542/,rai,5,sipping,Session Initiation Proposal Investigation,ietf,wg
+2010,wg:/api/v1/group/group/1543/,rai,6,geopriv,Geographic Location/Privacy,ietf,wg
+2010,wg:/api/v1/group/group/1782/,rai,1,martini,Multiple AoR reachabiliTy InformatioN Indication,ietf,wg
+2010,wg:/api/v1/group/group/941/,rai,8,avt,Audio/Video Transport,ietf,wg
+2010,wg:/api/v1/group/group/1140/,rtg,12,mpls,Multiprotocol Label Switching,ietf,wg
+2010,wg:/api/v1/group/group/1188/,rtg,3,ospf,Open Shortest Path First IGP,ietf,wg
+2010,wg:/api/v1/group/group/1348/,rtg,1,vrrp,Virtual Router Redundancy Protocol,ietf,wg
+2010,wg:/api/v1/group/group/1397/,rtg,1,pim,Protocols for IP Multicast,ietf,wg
+2010,wg:/api/v1/group/group/1518/,rtg,6,forces,Forwarding and Control Element Separation,ietf,wg
+2010,wg:/api/v1/group/group/1524/,rtg,11,ccamp,Common Control and Measurement Plane,ietf,wg
+2010,wg:/api/v1/group/group/1538/,rtg,2,pwe3,Pseudowire Emulation Edge to Edge,ietf,wg
+2010,wg:/api/v1/group/group/1594/,rtg,1,l3vpn,Layer 3 Virtual Private Networks,ietf,wg
+2010,wg:/api/v1/group/group/1619/,rtg,2,rtgwg,Routing Area Working Group,ietf,wg
+2010,wg:/api/v1/group/group/1628/,rtg,5,bfd,Bidirectional Forwarding Detection,ietf,wg
+2010,wg:/api/v1/group/group/1630/,rtg,4,pce,Path Computation Element,ietf,wg
+2010,wg:/api/v1/group/group/1730/,rtg,2,roll,Routing Over Low power and Lossy networks,ietf,wg
+2010,wg:/api/v1/group/group/1223/,sec,11,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2010,wg:/api/v1/group/group/1258/,sec,7,smime,S/MIME Mail Security,ietf,wg
+2010,wg:/api/v1/group/group/1326/,sec,2,tls,Transport Layer Security,ietf,wg
+2010,wg:/api/v1/group/group/1468/,sec,2,syslog,Security Issues in Network Event Logging,ietf,wg
+2010,wg:/api/v1/group/group/1496/,sec,1,krb-wg,Kerberos,ietf,wg
+2010,wg:/api/v1/group/group/1511/,sec,2,msec,Multicast Security,ietf,wg
+2010,wg:/api/v1/group/group/1545/,sec,2,sasl,Simple Authentication and Security Layer,ietf,wg
+2010,wg:/api/v1/group/group/1612/,sec,1,radext,RADIUS EXTensions,ietf,wg
+2010,wg:/api/v1/group/group/1688/,sec,2,nea,Network Endpoint Assessment,ietf,wg
+2010,wg:/api/v1/group/group/1700/,sec,2,hokey,Handover Keying,ietf,wg
+2010,wg:/api/v1/group/group/1704/,sec,3,keyprov,Provisioning of Symmetric Keys,ietf,wg
+2010,wg:/api/v1/group/group/1740/,sec,8,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2010,wg:/api/v1/group/group/1437/,tsv,1,rmt,Reliable Multicast Transport,ietf,wg
+2010,wg:/api/v1/group/group/1474/,tsv,4,rohc,Robust Header Compression,ietf,wg
+2010,wg:/api/v1/group/group/1537/,tsv,8,nsis,Next Steps in Signaling,ietf,wg
+2010,wg:/api/v1/group/group/1571/,tsv,1,dccp,Datagram Congestion Control Protocol,ietf,wg
+2010,wg:/api/v1/group/group/1632/,tsv,6,behave,Behavior Engineering for Hindrance Avoidance,ietf,wg
+2010,wg:/api/v1/group/group/1673/,tsv,1,fecframe,FEC Framework,ietf,wg
+2010,wg:/api/v1/group/group/1152/,wit,8,nfsv4,Network File System Version 4,ietf,wg
+2010,wg:/api/v1/group/group/1463/,wit,5,tsvwg,Transport and Services Working Group,ietf,wg
+2010,wg:/api/v1/group/group/1620/,wit,6,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2011,rg:/api/v1/group/group/32/,Other,6,dtnrg,Delay-Tolerant Networking,irtf,rg
+2011,rg:/api/v1/group/group/37/,Other,1,mobopts,IP Mobility Optimizations Research Group,irtf,rg
+2011,rg:/api/v1/group/group/40/,Other,2,rrg,Routing Research Group,irtf,rg
+2011,rg:/api/v1/group/group/42/,Other,1,iccrg,Internet Congestion Control,irtf,rg
+2011,stream:iab,Other,3,iab,Internet Architecture Board,iab,ietf
+2011,stream:ietf-other,Other,95,app,Applications Area,ietf,area
+2011,stream:irtf,Other,2,int,Internet Area,irtf,area
+2011,stream:ise,Other,16,tsv,Transport Area,ise,area
+2011,wg:/api/v1/group/group/1389/,app,4,sieve,Sieve Mail Filtering Language,ietf,wg
+2011,wg:/api/v1/group/group/1611/,app,1,ltans,Long-Term Archive and Notary Services,ietf,wg
+2011,wg:/api/v1/group/group/1633/,app,1,isms,Integrated Security Model for SNMP,ietf,wg
+2011,wg:/api/v1/group/group/1721/,app,5,vcarddav,vCard and CardDAV,ietf,wg
+2011,wg:/api/v1/group/group/1741/,app,3,morg,Message Organization,ietf,wg
+2011,wg:/api/v1/group/group/1759/,app,2,yam,Yet Another Mail,ietf,wg
+2011,wg:/api/v1/group/group/1777/,app,1,hybi,BiDirectional or Server-Initiated HTTP,ietf,wg
+2011,wg:/api/v1/group/group/1781/,app,1,httpstate,HTTP State Management Mechanism,ietf,wg
+2011,wg:/api/v1/group/group/1783/,app,1,marf,Messaging Abuse Reporting Format,ietf,wg
+2011,wg:/api/v1/group/group/1802/,app,1,websec,Web Security,ietf,wg
+2011,wg:/api/v1/group/group/1138/,art,2,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2011,wg:/api/v1/group/group/1643/,art,1,ecrit,Emergency Context Resolution with Internet Technologies,ietf,wg
+2011,wg:/api/v1/group/group/1671/,art,2,dkim,Domain Keys Identified Mail,ietf,wg
+2011,wg:/api/v1/group/group/1761/,art,3,xmpp,Extensible Messaging and Presence Protocol,ietf,wg
+2011,wg:/api/v1/group/group/1762/,art,6,sipcore,Session Initiation Protocol Core,ietf,wg
+2011,wg:/api/v1/group/group/1765/,art,1,codec,Internet Wideband Audio Codec,ietf,wg
+2011,wg:/api/v1/group/group/1788/,art,1,siprec,SIP Recording,ietf,wg
+2011,wg:/api/v1/group/group/1805/,art,2,appsawg,ART Area General Applications Working Group,ietf,wg
+2011,wg:/api/v1/group/group/1814/,art,4,payload,Audio/Video Transport Payloads,ietf,wg
+2011,wg:/api/v1/group/group/1479/,int,1,dnsext,DNS Extensions,ietf,wg
+2011,wg:/api/v1/group/group/1596/,int,1,mip4,Mobility for IPv4,ietf,wg
+2011,wg:/api/v1/group/group/1598/,int,1,mipshop,"Mobility for IP: Performance, Signaling and Handoff Optimization",ietf,wg
+2011,wg:/api/v1/group/group/1626/,int,5,hip,Host Identity Protocol,ietf,wg
+2011,wg:/api/v1/group/group/1639/,int,1,6lowpan,IPv6 over Low power WPAN,ietf,wg
+2011,wg:/api/v1/group/group/1646/,int,1,shim6,Site Multihoming by IPv6 Intermediation,ietf,wg
+2011,wg:/api/v1/group/group/1664/,int,1,netlmm,Network-based Localized Mobility Management,ietf,wg
+2011,wg:/api/v1/group/group/1665/,int,3,intarea,Internet Area Working Group,ietf,wg
+2011,wg:/api/v1/group/group/1678/,int,2,softwire,Softwires,ietf,wg
+2011,wg:/api/v1/group/group/1693/,int,1,ancp,Access Node Control Protocol,ietf,wg
+2011,wg:/api/v1/group/group/1720/,int,4,mext,Mobility EXTensions for IPv6,ietf,wg
+2011,wg:/api/v1/group/group/1723/,int,5,6man,IPv6 Maintenance,ietf,wg
+2011,wg:/api/v1/group/group/1726/,int,1,csi,Cga & Send maIntenance,ietf,wg
+2011,wg:/api/v1/group/group/1747/,int,1,multimob,Multicast Mobility,ietf,wg
+2011,wg:/api/v1/group/group/1755/,int,2,mif,Multiple Interfaces,ietf,wg
+2011,wg:/api/v1/group/group/1756/,int,1,netext,Network-Based Mobility Extensions,ietf,wg
+2011,wg:/api/v1/group/group/988/,int,4,dhc,Dynamic Host Configuration,ietf,wg
+2011,wg:/api/v1/group/group/1089/,ops,3,ippm,IP Performance Measurement,ietf,wg
+2011,wg:/api/v1/group/group/1118/,ops,2,mboned,MBONE Deployment,ietf,wg
+2011,wg:/api/v1/group/group/1452/,ops,4,dnsop,Domain Name System Operations,ietf,wg
+2011,wg:/api/v1/group/group/1546/,ops,3,ipfix,IP Flow Information Export,ietf,wg
+2011,wg:/api/v1/group/group/1575/,ops,3,netconf,Network Configuration,ietf,wg
+2011,wg:/api/v1/group/group/1578/,ops,11,v6ops,IPv6 Operations,ietf,wg
+2011,wg:/api/v1/group/group/1584/,ops,5,grow,Global Routing Operations,ietf,wg
+2011,wg:/api/v1/group/group/1599/,ops,3,opsec,Operational Security Capabilities for IP Network Infrastructure,ietf,wg
+2011,wg:/api/v1/group/group/1638/,ops,3,netmod,Network Modeling,ietf,wg
+2011,wg:/api/v1/group/group/1682/,ops,1,dime,Diameter Maintenance and Extensions,ietf,wg
+2011,wg:/api/v1/group/group/1714/,ops,2,opsawg,Operations and Management Area Working Group,ietf,wg
+2011,wg:/api/v1/group/group/1725/,ops,2,pmol,Performance Metrics for Other Layers,ietf,wg
+2011,wg:/api/v1/group/group/945/,ops,4,bmwg,Benchmarking Methodology,ietf,wg
+2011,wg:/api/v1/group/group/1413/,rai,4,enum,Telephone Number Mapping,ietf,wg
+2011,wg:/api/v1/group/group/1462/,rai,1,sip,Session Initiation Protocol,ietf,wg
+2011,wg:/api/v1/group/group/1527/,rai,1,simple,SIP for Instant Messaging and Presence Leveraging Extensions,ietf,wg
+2011,wg:/api/v1/group/group/1542/,rai,2,sipping,Session Initiation Proposal Investigation,ietf,wg
+2011,wg:/api/v1/group/group/1543/,rai,3,geopriv,Geographic Location/Privacy,ietf,wg
+2011,wg:/api/v1/group/group/1685/,rai,4,speermint,Session PEERing for Multimedia INTerconnect,ietf,wg
+2011,wg:/api/v1/group/group/1702/,rai,2,mediactrl,Media Server Control,ietf,wg
+2011,wg:/api/v1/group/group/1782/,rai,1,martini,Multiple AoR reachabiliTy InformatioN Indication,ietf,wg
+2011,wg:/api/v1/group/group/1791/,rai,1,soc,SIP Overload Control,ietf,wg
+2011,wg:/api/v1/group/group/1813/,rai,2,avtext,Audio/Video Transport Extensions,ietf,wg
+2011,wg:/api/v1/group/group/941/,rai,6,avt,Audio/Video Transport,ietf,wg
+2011,wg:/api/v1/group/group/1041/,rtg,2,idr,Inter-Domain Routing,ietf,wg
+2011,wg:/api/v1/group/group/1102/,rtg,6,isis,IS-IS for IP Internets,ietf,wg
+2011,wg:/api/v1/group/group/1132/,rtg,1,manet,Mobile Ad-hoc Networks,ietf,wg
+2011,wg:/api/v1/group/group/1140/,rtg,19,mpls,Multiprotocol Label Switching,ietf,wg
+2011,wg:/api/v1/group/group/1397/,rtg,4,pim,Protocols for IP Multicast,ietf,wg
+2011,wg:/api/v1/group/group/1524/,rtg,7,ccamp,Common Control and Measurement Plane,ietf,wg
+2011,wg:/api/v1/group/group/1538/,rtg,5,pwe3,Pseudowire Emulation Edge to Edge,ietf,wg
+2011,wg:/api/v1/group/group/1593/,rtg,3,l2vpn,Layer 2 Virtual Private Networks,ietf,wg
+2011,wg:/api/v1/group/group/1594/,rtg,1,l3vpn,Layer 3 Virtual Private Networks,ietf,wg
+2011,wg:/api/v1/group/group/1630/,rtg,2,pce,Path Computation Element,ietf,wg
+2011,wg:/api/v1/group/group/1650/,rtg,4,trill,Transparent Interconnection of Lots of Links,ietf,wg
+2011,wg:/api/v1/group/group/1730/,rtg,1,roll,Routing Over Low power and Lossy networks,ietf,wg
+2011,wg:/api/v1/group/group/1223/,sec,3,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2011,wg:/api/v1/group/group/1326/,sec,2,tls,Transport Layer Security,ietf,wg
+2011,wg:/api/v1/group/group/1496/,sec,5,krb-wg,Kerberos,ietf,wg
+2011,wg:/api/v1/group/group/1511/,sec,1,msec,Multicast Security,ietf,wg
+2011,wg:/api/v1/group/group/1612/,sec,2,radext,RADIUS EXTensions,ietf,wg
+2011,wg:/api/v1/group/group/1634/,sec,1,kitten,Common Authentication Technology Next Generation,ietf,wg
+2011,wg:/api/v1/group/group/1700/,sec,1,hokey,Handover Keying,ietf,wg
+2011,wg:/api/v1/group/group/1740/,sec,3,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2011,wg:/api/v1/group/group/1810/,sec,1,dane,DNS-based Authentication of Named Entities,ietf,wg
+2011,wg:/api/v1/group/group/1437/,tsv,1,rmt,Reliable Multicast Transport,ietf,wg
+2011,wg:/api/v1/group/group/1537/,tsv,4,nsis,Next Steps in Signaling,ietf,wg
+2011,wg:/api/v1/group/group/1571/,tsv,1,dccp,Datagram Congestion Control Protocol,ietf,wg
+2011,wg:/api/v1/group/group/1632/,tsv,6,behave,Behavior Engineering for Hindrance Avoidance,ietf,wg
+2011,wg:/api/v1/group/group/1673/,tsv,2,fecframe,FEC Framework,ietf,wg
+2011,wg:/api/v1/group/group/1749/,tsv,1,ledbat,Low Extra Delay Background Transport,ietf,wg
+2011,wg:/api/v1/group/group/1757/,tsv,2,storm,STORage Maintenance,ietf,wg
+2011,wg:/api/v1/group/group/1764/,tsv,3,mptcp,Multipath TCP,ietf,wg
+2011,wg:/api/v1/group/group/1780/,tsv,1,decade,Decoupled Application Data Enroute,ietf,wg
+2011,wg:/api/v1/group/group/1463/,wit,6,tsvwg,Transport and Services Working Group,ietf,wg
+2011,wg:/api/v1/group/group/1620/,wit,5,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2011,wg:/api/v1/group/group/1718/,wit,1,httpbis,HTTP,ietf,wg
+2011,wg:/api/v1/group/group/1812/,wit,3,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2012,rg:/api/v1/group/group/30/,Other,1,asrg,Anti-Spam Research Group,irtf,rg
+2012,rg:/api/v1/group/group/32/,Other,1,dtnrg,Delay-Tolerant Networking Research Group,irtf,rg
+2012,rg:/api/v1/group/group/35/,Other,1,hiprg,Host Identity Protocol,irtf,rg
+2012,rg:/api/v1/group/group/39/,Other,1,p2prg,Peer-to-Peer Research Group,irtf,rg
+2012,rg:/api/v1/group/group/40/,Other,9,rrg,Routing Research Group,irtf,rg
+2012,stream:iab,Other,6,iab,Internet Architecture Board,iab,ietf
+2012,stream:ietf-other,Other,57,sec,Security Area,ietf,area
+2012,stream:irtf,Other,1,gen,General Area,irtf,area
+2012,stream:ise,Other,12,sec,Security Area,ise,area
+2012,wg:/api/v1/group/group/1389/,app,4,sieve,Sieve Mail Filtering Language,ietf,wg
+2012,wg:/api/v1/group/group/1686/,app,5,eai,Email Address Internationalization,ietf,wg
+2012,wg:/api/v1/group/group/1721/,app,1,vcarddav,vCard and CardDAV,ietf,wg
+2012,wg:/api/v1/group/group/1783/,app,5,marf,Messaging Abuse Reporting Format,ietf,wg
+2012,wg:/api/v1/group/group/1789/,app,1,core,Constrained RESTful Environments,ietf,wg
+2012,wg:/api/v1/group/group/1802/,app,1,websec,Web Security,ietf,wg
+2012,wg:/api/v1/group/group/1805/,app,6,appsawg,Applications Area Working Group,ietf,wg
+2012,wg:/api/v1/group/group/1836/,app,1,spfbis,SPF Update,ietf,wg
+2012,wg:/api/v1/group/group/1479/,int,4,dnsext,DNS Extensions,ietf,wg
+2012,wg:/api/v1/group/group/1596/,int,3,mip4,Mobility for IPv4,ietf,wg
+2012,wg:/api/v1/group/group/1597/,int,2,mip6,Mobility for IPv6,ietf,wg
+2012,wg:/api/v1/group/group/1639/,int,3,6lowpan,IPv6 over Low power WPAN,ietf,wg
+2012,wg:/api/v1/group/group/1664/,int,2,netlmm,Network-based Localized Mobility Management,ietf,wg
+2012,wg:/api/v1/group/group/1665/,int,1,intarea,Internet Area Working Group,ietf,wg
+2012,wg:/api/v1/group/group/1678/,int,2,softwire,Softwires,ietf,wg
+2012,wg:/api/v1/group/group/1720/,int,1,mext,Mobility EXTensions for IPv6,ietf,wg
+2012,wg:/api/v1/group/group/1723/,int,6,6man,IPv6 Maintenance,ietf,wg
+2012,wg:/api/v1/group/group/1726/,int,3,csi,Cga & Send maIntenance,ietf,wg
+2012,wg:/api/v1/group/group/1728/,int,1,savi,Source Address Validation Improvements,ietf,wg
+2012,wg:/api/v1/group/group/1747/,int,1,multimob,Multicast Mobility,ietf,wg
+2012,wg:/api/v1/group/group/1755/,int,1,mif,Multiple Interfaces,ietf,wg
+2012,wg:/api/v1/group/group/1756/,int,5,netext,Network-Based Mobility Extensions,ietf,wg
+2012,wg:/api/v1/group/group/988/,int,5,dhc,Dynamic Host Configuration,ietf,wg
+2012,wg:/api/v1/group/group/1118/,ops,1,mboned,MBONE Deployment,ietf,wg
+2012,wg:/api/v1/group/group/1452/,ops,1,dnsop,Domain Name System Operations,ietf,wg
+2012,wg:/api/v1/group/group/1546/,ops,4,ipfix,IP Flow Information Export,ietf,wg
+2012,wg:/api/v1/group/group/1575/,ops,2,netconf,Network Configuration,ietf,wg
+2012,wg:/api/v1/group/group/1578/,ops,7,v6ops,IPv6 Operations,ietf,wg
+2012,wg:/api/v1/group/group/1584/,ops,3,grow,Global Routing Operations,ietf,wg
+2012,wg:/api/v1/group/group/1612/,ops,2,radext,RADIUS EXTensions,ietf,wg
+2012,wg:/api/v1/group/group/1638/,ops,1,netmod,NETCONF Data Modeling Language,ietf,wg
+2012,wg:/api/v1/group/group/1682/,ops,6,dime,Diameter Maintenance and Extensions,ietf,wg
+2012,wg:/api/v1/group/group/1714/,ops,1,opsawg,Operations and Management Area Working Group,ietf,wg
+2012,wg:/api/v1/group/group/945/,ops,2,bmwg,Benchmarking Methodology,ietf,wg
+2012,wg:/api/v1/group/group/1138/,rai,1,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2012,wg:/api/v1/group/group/1462/,rai,1,sip,Session Initiation Protocol,ietf,wg
+2012,wg:/api/v1/group/group/1527/,rai,1,simple,SIP for Instant Messaging and Presence Leveraging Extensions,ietf,wg
+2012,wg:/api/v1/group/group/1542/,rai,1,sipping,Session Initiation Proposal Investigation,ietf,wg
+2012,wg:/api/v1/group/group/1543/,rai,2,geopriv,Geographic Location/Privacy,ietf,wg
+2012,wg:/api/v1/group/group/1566/,rai,1,speechsc,Speech Services Control,ietf,wg
+2012,wg:/api/v1/group/group/1601/,rai,4,xcon,Centralized Conferencing,ietf,wg
+2012,wg:/api/v1/group/group/1643/,rai,2,ecrit,Emergency Context Resolution with Internet Technologies,ietf,wg
+2012,wg:/api/v1/group/group/1702/,rai,2,mediactrl,Media Server Control,ietf,wg
+2012,wg:/api/v1/group/group/1739/,rai,1,drinks,Data for Reachability of Inter/tra-NetworK SIP,ietf,wg
+2012,wg:/api/v1/group/group/1762/,rai,3,sipcore,Session Initiation Protocol Core,ietf,wg
+2012,wg:/api/v1/group/group/1765/,rai,2,codec,Internet Wideband Audio Codec,ietf,wg
+2012,wg:/api/v1/group/group/1796/,rai,1,cuss,Call Control UUI Service for SIP,ietf,wg
+2012,wg:/api/v1/group/group/1812/,rai,4,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2012,wg:/api/v1/group/group/1813/,rai,1,avtext,Audio/Video Transport Extensions,ietf,wg
+2012,wg:/api/v1/group/group/1814/,rai,1,payload,Audio/Video Transport Payloads,ietf,wg
+2012,wg:/api/v1/group/group/1815/,rai,2,xrblock,Metric Blocks for use with RTCP's Extended Report Framework,ietf,wg
+2012,wg:/api/v1/group/group/1041/,rtg,2,idr,Inter-Domain Routing,ietf,wg
+2012,wg:/api/v1/group/group/1102/,rtg,3,isis,IS-IS for IP Internets,ietf,wg
+2012,wg:/api/v1/group/group/1132/,rtg,3,manet,Mobile Ad-hoc Networks,ietf,wg
+2012,wg:/api/v1/group/group/1140/,rtg,7,mpls,Multiprotocol Label Switching,ietf,wg
+2012,wg:/api/v1/group/group/1188/,rtg,2,ospf,Open Shortest Path First IGP,ietf,wg
+2012,wg:/api/v1/group/group/1348/,rtg,1,vrrp,Virtual Router Redundancy Protocol,ietf,wg
+2012,wg:/api/v1/group/group/1397/,rtg,3,pim,Protocol Independent Multicast,ietf,wg
+2012,wg:/api/v1/group/group/1524/,rtg,5,ccamp,Common Control and Measurement Plane,ietf,wg
+2012,wg:/api/v1/group/group/1538/,rtg,6,pwe3,Pseudowire Emulation Edge to Edge,ietf,wg
+2012,wg:/api/v1/group/group/1593/,rtg,1,l2vpn,Layer 2 Virtual Private Networks,ietf,wg
+2012,wg:/api/v1/group/group/1594/,rtg,7,l3vpn,Layer 3 Virtual Private Networks,ietf,wg
+2012,wg:/api/v1/group/group/1619/,rtg,1,rtgwg,Routing Area Working Group,ietf,wg
+2012,wg:/api/v1/group/group/1630/,rtg,1,pce,Path Computation Element,ietf,wg
+2012,wg:/api/v1/group/group/1680/,rtg,14,sidr,Secure Inter-Domain Routing,ietf,wg
+2012,wg:/api/v1/group/group/1730/,rtg,4,roll,Routing Over Low power and Lossy networks,ietf,wg
+2012,wg:/api/v1/group/group/1737/,rtg,1,karp,Keying and Authentication for Routing Protocols,ietf,wg
+2012,wg:/api/v1/group/group/1223/,sec,2,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2012,wg:/api/v1/group/group/1326/,sec,2,tls,Transport Layer Security,ietf,wg
+2012,wg:/api/v1/group/group/1496/,sec,6,krb-wg,Kerberos,ietf,wg
+2012,wg:/api/v1/group/group/1634/,sec,3,kitten,Common Authentication Technology Next Generation,ietf,wg
+2012,wg:/api/v1/group/group/1674/,sec,2,emu,EAP Method Update,ietf,wg
+2012,wg:/api/v1/group/group/1688/,sec,1,nea,Network Endpoint Assessment,ietf,wg
+2012,wg:/api/v1/group/group/1700/,sec,3,hokey,Handover Keying,ietf,wg
+2012,wg:/api/v1/group/group/1748/,sec,3,oauth,Web Authorization Protocol,ietf,wg
+2012,wg:/api/v1/group/group/1810/,sec,1,dane,DNS-based Authentication of Named Entities,ietf,wg
+2012,wg:/api/v1/group/group/1831/,sec,4,mile,Managed Incident Lightweight Exchange,ietf,wg
+2012,wg:/api/v1/group/group/1089/,tsv,6,ippm,IP Performance Metrics,ietf,wg
+2012,wg:/api/v1/group/group/1152/,tsv,2,nfsv4,Network File System Version 4,ietf,wg
+2012,wg:/api/v1/group/group/1437/,tsv,2,rmt,Reliable Multicast Transport,ietf,wg
+2012,wg:/api/v1/group/group/1463/,tsv,2,tsvwg,Transport Area Working Group,ietf,wg
+2012,wg:/api/v1/group/group/1571/,tsv,1,dccp,Datagram Congestion Control Protocol,ietf,wg
+2012,wg:/api/v1/group/group/1620/,tsv,4,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2012,wg:/api/v1/group/group/1632/,tsv,1,behave,Behavior Engineering for Hindrance Avoidance,ietf,wg
+2012,wg:/api/v1/group/group/1673/,tsv,6,fecframe,FEC Framework,ietf,wg
+2012,wg:/api/v1/group/group/1701/,tsv,5,pcn,Congestion and Pre-Congestion Notification,ietf,wg
+2012,wg:/api/v1/group/group/1744/,tsv,1,alto,Application-Layer Traffic Optimization,ietf,wg
+2012,wg:/api/v1/group/group/1749/,tsv,1,ledbat,Low Extra Delay Background Transport,ietf,wg
+2012,wg:/api/v1/group/group/1757/,tsv,2,storm,STORage Maintenance,ietf,wg
+2012,wg:/api/v1/group/group/1775/,tsv,1,conex,Congestion Exposure,ietf,wg
+2012,wg:/api/v1/group/group/1780/,tsv,1,decade,Decoupled Application Data Enroute,ietf,wg
+2012,wg:/api/v1/group/group/1822/,tsv,2,cdni,Content Delivery Networks Interconnection,ietf,wg
+2013,rg:/api/v1/group/group/41/,Other,2,samrg,Scalable Adaptive Multicast Research Group,irtf,rg
+2013,stream:iab,Other,7,iab,Internet Architecture Board,iab,ietf
+2013,stream:ietf-other,Other,41,gen,General Area,ietf,area
+2013,stream:irtf,Other,1,none,Individual Submissions,irtf,individ
+2013,stream:ise,Other,30,none,Individual Submissions,ise,individ
+2013,wg:/api/v1/group/group/1686/,app,4,eai,Email Address Internationalization,ietf,wg
+2013,wg:/api/v1/group/group/1798/,app,1,precis,Preparation and Comparison of Internationalized Strings,ietf,wg
+2013,wg:/api/v1/group/group/1802/,app,1,websec,Web Security,ietf,wg
+2013,wg:/api/v1/group/group/1805/,app,6,appsawg,Applications Area Working Group,ietf,wg
+2013,wg:/api/v1/group/group/1819/,app,1,paws,Protocol to Access WS database,ietf,wg
+2013,wg:/api/v1/group/group/1827/,app,4,repute,Reputation Services,ietf,wg
+2013,wg:/api/v1/group/group/1851/,app,1,imapmove,IMAP MOVE extension,ietf,wg
+2013,wg:/api/v1/group/group/1479/,int,5,dnsext,DNS Extensions,ietf,wg
+2013,wg:/api/v1/group/group/1650/,int,3,trill,Transparent Interconnection of Lots of Links,ietf,wg
+2013,wg:/api/v1/group/group/1665/,int,2,intarea,Internet Area Working Group,ietf,wg
+2013,wg:/api/v1/group/group/1678/,int,3,softwire,Softwires,ietf,wg
+2013,wg:/api/v1/group/group/1693/,int,1,ancp,Access Node Control Protocol,ietf,wg
+2013,wg:/api/v1/group/group/1723/,int,7,6man,IPv6 Maintenance,ietf,wg
+2013,wg:/api/v1/group/group/1728/,int,2,savi,Source Address Validation Improvements,ietf,wg
+2013,wg:/api/v1/group/group/1747/,int,1,multimob,Multicast Mobility,ietf,wg
+2013,wg:/api/v1/group/group/1751/,int,8,lisp,Locator/ID Separation Protocol,ietf,wg
+2013,wg:/api/v1/group/group/1756/,int,2,netext,Network-Based Mobility Extensions,ietf,wg
+2013,wg:/api/v1/group/group/1800/,int,2,pcp,Port Control Protocol,ietf,wg
+2013,wg:/api/v1/group/group/988/,int,9,dhc,Dynamic Host Configuration,ietf,wg
+2013,wg:/api/v1/group/group/1396/,ops,4,adslmib,ADSL MIB,ietf,wg
+2013,wg:/api/v1/group/group/1452/,ops,1,dnsop,Domain Name System Operations,ietf,wg
+2013,wg:/api/v1/group/group/1546/,ops,5,ipfix,IP Flow Information Export,ietf,wg
+2013,wg:/api/v1/group/group/1578/,ops,4,v6ops,IPv6 Operations,ietf,wg
+2013,wg:/api/v1/group/group/1612/,ops,2,radext,RADIUS EXTensions,ietf,wg
+2013,wg:/api/v1/group/group/1638/,ops,1,netmod,NETCONF Data Modeling Language,ietf,wg
+2013,wg:/api/v1/group/group/1682/,ops,3,dime,Diameter Maintenance and Extensions,ietf,wg
+2013,wg:/api/v1/group/group/1801/,ops,2,eman,Energy Management,ietf,wg
+2013,wg:/api/v1/group/group/1807/,ops,1,armd,Address Resolution for Massive numbers of hosts in the Data center,ietf,wg
+2013,wg:/api/v1/group/group/1824/,ops,3,6renum,IPv6 Site Renumbering,ietf,wg
+2013,wg:/api/v1/group/group/945/,ops,2,bmwg,Benchmarking Methodology,ietf,wg
+2013,wg:/api/v1/group/group/1138/,rai,3,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2013,wg:/api/v1/group/group/1527/,rai,1,simple,SIP for Instant Messaging and Presence Leveraging Extensions,ietf,wg
+2013,wg:/api/v1/group/group/1543/,rai,4,geopriv,Geographic Location/Privacy,ietf,wg
+2013,wg:/api/v1/group/group/1643/,rai,1,ecrit,Emergency Context Resolution with Internet Technologies,ietf,wg
+2013,wg:/api/v1/group/group/1702/,rai,2,mediactrl,Media Server Control,ietf,wg
+2013,wg:/api/v1/group/group/1708/,rai,1,bliss,Basic Level of Interoperability for SIP Services,ietf,wg
+2013,wg:/api/v1/group/group/1762/,rai,1,sipcore,Session Initiation Protocol Core,ietf,wg
+2013,wg:/api/v1/group/group/1768/,rai,2,sipclf,SIP Common Log Format,ietf,wg
+2013,wg:/api/v1/group/group/1812/,rai,3,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2013,wg:/api/v1/group/group/1813/,rai,1,avtext,Audio/Video Transport Extensions,ietf,wg
+2013,wg:/api/v1/group/group/1814/,rai,1,payload,Audio/Video Transport Payloads,ietf,wg
+2013,wg:/api/v1/group/group/1815/,rai,7,xrblock,Metric Blocks for use with RTCP's Extended Report Framework,ietf,wg
+2013,wg:/api/v1/group/group/1852/,rai,1,straw,Sip Traversal Required for Applications to Work,ietf,wg
+2013,wg:/api/v1/group/group/1041/,rtg,2,idr,Inter-Domain Routing,ietf,wg
+2013,wg:/api/v1/group/group/1140/,rtg,11,mpls,Multiprotocol Label Switching,ietf,wg
+2013,wg:/api/v1/group/group/1188/,rtg,6,ospf,Open Shortest Path First IGP,ietf,wg
+2013,wg:/api/v1/group/group/1397/,rtg,1,pim,Protocol Independent Multicast,ietf,wg
+2013,wg:/api/v1/group/group/1518/,rtg,2,forces,Forwarding and Control Element Separation,ietf,wg
+2013,wg:/api/v1/group/group/1524/,rtg,5,ccamp,Common Control and Measurement Plane,ietf,wg
+2013,wg:/api/v1/group/group/1538/,rtg,3,pwe3,Pseudowire Emulation Edge to Edge,ietf,wg
+2013,wg:/api/v1/group/group/1593/,rtg,2,l2vpn,Layer 2 Virtual Private Networks,ietf,wg
+2013,wg:/api/v1/group/group/1594/,rtg,1,l3vpn,Layer 3 Virtual Private Networks,ietf,wg
+2013,wg:/api/v1/group/group/1619/,rtg,2,rtgwg,Routing Area Working Group,ietf,wg
+2013,wg:/api/v1/group/group/1630/,rtg,1,pce,Path Computation Element,ietf,wg
+2013,wg:/api/v1/group/group/1680/,rtg,5,sidr,Secure Inter-Domain Routing,ietf,wg
+2013,wg:/api/v1/group/group/1730/,rtg,2,roll,Routing Over Low power and Lossy networks,ietf,wg
+2013,wg:/api/v1/group/group/1737/,rtg,3,karp,Keying and Authentication for Routing Protocols,ietf,wg
+2013,wg:/api/v1/group/group/1223/,sec,4,pkix,Public-Key Infrastructure (X.509),ietf,wg
+2013,wg:/api/v1/group/group/1326/,sec,1,tls,Transport Layer Security,ietf,wg
+2013,wg:/api/v1/group/group/1496/,sec,1,krb-wg,Kerberos,ietf,wg
+2013,wg:/api/v1/group/group/1674/,sec,1,emu,EAP Method Update,ietf,wg
+2013,wg:/api/v1/group/group/1688/,sec,1,nea,Network Endpoint Assessment,ietf,wg
+2013,wg:/api/v1/group/group/1740/,sec,2,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2013,wg:/api/v1/group/group/1748/,sec,2,oauth,Web Authorization Protocol,ietf,wg
+2013,wg:/api/v1/group/group/1804/,sec,3,abfab,Application Bridging for Federated Access Beyond web,ietf,wg
+2013,wg:/api/v1/group/group/1437/,tsv,1,rmt,Reliable Multicast Transport,ietf,wg
+2013,wg:/api/v1/group/group/1463/,tsv,2,tsvwg,Transport Area Working Group,ietf,wg
+2013,wg:/api/v1/group/group/1620/,tsv,3,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2013,wg:/api/v1/group/group/1632/,tsv,4,behave,Behavior Engineering for Hindrance Avoidance,ietf,wg
+2013,wg:/api/v1/group/group/1673/,tsv,1,fecframe,FEC Framework,ietf,wg
+2013,wg:/api/v1/group/group/1764/,tsv,2,mptcp,Multipath TCP,ietf,wg
+2013,wg:/api/v1/group/group/1771/,tsv,1,ppsp,Peer to Peer Streaming Protocol,ietf,wg
+2014,rg:/api/v1/group/group/31/,Other,1,cfrg,Crypto Forum Research Group,irtf,rg
+2014,rg:/api/v1/group/group/32/,Other,2,dtnrg,Delay-Tolerant Networking Research Group,irtf,rg
+2014,stream:iab,Other,6,iab,Internet Architecture Board,iab,ietf
+2014,stream:ietf-other,Other,38,rai,Real-time Applications and Infrastructure Area,ietf,area
+2014,stream:irtf,Other,2,none,Individual Submissions,irtf,individ
+2014,stream:ise,Other,23,none,Individual Submissions,ise,individ
+2014,wg:/api/v1/group/group/1718/,app,8,httpbis,Hypertext Transfer Protocol Bis,ietf,wg
+2014,wg:/api/v1/group/group/1789/,app,2,core,Constrained RESTful Environments,ietf,wg
+2014,wg:/api/v1/group/group/1805/,app,11,appsawg,Applications Area Working Group,ietf,wg
+2014,wg:/api/v1/group/group/1836/,app,1,spfbis,SPF Update,ietf,wg
+2014,wg:/api/v1/group/group/1882/,app,2,json,JavaScript Object Notation,ietf,wg
+2014,wg:/api/v1/group/group/1884/,app,2,jcardcal,JSON data formats for vCard and iCalendar,ietf,wg
+2014,wg:/api/v1/group/group/1886/,app,1,qresync,IMAP QRESYNC Extension,ietf,wg
+2014,wg:/api/v1/group/group/1626/,int,2,hip,Host Identity Protocol,ietf,wg
+2014,wg:/api/v1/group/group/1650/,int,10,trill,Transparent Interconnection of Lots of Links,ietf,wg
+2014,wg:/api/v1/group/group/1665/,int,1,intarea,Internet Area Working Group,ietf,wg
+2014,wg:/api/v1/group/group/1693/,int,1,ancp,Access Node Control Protocol,ietf,wg
+2014,wg:/api/v1/group/group/1709/,int,1,tictoc,Timing over IP Connection and Transfer of Clock,ietf,wg
+2014,wg:/api/v1/group/group/1723/,int,7,6man,IPv6 Maintenance,ietf,wg
+2014,wg:/api/v1/group/group/1728/,int,1,savi,Source Address Validation Improvements,ietf,wg
+2014,wg:/api/v1/group/group/1747/,int,3,multimob,Multicast Mobility,ietf,wg
+2014,wg:/api/v1/group/group/1751/,int,1,lisp,Locator/ID Separation Protocol,ietf,wg
+2014,wg:/api/v1/group/group/1756/,int,3,netext,Network-Based Mobility Extensions,ietf,wg
+2014,wg:/api/v1/group/group/1800/,int,3,pcp,Port Control Protocol,ietf,wg
+2014,wg:/api/v1/group/group/1803/,int,1,homenet,Home Networking,ietf,wg
+2014,wg:/api/v1/group/group/1817/,int,1,lwig,Light-Weight Implementation Guidance,ietf,wg
+2014,wg:/api/v1/group/group/1847/,int,1,dmm,Distributed Mobility Management,ietf,wg
+2014,wg:/api/v1/group/group/1897/,int,2,6lo,IPv6 over Networks of Resource-constrained Nodes,ietf,wg
+2014,wg:/api/v1/group/group/988/,int,3,dhc,Dynamic Host Configuration,ietf,wg
+2014,wg:/api/v1/group/group/1452/,ops,1,dnsop,Domain Name System Operations,ietf,wg
+2014,wg:/api/v1/group/group/1546/,ops,3,ipfix,IP Flow Information Export,ietf,wg
+2014,wg:/api/v1/group/group/1578/,ops,6,v6ops,IPv6 Operations,ietf,wg
+2014,wg:/api/v1/group/group/1599/,ops,4,opsec,Operational Security Capabilities for IP Network Infrastructure,ietf,wg
+2014,wg:/api/v1/group/group/1612/,ops,2,radext,RADIUS EXTensions,ietf,wg
+2014,wg:/api/v1/group/group/1638/,ops,5,netmod,NETCONF Data Modeling Language,ietf,wg
+2014,wg:/api/v1/group/group/1682/,ops,3,dime,Diameter Maintenance and Extensions,ietf,wg
+2014,wg:/api/v1/group/group/1714/,ops,3,opsawg,Operations and Management Area Working Group,ietf,wg
+2014,wg:/api/v1/group/group/1801/,ops,1,eman,Energy Management,ietf,wg
+2014,wg:/api/v1/group/group/1138/,rai,6,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2014,wg:/api/v1/group/group/1543/,rai,3,geopriv,Geographic Location/Privacy,ietf,wg
+2014,wg:/api/v1/group/group/1643/,rai,4,ecrit,Emergency Context Resolution with Internet Technologies,ietf,wg
+2014,wg:/api/v1/group/group/1705/,rai,5,p2psip,Peer-to-Peer Session Initiation Protocol,ietf,wg
+2014,wg:/api/v1/group/group/1761/,rai,1,xmpp,Extensible Messaging and Presence Protocol,ietf,wg
+2014,wg:/api/v1/group/group/1762/,rai,4,sipcore,Session Initiation Protocol Core,ietf,wg
+2014,wg:/api/v1/group/group/1788/,rai,1,siprec,SIP Recording,ietf,wg
+2014,wg:/api/v1/group/group/1791/,rai,2,soc,SIP Overload Control,ietf,wg
+2014,wg:/api/v1/group/group/1812/,rai,5,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2014,wg:/api/v1/group/group/1813/,rai,2,avtext,Audio/Video Transport Extensions,ietf,wg
+2014,wg:/api/v1/group/group/1814/,rai,1,payload,Audio/Video Transport Payloads,ietf,wg
+2014,wg:/api/v1/group/group/1815/,rai,6,xrblock,Metric Blocks for use with RTCP's Extended Report Framework,ietf,wg
+2014,wg:/api/v1/group/group/1816/,rai,2,clue,ControLling mUltiple streams for tElepresence,ietf,wg
+2014,wg:/api/v1/group/group/1839/,rai,1,insipid,INtermediary-safe SIP session ID,ietf,wg
+2014,wg:/api/v1/group/group/1852/,rai,2,straw,Sip Traversal Required for Applications to Work,ietf,wg
+2014,wg:/api/v1/group/group/1887/,rai,2,stox,SIP-TO-XMPP,ietf,wg
+2014,wg:/api/v1/group/group/1899/,rai,2,stir,Secure Telephone Identity Revisited,ietf,wg
+2014,wg:/api/v1/group/group/1041/,rtg,5,idr,Inter-Domain Routing,ietf,wg
+2014,wg:/api/v1/group/group/1102/,rtg,4,isis,IS-IS for IP Internets,ietf,wg
+2014,wg:/api/v1/group/group/1132/,rtg,9,manet,Mobile Ad-hoc Networks,ietf,wg
+2014,wg:/api/v1/group/group/1140/,rtg,17,mpls,Multiprotocol Label Switching,ietf,wg
+2014,wg:/api/v1/group/group/1188/,rtg,2,ospf,Open Shortest Path First IGP,ietf,wg
+2014,wg:/api/v1/group/group/1518/,rtg,4,forces,Forwarding and Control Element Separation,ietf,wg
+2014,wg:/api/v1/group/group/1524/,rtg,5,ccamp,Common Control and Measurement Plane,ietf,wg
+2014,wg:/api/v1/group/group/1538/,rtg,5,pwe3,Pseudowire Emulation Edge to Edge,ietf,wg
+2014,wg:/api/v1/group/group/1593/,rtg,7,l2vpn,Layer 2 Virtual Private Networks,ietf,wg
+2014,wg:/api/v1/group/group/1594/,rtg,2,l3vpn,Layer 3 Virtual Private Networks,ietf,wg
+2014,wg:/api/v1/group/group/1619/,rtg,1,rtgwg,Routing Area Working Group,ietf,wg
+2014,wg:/api/v1/group/group/1628/,rtg,3,bfd,Bidirectional Forwarding Detection,ietf,wg
+2014,wg:/api/v1/group/group/1630/,rtg,4,pce,Path Computation Element,ietf,wg
+2014,wg:/api/v1/group/group/1680/,rtg,5,sidr,Secure Inter-Domain Routing,ietf,wg
+2014,wg:/api/v1/group/group/1730/,rtg,1,roll,Routing Over Low power and Lossy networks,ietf,wg
+2014,wg:/api/v1/group/group/1737/,rtg,2,karp,Keying and Authentication for Routing Protocols,ietf,wg
+2014,wg:/api/v1/group/group/1840/,rtg,2,nvo3,Network Virtualization Overlays,ietf,wg
+2014,wg:/api/v1/group/group/1326/,sec,3,tls,Transport Layer Security,ietf,wg
+2014,wg:/api/v1/group/group/1674/,sec,1,emu,EAP Method Update,ietf,wg
+2014,wg:/api/v1/group/group/1688/,sec,1,nea,Network Endpoint Assessment,ietf,wg
+2014,wg:/api/v1/group/group/1740/,sec,3,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2014,wg:/api/v1/group/group/1810/,sec,1,dane,DNS-based Authentication of Named Entities,ietf,wg
+2014,wg:/api/v1/group/group/1830/,sec,1,jose,Javascript Object Signing and Encryption,ietf,wg
+2014,wg:/api/v1/group/group/1831/,sec,1,mile,Managed Incident Lightweight Exchange,ietf,wg
+2014,wg:/api/v1/group/group/1089/,tsv,2,ippm,IP Performance Metrics,ietf,wg
+2014,wg:/api/v1/group/group/1152/,tsv,1,nfsv4,Network File System Version 4,ietf,wg
+2014,wg:/api/v1/group/group/1463/,tsv,2,tsvwg,Transport Area Working Group,ietf,wg
+2014,wg:/api/v1/group/group/1620/,tsv,2,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2014,wg:/api/v1/group/group/1744/,tsv,2,alto,Application-Layer Traffic Optimization,ietf,wg
+2014,wg:/api/v1/group/group/1757/,tsv,6,storm,STORage Maintenance,ietf,wg
+2014,wg:/api/v1/group/group/1822/,tsv,2,cdni,Content Delivery Networks Interconnection,ietf,wg
+2014,wg:/api/v1/group/group/1926/,tsv,2,tram,TURN Revised and Modernized,ietf,wg
+2015,rg:/api/v1/group/group/1849/,Other,1,icnrg,Information-Centric Networking,irtf,rg
+2015,rg:/api/v1/group/group/1857/,Other,1,sdnrg,Software Defined Networking,irtf,rg
+2015,rg:/api/v1/group/group/31/,Other,2,cfrg,Crypto Forum,irtf,rg
+2015,rg:/api/v1/group/group/38/,Other,2,nmrg,Network Management,irtf,rg
+2015,stream:iab,Other,6,iab,Internet Architecture Board,iab,ietf
+2015,stream:ietf-other,Other,27,sec,Security Area,ietf,area
+2015,stream:ise,Other,22,none,Individual Submissions,ise,individ
+2015,wg:/api/v1/group/group/1718/,app,3,httpbis,Hypertext Transfer Protocol,ietf,wg
+2015,wg:/api/v1/group/group/1802/,app,1,websec,Web Security,ietf,wg
+2015,wg:/api/v1/group/group/1819/,app,1,paws,Protocol to Access WS database,ietf,wg
+2015,wg:/api/v1/group/group/1834/,app,6,weirds,Web Extensible Internet Registration Data Service,ietf,wg
+2015,wg:/api/v1/group/group/1882/,app,2,json,JavaScript Object Notation,ietf,wg
+2015,wg:/api/v1/group/group/1917/,app,1,eppext,Extensible Provisioning Protocol Extensions,ietf,wg
+2015,wg:/api/v1/group/group/1918/,app,2,uta,Using TLS in Applications,ietf,wg
+2015,wg:/api/v1/group/group/1953/,app,1,calext,Calendaring Extensions,ietf,wg
+2015,wg:/api/v1/group/group/1138/,art,1,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2015,wg:/api/v1/group/group/1761/,art,3,xmpp,Extensible Messaging and Presence Protocol,ietf,wg
+2015,wg:/api/v1/group/group/1762/,art,3,sipcore,Session Initiation Protocol Core,ietf,wg
+2015,wg:/api/v1/group/group/1777/,art,1,hybi,BiDirectional or Server-Initiated HTTP,ietf,wg
+2015,wg:/api/v1/group/group/1789/,art,1,core,Constrained RESTful Environments,ietf,wg
+2015,wg:/api/v1/group/group/1798/,art,2,precis,Preparation and Comparison of Internationalized Strings,ietf,wg
+2015,wg:/api/v1/group/group/1805/,art,4,appsawg,ART Area General Applications Working Group,ietf,wg
+2015,wg:/api/v1/group/group/1812/,art,2,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2015,wg:/api/v1/group/group/1813/,art,1,avtext,Audio/Video Transport Extensions,ietf,wg
+2015,wg:/api/v1/group/group/1814/,art,2,payload,Audio/Video Transport Payloads,ietf,wg
+2015,wg:/api/v1/group/group/1820/,art,1,rtcweb,Real-Time Communication in WEB-browsers,ietf,wg
+2015,wg:/api/v1/group/group/1822/,art,1,cdni,Content Delivery Networks Interconnection,ietf,wg
+2015,wg:/api/v1/group/group/1842/,art,3,scim,System for Cross-domain Identity Management,ietf,wg
+2015,wg:/api/v1/group/group/1852/,art,1,straw,Sip Traversal Required for Applications to Work,ietf,wg
+2015,wg:/api/v1/group/group/1887/,art,3,stox,SIP-TO-XMPP,ietf,wg
+2015,wg:/api/v1/group/group/1596/,int,1,mip4,Mobility for IPv4,ietf,wg
+2015,wg:/api/v1/group/group/1626/,int,2,hip,Host Identity Protocol,ietf,wg
+2015,wg:/api/v1/group/group/1650/,int,2,trill,Transparent Interconnection of Lots of Links,ietf,wg
+2015,wg:/api/v1/group/group/1665/,int,2,intarea,Internet Area Working Group,ietf,wg
+2015,wg:/api/v1/group/group/1678/,int,5,softwire,Softwires,ietf,wg
+2015,wg:/api/v1/group/group/1723/,int,3,6man,IPv6 Maintenance,ietf,wg
+2015,wg:/api/v1/group/group/1728/,int,1,savi,Source Address Validation Improvements,ietf,wg
+2015,wg:/api/v1/group/group/1755/,int,1,mif,Multiple Interfaces,ietf,wg
+2015,wg:/api/v1/group/group/1756/,int,3,netext,Network-Based Mobility Extensions,ietf,wg
+2015,wg:/api/v1/group/group/1800/,int,3,pcp,Port Control Protocol,ietf,wg
+2015,wg:/api/v1/group/group/1803/,int,1,homenet,Home Networking,ietf,wg
+2015,wg:/api/v1/group/group/1847/,int,1,dmm,Distributed Mobility Management,ietf,wg
+2015,wg:/api/v1/group/group/1895/,int,1,dnssd,Extensions for Scalable DNS Service Discovery ,ietf,wg
+2015,wg:/api/v1/group/group/1897/,int,2,6lo,IPv6 over Networks of Resource-constrained Nodes,ietf,wg
+2015,wg:/api/v1/group/group/1903/,int,1,6tisch,IPv6 over the TSCH mode of IEEE 802.15.4e,ietf,wg
+2015,wg:/api/v1/group/group/1958/,int,1,dprive,DNS PRIVate Exchange,ietf,wg
+2015,wg:/api/v1/group/group/988/,int,4,dhc,Dynamic Host Configuration,ietf,wg
+2015,wg:/api/v1/group/group/1118/,ops,1,mboned,MBONE Deployment,ietf,wg
+2015,wg:/api/v1/group/group/1452/,ops,8,dnsop,Domain Name System Operations,ietf,wg
+2015,wg:/api/v1/group/group/1575/,ops,1,netconf,Network Configuration,ietf,wg
+2015,wg:/api/v1/group/group/1578/,ops,3,v6ops,IPv6 Operations,ietf,wg
+2015,wg:/api/v1/group/group/1584/,ops,1,grow,Global Routing Operations,ietf,wg
+2015,wg:/api/v1/group/group/1599/,ops,2,opsec,Operational Security Capabilities for IP Network Infrastructure,ietf,wg
+2015,wg:/api/v1/group/group/1612/,ops,3,radext,RADIUS EXTensions,ietf,wg
+2015,wg:/api/v1/group/group/1682/,ops,3,dime,Diameter Maintenance and Extensions,ietf,wg
+2015,wg:/api/v1/group/group/1714/,ops,7,opsawg,Operations and Management Area Working Group,ietf,wg
+2015,wg:/api/v1/group/group/1801/,ops,4,eman,Energy Management,ietf,wg
+2015,wg:/api/v1/group/group/1877/,ops,2,lmap,Large-Scale Measurement of Broadband Performance,ietf,wg
+2015,wg:/api/v1/group/group/945/,ops,4,bmwg,Benchmarking Methodology,ietf,wg
+2015,wg:/api/v1/group/group/1527/,rai,1,simple,SIP for Instant Messaging and Presence Leveraging Extensions,ietf,wg
+2015,wg:/api/v1/group/group/1543/,rai,1,geopriv,Geographic Location/Privacy,ietf,wg
+2015,wg:/api/v1/group/group/1708/,rai,1,bliss,Basic Level of Interoperability for SIP Services,ietf,wg
+2015,wg:/api/v1/group/group/1791/,rai,1,soc,SIP Overload Control,ietf,wg
+2015,wg:/api/v1/group/group/1795/,rai,1,salud,Sip ALerting for User Devices,ietf,wg
+2015,wg:/api/v1/group/group/1796/,rai,2,cuss,Call Control UUI Service for SIP,ietf,wg
+2015,wg:/api/v1/group/group/1815/,rai,1,xrblock,Metric Blocks for use with RTCP's Extended Report Framework,ietf,wg
+2015,wg:/api/v1/group/group/1929/,rai,1,dart,DiffServ Applied to Real-time Transports,ietf,wg
+2015,wg:/api/v1/group/group/1041/,rtg,4,idr,Inter-Domain Routing,ietf,wg
+2015,wg:/api/v1/group/group/1102/,rtg,1,isis,IS-IS for IP Internets,ietf,wg
+2015,wg:/api/v1/group/group/1132/,rtg,3,manet,Mobile Ad-hoc Networks,ietf,wg
+2015,wg:/api/v1/group/group/1140/,rtg,12,mpls,Multiprotocol Label Switching,ietf,wg
+2015,wg:/api/v1/group/group/1188/,rtg,4,ospf,Open Shortest Path First IGP,ietf,wg
+2015,wg:/api/v1/group/group/1524/,rtg,9,ccamp,Common Control and Measurement Plane,ietf,wg
+2015,wg:/api/v1/group/group/1593/,rtg,2,l2vpn,Layer 2 Virtual Private Networks,ietf,wg
+2015,wg:/api/v1/group/group/1619/,rtg,2,rtgwg,Routing Area Working Group,ietf,wg
+2015,wg:/api/v1/group/group/1628/,rtg,1,bfd,Bidirectional Forwarding Detection,ietf,wg
+2015,wg:/api/v1/group/group/1630/,rtg,2,pce,Path Computation Element,ietf,wg
+2015,wg:/api/v1/group/group/1680/,rtg,1,sidr,Secure Inter-Domain Routing,ietf,wg
+2015,wg:/api/v1/group/group/1730/,rtg,1,roll,Routing Over Low power and Lossy networks,ietf,wg
+2015,wg:/api/v1/group/group/1910/,rtg,2,sfc,Service Function Chaining,ietf,wg
+2015,wg:/api/v1/group/group/1960/,rtg,5,bess,BGP Enabled Services,ietf,wg
+2015,wg:/api/v1/group/group/1969/,rtg,1,pals,Pseudowire And LDP-enabled Services,ietf,wg
+2015,wg:/api/v1/group/group/1985/,rtg,4,teas,Traffic Engineering Architecture and Signaling,ietf,wg
+2015,wg:/api/v1/group/group/1326/,sec,5,tls,Transport Layer Security,ietf,wg
+2015,wg:/api/v1/group/group/1634/,sec,2,kitten,Common Authentication Technology Next Generation,ietf,wg
+2015,wg:/api/v1/group/group/1740/,sec,3,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2015,wg:/api/v1/group/group/1748/,sec,8,oauth,Web Authorization Protocol,ietf,wg
+2015,wg:/api/v1/group/group/1810/,sec,3,dane,DNS-based Authentication of Named Entities,ietf,wg
+2015,wg:/api/v1/group/group/1826/,sec,3,httpauth,Hypertext Transfer Protocol Authentication,ietf,wg
+2015,wg:/api/v1/group/group/1830/,sec,6,jose,Javascript Object Signing and Encryption,ietf,wg
+2015,wg:/api/v1/group/group/1831/,sec,1,mile,Managed Incident Lightweight Exchange,ietf,wg
+2015,wg:/api/v1/group/group/1869/,sec,1,sacm,Security Automation and Continuous Monitoring,ietf,wg
+2015,wg:/api/v1/group/group/1089/,tsv,4,ippm,IP Performance Metrics,ietf,wg
+2015,wg:/api/v1/group/group/1152/,tsv,5,nfsv4,Network File System Version 4,ietf,wg
+2015,wg:/api/v1/group/group/1463/,tsv,2,tsvwg,Transport Area Working Group,ietf,wg
+2015,wg:/api/v1/group/group/1620/,tsv,3,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2015,wg:/api/v1/group/group/1764/,tsv,1,mptcp,Multipath TCP,ietf,wg
+2015,wg:/api/v1/group/group/1771/,tsv,1,ppsp,Peer to Peer Streaming Protocol,ietf,wg
+2015,wg:/api/v1/group/group/1775/,tsv,1,conex,Congestion Exposure,ietf,wg
+2015,wg:/api/v1/group/group/1893/,tsv,1,aqm,Active Queue Management and Packet Scheduling,ietf,wg
+2015,wg:/api/v1/group/group/1926/,tsv,2,tram,TURN Revised and Modernized,ietf,wg
+2016,rg:/api/v1/group/group/1849/,Other,3,icnrg,Information-Centric Networking,irtf,rg
+2016,rg:/api/v1/group/group/1968/,Other,1,gaia,Global Access to the Internet for All,irtf,rg
+2016,rg:/api/v1/group/group/31/,Other,1,cfrg,Crypto Forum,irtf,rg
+2016,stream:iab,Other,13,iab,Internet Architecture Board,iab,ietf
+2016,stream:ietf-other,Other,25,gen,General Area,ietf,area
+2016,stream:ise,Other,19,none,Individual Submissions,ise,individ
+2016,wg:/api/v1/group/group/1942/,Other,1,ianaplan,Planning for the IANA/NTIA Transition,ietf,wg
+2016,wg:/api/v1/group/group/1138/,art,3,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2016,wg:/api/v1/group/group/1643/,art,2,ecrit,Emergency Context Resolution with Internet Technologies,ietf,wg
+2016,wg:/api/v1/group/group/1705/,art,3,p2psip,Peer-to-Peer Session Initiation Protocol,ietf,wg
+2016,wg:/api/v1/group/group/1718/,art,2,httpbis,Hypertext Transfer Protocol,ietf,wg
+2016,wg:/api/v1/group/group/1739/,art,2,drinks,Data for Reachability of Inter/tra-NetworK SIP,ietf,wg
+2016,wg:/api/v1/group/group/1762/,art,1,sipcore,Session Initiation Protocol Core,ietf,wg
+2016,wg:/api/v1/group/group/1765/,art,1,codec,Internet Wideband Audio Codec,ietf,wg
+2016,wg:/api/v1/group/group/1788/,art,2,siprec,SIP Recording,ietf,wg
+2016,wg:/api/v1/group/group/1789/,art,1,core,Constrained RESTful Environments,ietf,wg
+2016,wg:/api/v1/group/group/1798/,art,1,precis,Preparation and Comparison of Internationalized Strings,ietf,wg
+2016,wg:/api/v1/group/group/1805/,art,3,appsawg,ART Area General Applications Working Group,ietf,wg
+2016,wg:/api/v1/group/group/1812/,art,2,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2016,wg:/api/v1/group/group/1813/,art,2,avtext,Audio/Video Transport Extensions,ietf,wg
+2016,wg:/api/v1/group/group/1814/,art,2,payload,Audio/Video Transport Payloads,ietf,wg
+2016,wg:/api/v1/group/group/1815/,art,2,xrblock,Metric Blocks for use with RTCP's Extended Report Framework,ietf,wg
+2016,wg:/api/v1/group/group/1820/,art,3,rtcweb,Real-Time Communication in WEB-browsers,ietf,wg
+2016,wg:/api/v1/group/group/1822/,art,5,cdni,Content Delivery Networks Interconnection,ietf,wg
+2016,wg:/api/v1/group/group/1839/,art,1,insipid,INtermediary-safe SIP session ID,ietf,wg
+2016,wg:/api/v1/group/group/1852/,art,1,straw,Sip Traversal Required for Applications to Work,ietf,wg
+2016,wg:/api/v1/group/group/1887/,art,1,stox,SIP-TO-XMPP,ietf,wg
+2016,wg:/api/v1/group/group/1892/,art,1,dmarc,"Domain-based Message Authentication, Reporting & Conformance",ietf,wg
+2016,wg:/api/v1/group/group/1917/,art,1,eppext,Extensible Provisioning Protocol Extensions,ietf,wg
+2016,wg:/api/v1/group/group/1918/,art,1,uta,Using TLS in Applications,ietf,wg
+2016,wg:/api/v1/group/group/1946/,art,2,tzdist,Time Zone Data Distribution Service,ietf,wg
+2016,wg:/api/v1/group/group/1953/,art,2,calext,Calendaring Extensions,ietf,wg
+2016,wg:/api/v1/group/group/1957/,art,1,webpush,Web-Based Push Notifications,ietf,wg
+2016,wg:/api/v1/group/group/2001/,art,1,geojson,Geographic JSON,ietf,wg
+2016,wg:/api/v1/group/group/2011/,art,1,lager,Label Generation Rules,ietf,wg
+2016,wg:/api/v1/group/group/2014/,art,2,imapapnd,IMAP APPEND Extensions,ietf,wg
+2016,wg:/api/v1/group/group/1626/,int,4,hip,Host Identity Protocol,ietf,wg
+2016,wg:/api/v1/group/group/1642/,int,2,ntp,Network Time Protocol,ietf,wg
+2016,wg:/api/v1/group/group/1678/,int,3,softwire,Softwires,ietf,wg
+2016,wg:/api/v1/group/group/1709/,int,1,tictoc,Timing over IP Connection and Transfer of Clock,ietf,wg
+2016,wg:/api/v1/group/group/1723/,int,3,6man,IPv6 Maintenance,ietf,wg
+2016,wg:/api/v1/group/group/1756/,int,2,netext,Network-Based Mobility Extensions,ietf,wg
+2016,wg:/api/v1/group/group/1800/,int,3,pcp,Port Control Protocol,ietf,wg
+2016,wg:/api/v1/group/group/1803/,int,2,homenet,Home Networking,ietf,wg
+2016,wg:/api/v1/group/group/1817/,int,1,lwig,Light-Weight Implementation Guidance,ietf,wg
+2016,wg:/api/v1/group/group/1897/,int,2,6lo,IPv6 over Networks of Resource-constrained Nodes,ietf,wg
+2016,wg:/api/v1/group/group/1958/,int,2,dprive,DNS PRIVate Exchange,ietf,wg
+2016,wg:/api/v1/group/group/988/,int,5,dhc,Dynamic Host Configuration,ietf,wg
+2016,wg:/api/v1/group/group/1452/,ops,9,dnsop,Domain Name System Operations,ietf,wg
+2016,wg:/api/v1/group/group/1575/,ops,1,netconf,Network Configuration,ietf,wg
+2016,wg:/api/v1/group/group/1578/,ops,7,v6ops,IPv6 Operations,ietf,wg
+2016,wg:/api/v1/group/group/1584/,ops,5,grow,Global Routing Operations,ietf,wg
+2016,wg:/api/v1/group/group/1599/,ops,1,opsec,Operational Security Capabilities for IP Network Infrastructure,ietf,wg
+2016,wg:/api/v1/group/group/1612/,ops,1,radext,RADIUS EXTensions,ietf,wg
+2016,wg:/api/v1/group/group/1638/,ops,4,netmod,NETCONF Data Modeling Language,ietf,wg
+2016,wg:/api/v1/group/group/1682/,ops,2,dime,Diameter Maintenance and Extensions,ietf,wg
+2016,wg:/api/v1/group/group/1714/,ops,1,opsawg,Operations and Management Area Working Group,ietf,wg
+2016,wg:/api/v1/group/group/945/,ops,1,bmwg,Benchmarking Methodology,ietf,wg
+2016,wg:/api/v1/group/group/1041/,rtg,4,idr,Inter-Domain Routing,ietf,wg
+2016,wg:/api/v1/group/group/1102/,rtg,8,isis,IS-IS for IP Internets,ietf,wg
+2016,wg:/api/v1/group/group/1132/,rtg,4,manet,Mobile Ad-hoc Networks,ietf,wg
+2016,wg:/api/v1/group/group/1140/,rtg,8,mpls,Multiprotocol Label Switching,ietf,wg
+2016,wg:/api/v1/group/group/1188/,rtg,5,ospf,Open Shortest Path First IGP,ietf,wg
+2016,wg:/api/v1/group/group/1397/,rtg,3,pim,Protocols for IP Multicast,ietf,wg
+2016,wg:/api/v1/group/group/1469/,rtg,1,l2tpext,Layer Two Tunneling Protocol Extensions,ietf,wg
+2016,wg:/api/v1/group/group/1524/,rtg,3,ccamp,Common Control and Measurement Plane,ietf,wg
+2016,wg:/api/v1/group/group/1619/,rtg,4,rtgwg,Routing Area Working Group,ietf,wg
+2016,wg:/api/v1/group/group/1628/,rtg,4,bfd,Bidirectional Forwarding Detection,ietf,wg
+2016,wg:/api/v1/group/group/1630/,rtg,2,pce,Path Computation Element,ietf,wg
+2016,wg:/api/v1/group/group/1650/,rtg,9,trill,Transparent Interconnection of Lots of Links,ietf,wg
+2016,wg:/api/v1/group/group/1680/,rtg,3,sidr,Secure Inter-Domain Routing,ietf,wg
+2016,wg:/api/v1/group/group/1730/,rtg,4,roll,Routing Over Low power and Lossy networks,ietf,wg
+2016,wg:/api/v1/group/group/1751/,rtg,4,lisp,Locator/ID Separation Protocol,ietf,wg
+2016,wg:/api/v1/group/group/1840/,rtg,1,nvo3,Network Virtualization Overlays,ietf,wg
+2016,wg:/api/v1/group/group/1875/,rtg,4,i2rs,Interface to the Routing System,ietf,wg
+2016,wg:/api/v1/group/group/1905/,rtg,1,spring,Source Packet Routing in Networking,ietf,wg
+2016,wg:/api/v1/group/group/1960/,rtg,7,bess,BGP Enabled Services,ietf,wg
+2016,wg:/api/v1/group/group/1969/,rtg,9,pals,Pseudowire And LDP-enabled Services,ietf,wg
+2016,wg:/api/v1/group/group/1985/,rtg,3,teas,Traffic Engineering Architecture and Signaling,ietf,wg
+2016,wg:/api/v1/group/group/1326/,sec,4,tls,Transport Layer Security,ietf,wg
+2016,wg:/api/v1/group/group/1634/,sec,3,kitten,Common Authentication Technology Next Generation,ietf,wg
+2016,wg:/api/v1/group/group/1740/,sec,2,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2016,wg:/api/v1/group/group/1748/,sec,1,oauth,Web Authorization Protocol,ietf,wg
+2016,wg:/api/v1/group/group/1804/,sec,3,abfab,Application Bridging for Federated Access Beyond web,ietf,wg
+2016,wg:/api/v1/group/group/1810/,sec,1,dane,DNS-based Authentication of Named Entities,ietf,wg
+2016,wg:/api/v1/group/group/1826/,sec,1,httpauth,Hypertext Transfer Protocol Authentication,ietf,wg
+2016,wg:/api/v1/group/group/1830/,sec,1,jose,Javascript Object Signing and Encryption,ietf,wg
+2016,wg:/api/v1/group/group/1831/,sec,1,mile,Managed Incident Lightweight Exchange,ietf,wg
+2016,wg:/api/v1/group/group/1896/,sec,1,dice,DTLS In Constrained Environments,ietf,wg
+2016,wg:/api/v1/group/group/1921/,sec,1,ace,Authentication and Authorization for Constrained Environments,ietf,wg
+2016,wg:/api/v1/group/group/1089/,tsv,5,ippm,IP Performance Metrics,ietf,wg
+2016,wg:/api/v1/group/group/1152/,tsv,5,nfsv4,Network File System Version 4,ietf,wg
+2016,wg:/api/v1/group/group/1463/,tsv,2,tsvwg,Transport Area Working Group,ietf,wg
+2016,wg:/api/v1/group/group/1620/,tsv,2,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2016,wg:/api/v1/group/group/1744/,tsv,1,alto,Application-Layer Traffic Optimization,ietf,wg
+2016,wg:/api/v1/group/group/1771/,tsv,1,ppsp,Peer to Peer Streaming Protocol,ietf,wg
+2016,wg:/api/v1/group/group/1775/,tsv,3,conex,Congestion Exposure,ietf,wg
+2016,wg:/api/v1/group/group/1893/,tsv,2,aqm,Active Queue Management and Packet Scheduling,ietf,wg
+2016,wg:/api/v1/group/group/1926/,tsv,2,tram,TURN Revised and Modernized,ietf,wg
+2017,rg:/api/v1/group/group/1988/,Other,1,hrpc,Human Rights Protocol Considerations,irtf,rg
+2017,rg:/api/v1/group/group/31/,Other,2,cfrg,Crypto Forum,irtf,rg
+2017,stream:iab,Other,6,iab,Internet Architecture Board,iab,ietf
+2017,stream:ietf-other,Other,34,art,Applications and Real-Time Area,ietf,area
+2017,stream:ise,Other,11,none,Individual Submissions,ise,individ
+2017,wg:/api/v1/group/group/1138/,art,1,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2017,wg:/api/v1/group/group/1643/,art,2,ecrit,Emergency Context Resolution with Internet Technologies,ietf,wg
+2017,wg:/api/v1/group/group/1705/,art,1,p2psip,Peer-to-Peer Session Initiation Protocol,ietf,wg
+2017,wg:/api/v1/group/group/1718/,art,5,httpbis,Hypertext Transfer Protocol,ietf,wg
+2017,wg:/api/v1/group/group/1762/,art,3,sipcore,Session Initiation Protocol Core,ietf,wg
+2017,wg:/api/v1/group/group/1765/,art,1,codec,Internet Wideband Audio Codec,ietf,wg
+2017,wg:/api/v1/group/group/1788/,art,1,siprec,SIP Recording,ietf,wg
+2017,wg:/api/v1/group/group/1789/,art,2,core,Constrained RESTful Environments,ietf,wg
+2017,wg:/api/v1/group/group/1792/,art,2,urnbis,"Uniform Resource Names, Revised",ietf,wg
+2017,wg:/api/v1/group/group/1798/,art,3,precis,Preparation and Comparison of Internationalized Strings,ietf,wg
+2017,wg:/api/v1/group/group/1805/,art,2,appsawg,ART Area General Applications Working Group,ietf,wg
+2017,wg:/api/v1/group/group/1812/,art,4,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2017,wg:/api/v1/group/group/1813/,art,2,avtext,Audio/Video Transport Extensions,ietf,wg
+2017,wg:/api/v1/group/group/1814/,art,2,payload,Audio/Video Transport Payloads,ietf,wg
+2017,wg:/api/v1/group/group/1832/,art,1,bfcpbis,Binary Floor Control Protocol Bis,ietf,wg
+2017,wg:/api/v1/group/group/1839/,art,1,insipid,INtermediary-safe SIP session ID,ietf,wg
+2017,wg:/api/v1/group/group/1852/,art,1,straw,Sip Traversal Required for Applications to Work,ietf,wg
+2017,wg:/api/v1/group/group/1957/,art,2,webpush,Web-Based Push Notifications,ietf,wg
+2017,wg:/api/v1/group/group/1999/,art,1,slim,Selection of Language for Internet Media,ietf,wg
+2017,wg:/api/v1/group/group/2001/,art,1,geojson,Geographic JSON,ietf,wg
+2017,wg:/api/v1/group/group/2012/,art,1,jsonbis,Javascript Object Notation Update,ietf,wg
+2017,wg:/api/v1/group/group/2141/,art,1,justfont,Font Top Level Media Type,ietf,wg
+2017,wg:/api/v1/group/group/2146/,art,2,regext,Registration Protocols Extensions,ietf,wg
+2017,wg:/api/v1/group/group/1626/,int,2,hip,Host Identity Protocol,ietf,wg
+2017,wg:/api/v1/group/group/1665/,int,1,intarea,Internet Area Working Group,ietf,wg
+2017,wg:/api/v1/group/group/1678/,int,2,softwire,Softwires,ietf,wg
+2017,wg:/api/v1/group/group/1709/,int,1,tictoc,Timing over IP Connection and Transfer of Clock,ietf,wg
+2017,wg:/api/v1/group/group/1723/,int,6,6man,IPv6 Maintenance,ietf,wg
+2017,wg:/api/v1/group/group/1728/,int,1,savi,Source Address Validation Improvements,ietf,wg
+2017,wg:/api/v1/group/group/1847/,int,2,dmm,Distributed Mobility Management,ietf,wg
+2017,wg:/api/v1/group/group/1895/,int,1,dnssd,Extensions for Scalable DNS Service Discovery ,ietf,wg
+2017,wg:/api/v1/group/group/1897/,int,4,6lo,IPv6 over Networks of Resource-constrained Nodes,ietf,wg
+2017,wg:/api/v1/group/group/1903/,int,1,6tisch,IPv6 over the TSCH mode of IEEE 802.15.4e,ietf,wg
+2017,wg:/api/v1/group/group/1958/,int,1,dprive,DNS PRIVate Exchange,ietf,wg
+2017,wg:/api/v1/group/group/988/,int,3,dhc,Dynamic Host Configuration,ietf,wg
+2017,wg:/api/v1/group/group/1452/,ops,5,dnsop,Domain Name System Operations,ietf,wg
+2017,wg:/api/v1/group/group/1575/,ops,3,netconf,Network Configuration,ietf,wg
+2017,wg:/api/v1/group/group/1578/,ops,3,v6ops,IPv6 Operations,ietf,wg
+2017,wg:/api/v1/group/group/1584/,ops,3,grow,Global Routing Operations,ietf,wg
+2017,wg:/api/v1/group/group/1612/,ops,2,radext,RADIUS EXTensions,ietf,wg
+2017,wg:/api/v1/group/group/1638/,ops,1,netmod,Network Modeling,ietf,wg
+2017,wg:/api/v1/group/group/1877/,ops,2,lmap,Large-Scale Measurement of Broadband Performance,ietf,wg
+2017,wg:/api/v1/group/group/1998/,ops,1,l3sm,L3VPN Service Model ,ietf,wg
+2017,wg:/api/v1/group/group/945/,ops,6,bmwg,Benchmarking Methodology,ietf,wg
+2017,wg:/api/v1/group/group/1041/,rtg,3,idr,Inter-Domain Routing,ietf,wg
+2017,wg:/api/v1/group/group/1102/,rtg,2,isis,IS-IS for IP Internets,ietf,wg
+2017,wg:/api/v1/group/group/1132/,rtg,4,manet,Mobile Ad-hoc Networks,ietf,wg
+2017,wg:/api/v1/group/group/1140/,rtg,9,mpls,Multiprotocol Label Switching,ietf,wg
+2017,wg:/api/v1/group/group/1188/,rtg,1,ospf,Open Shortest Path First IGP,ietf,wg
+2017,wg:/api/v1/group/group/1397/,rtg,1,pim,Protocols for IP Multicast,ietf,wg
+2017,wg:/api/v1/group/group/1469/,rtg,1,l2tpext,Layer Two Tunneling Protocol Extensions,ietf,wg
+2017,wg:/api/v1/group/group/1619/,rtg,3,rtgwg,Routing Area Working Group,ietf,wg
+2017,wg:/api/v1/group/group/1630/,rtg,8,pce,Path Computation Element,ietf,wg
+2017,wg:/api/v1/group/group/1650/,rtg,4,trill,Transparent Interconnection of Lots of Links,ietf,wg
+2017,wg:/api/v1/group/group/1680/,rtg,11,sidr,Secure Inter-Domain Routing,ietf,wg
+2017,wg:/api/v1/group/group/1730/,rtg,2,roll,Routing Over Low power and Lossy networks,ietf,wg
+2017,wg:/api/v1/group/group/1751/,rtg,4,lisp,Locator/ID Separation Protocol,ietf,wg
+2017,wg:/api/v1/group/group/1840/,rtg,1,nvo3,Network Virtualization Overlays,ietf,wg
+2017,wg:/api/v1/group/group/1875/,rtg,2,i2rs,Interface to the Routing System,ietf,wg
+2017,wg:/api/v1/group/group/1960/,rtg,1,bess,BGP Enabled ServiceS,ietf,wg
+2017,wg:/api/v1/group/group/1964/,rtg,1,bier,Bit Indexed Explicit Replication,ietf,wg
+2017,wg:/api/v1/group/group/1969/,rtg,6,pals,Pseudowire And LDP-enabled Services,ietf,wg
+2017,wg:/api/v1/group/group/1985/,rtg,6,teas,Traffic Engineering Architecture and Signaling,ietf,wg
+2017,wg:/api/v1/group/group/1634/,sec,3,kitten,Common Authentication Technology Next Generation,ietf,wg
+2017,wg:/api/v1/group/group/1740/,sec,3,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2017,wg:/api/v1/group/group/1748/,sec,2,oauth,Web Authorization Protocol,ietf,wg
+2017,wg:/api/v1/group/group/1810/,sec,1,dane,DNS-based Authentication of Named Entities,ietf,wg
+2017,wg:/api/v1/group/group/1826/,sec,3,httpauth,Hypertext Transfer Protocol Authentication,ietf,wg
+2017,wg:/api/v1/group/group/1830/,sec,1,jose,Javascript Object Signing and Encryption,ietf,wg
+2017,wg:/api/v1/group/group/1831/,sec,2,mile,Managed Incident Lightweight Exchange,ietf,wg
+2017,wg:/api/v1/group/group/1869/,sec,1,sacm,Security Automation and Continuous Monitoring,ietf,wg
+2017,wg:/api/v1/group/group/1965/,sec,1,i2nsf,Interface to Network Security Functions,ietf,wg
+2017,wg:/api/v1/group/group/2002/,sec,1,cose,CBOR Object Signing and Encryption,ietf,wg
+2017,wg:/api/v1/group/group/2143/,sec,4,curdle,"CURves, Deprecating and a Little more Encryption",ietf,wg
+2017,wg:/api/v1/group/group/1089/,tsv,2,ippm,IP Performance Metrics,ietf,wg
+2017,wg:/api/v1/group/group/1152/,tsv,7,nfsv4,Network File System Version 4,ietf,wg
+2017,wg:/api/v1/group/group/1463/,tsv,6,tsvwg,Transport Area Working Group,ietf,wg
+2017,wg:/api/v1/group/group/1620/,tsv,1,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2017,wg:/api/v1/group/group/1744/,tsv,1,alto,Application-Layer Traffic Optimization,ietf,wg
+2017,wg:/api/v1/group/group/1764/,tsv,1,mptcp,Multipath TCP,ietf,wg
+2017,wg:/api/v1/group/group/1838/,tsv,1,rmcat,RTP Media Congestion Avoidance Techniques,ietf,wg
+2017,wg:/api/v1/group/group/1893/,tsv,3,aqm,Active Queue Management and Packet Scheduling,ietf,wg
+2017,wg:/api/v1/group/group/1924/,tsv,1,taps,Transport Services,ietf,wg
+2017,wg:/api/v1/group/group/1926/,tsv,1,tram,TURN Revised and Modernized,ietf,wg
+2018,rg:/api/v1/group/group/1883/,Other,1,nwcrg,Coding for efficient NetWork Communications Research Group,irtf,rg
+2018,rg:/api/v1/group/group/31/,Other,2,cfrg,Crypto Forum,irtf,rg
+2018,rg:/api/v1/group/group/38/,Other,1,nmrg,Network Management,irtf,rg
+2018,stream:iab,Other,2,iab,Internet Architecture Board,iab,ietf
+2018,stream:ietf-other,Other,15,art,Applications and Real-Time Area,ietf,area
+2018,stream:ise,Other,13,none,Individual Submissions,ise,individ
+2018,wg:/api/v1/group/group/1718/,art,3,httpbis,Hypertext Transfer Protocol,ietf,wg
+2018,wg:/api/v1/group/group/1765/,art,1,codec,Internet Wideband Audio Codec,ietf,wg
+2018,wg:/api/v1/group/group/1789/,art,2,core,Constrained RESTful Environments,ietf,wg
+2018,wg:/api/v1/group/group/1814/,art,2,payload,Audio/Video Transport Payloads,ietf,wg
+2018,wg:/api/v1/group/group/1815/,art,1,xrblock,Metric Blocks for use with RTCP's Extended Report Framework,ietf,wg
+2018,wg:/api/v1/group/group/1839/,art,1,insipid,INtermediary-safe SIP session ID,ietf,wg
+2018,wg:/api/v1/group/group/1899/,art,4,stir,Secure Telephone Identity Revisited,ietf,wg
+2018,wg:/api/v1/group/group/1918/,art,3,uta,Using TLS in Applications,ietf,wg
+2018,wg:/api/v1/group/group/1994/,art,1,modern,"Managing, Ordering, Distributing, Exposing, & Registering telephone Numbers",ietf,wg
+2018,wg:/api/v1/group/group/1999/,art,1,slim,Selection of Language for Internet Media,ietf,wg
+2018,wg:/api/v1/group/group/2021/,art,2,ice,Interactive Connectivity Establishment,ietf,wg
+2018,wg:/api/v1/group/group/2146/,art,3,regext,Registration Protocols Extensions,ietf,wg
+2018,wg:/api/v1/group/group/2197/,art,2,dcrup,DKIM Crypto Update,ietf,wg
+2018,wg:/api/v1/group/group/2205/,art,5,extra,Email mailstore and eXtensions To Revise or Amend,ietf,wg
+2018,wg:/api/v1/group/group/2208/,art,1,doh,DNS Over HTTPS,ietf,wg
+2018,wg:/api/v1/group/group/1665/,int,2,intarea,Internet Area Working Group,ietf,wg
+2018,wg:/api/v1/group/group/1678/,int,1,softwire,Softwires,ietf,wg
+2018,wg:/api/v1/group/group/1723/,int,2,6man,IPv6 Maintenance,ietf,wg
+2018,wg:/api/v1/group/group/1803/,int,1,homenet,Home Networking,ietf,wg
+2018,wg:/api/v1/group/group/1817/,int,2,lwig,Light-Weight Implementation Guidance,ietf,wg
+2018,wg:/api/v1/group/group/1847/,int,2,dmm,Distributed Mobility Management,ietf,wg
+2018,wg:/api/v1/group/group/1897/,int,1,6lo,IPv6 over Networks of Resource-constrained Nodes,ietf,wg
+2018,wg:/api/v1/group/group/1903/,int,1,6tisch,IPv6 over the TSCH mode of IEEE 802.15.4e,ietf,wg
+2018,wg:/api/v1/group/group/1958/,int,2,dprive,DNS PRIVate Exchange,ietf,wg
+2018,wg:/api/v1/group/group/2148/,int,1,lpwan,IPv6 over Low Power Wide-Area Networks,ietf,wg
+2018,wg:/api/v1/group/group/988/,int,2,dhc,Dynamic Host Configuration,ietf,wg
+2018,wg:/api/v1/group/group/1118/,ops,2,mboned,MBONE Deployment,ietf,wg
+2018,wg:/api/v1/group/group/1452/,ops,2,dnsop,Domain Name System Operations,ietf,wg
+2018,wg:/api/v1/group/group/1575/,ops,1,netconf,Network Configuration,ietf,wg
+2018,wg:/api/v1/group/group/1578/,ops,1,v6ops,IPv6 Operations,ietf,wg
+2018,wg:/api/v1/group/group/1584/,ops,2,grow,Global Routing Operations,ietf,wg
+2018,wg:/api/v1/group/group/1638/,ops,7,netmod,Network Modeling,ietf,wg
+2018,wg:/api/v1/group/group/1714/,ops,2,opsawg,Operations and Management Area Working Group,ietf,wg
+2018,wg:/api/v1/group/group/1956/,ops,2,anima,Autonomic Networking Integrated Model and Approach,ietf,wg
+2018,wg:/api/v1/group/group/2166/,ops,2,sidrops,SIDR Operations,ietf,wg
+2018,wg:/api/v1/group/group/2168/,ops,1,l2sm,L2VPN Service Model,ietf,wg
+2018,wg:/api/v1/group/group/945/,ops,2,bmwg,Benchmarking Methodology,ietf,wg
+2018,wg:/api/v1/group/group/1140/,rtg,2,mpls,Multiprotocol Label Switching,ietf,wg
+2018,wg:/api/v1/group/group/1188/,rtg,2,ospf,Open Shortest Path First IGP,ietf,wg
+2018,wg:/api/v1/group/group/1397/,rtg,1,pim,Protocols for IP Multicast,ietf,wg
+2018,wg:/api/v1/group/group/1524/,rtg,3,ccamp,Common Control and Measurement Plane,ietf,wg
+2018,wg:/api/v1/group/group/1619/,rtg,3,rtgwg,Routing Area Working Group,ietf,wg
+2018,wg:/api/v1/group/group/1630/,rtg,2,pce,Path Computation Element,ietf,wg
+2018,wg:/api/v1/group/group/1650/,rtg,9,trill,Transparent Interconnection of Lots of Links,ietf,wg
+2018,wg:/api/v1/group/group/1680/,rtg,2,sidr,Secure Inter-Domain Routing,ietf,wg
+2018,wg:/api/v1/group/group/1751/,rtg,1,lisp,Locator/ID Separation Protocol,ietf,wg
+2018,wg:/api/v1/group/group/1840/,rtg,2,nvo3,Network Virtualization Overlays,ietf,wg
+2018,wg:/api/v1/group/group/1875/,rtg,4,i2rs,Interface to the Routing System,ietf,wg
+2018,wg:/api/v1/group/group/1905/,rtg,4,spring,Source Packet Routing in Networking,ietf,wg
+2018,wg:/api/v1/group/group/1910/,rtg,3,sfc,Service Function Chaining,ietf,wg
+2018,wg:/api/v1/group/group/1960/,rtg,6,bess,BGP Enabled ServiceS,ietf,wg
+2018,wg:/api/v1/group/group/1964/,rtg,3,bier,Bit Indexed Explicit Replication,ietf,wg
+2018,wg:/api/v1/group/group/1969/,rtg,3,pals,Pseudowire And LDP-enabled Services,ietf,wg
+2018,wg:/api/v1/group/group/1985/,rtg,9,teas,Traffic Engineering Architecture and Signaling,ietf,wg
+2018,wg:/api/v1/group/group/2215/,rtg,2,lsr,Link State Routing,ietf,wg
+2018,wg:/api/v1/group/group/1326/,sec,5,tls,Transport Layer Security,ietf,wg
+2018,wg:/api/v1/group/group/1634/,sec,1,kitten,Common Authentication Technology Next Generation,ietf,wg
+2018,wg:/api/v1/group/group/1740/,sec,1,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2018,wg:/api/v1/group/group/1748/,sec,1,oauth,Web Authorization Protocol,ietf,wg
+2018,wg:/api/v1/group/group/1831/,sec,1,mile,Managed Incident Lightweight Exchange,ietf,wg
+2018,wg:/api/v1/group/group/1869/,sec,1,sacm,Security Automation and Continuous Monitoring,ietf,wg
+2018,wg:/api/v1/group/group/1921/,sec,1,ace,Authentication and Authorization for Constrained Environments,ietf,wg
+2018,wg:/api/v1/group/group/1965/,sec,1,i2nsf,Interface to Network Security Functions,ietf,wg
+2018,wg:/api/v1/group/group/1990/,sec,3,tokbind,Token Binding,ietf,wg
+2018,wg:/api/v1/group/group/2143/,sec,7,curdle,"CURves, Deprecating and a Little more Encryption",ietf,wg
+2018,wg:/api/v1/group/group/2164/,sec,2,lamps,Limited Additional Mechanisms for PKIX and SMIME,ietf,wg
+2018,wg:/api/v1/group/group/2169/,sec,1,secevent,Security Events,ietf,wg
+2018,wg:/api/v1/group/group/1089/,tsv,3,ippm,IP Performance Measurement,ietf,wg
+2018,wg:/api/v1/group/group/1152/,tsv,2,nfsv4,Network File System Version 4,ietf,wg
+2018,wg:/api/v1/group/group/1463/,tsv,3,tsvwg,Transport Area Working Group,ietf,wg
+2018,wg:/api/v1/group/group/1620/,tsv,2,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2018,wg:/api/v1/group/group/1838/,tsv,1,rmcat,RTP Media Congestion Avoidance Techniques,ietf,wg
+2018,wg:/api/v1/group/group/1893/,tsv,2,aqm,Active Queue Management and Packet Scheduling,ietf,wg
+2018,wg:/api/v1/group/group/1924/,tsv,2,taps,Transport Services,ietf,wg
+2019,rg:/api/v1/group/group/1849/,Other,2,icnrg,Information-Centric Networking,irtf,rg
+2019,rg:/api/v1/group/group/1967/,Other,1,nfvrg,Network Function Virtualization,irtf,rg
+2019,rg:/api/v1/group/group/1991/,Other,1,t2trg,Thing-to-Thing,irtf,rg
+2019,rg:/api/v1/group/group/31/,Other,3,cfrg,Crypto Forum,irtf,rg
+2019,stream:iab,Other,3,iab,Internet Architecture Board,iab,ietf
+2019,stream:ietf-other,Other,10,art,Applications and Real-Time Area,ietf,area
+2019,stream:ise,Other,13,none,Individual Submissions,ise,individ
+2019,wg:/api/v1/group/group/1718/,art,2,httpbis,Hypertext Transfer Protocol,ietf,wg
+2019,wg:/api/v1/group/group/1762/,art,4,sipcore,Session Initiation Protocol Core,ietf,wg
+2019,wg:/api/v1/group/group/1789/,art,2,core,Constrained RESTful Environments,ietf,wg
+2019,wg:/api/v1/group/group/1814/,art,1,payload,Audio/Video Transport Payloads,ietf,wg
+2019,wg:/api/v1/group/group/1892/,art,3,dmarc,"Domain-based Message Authentication, Reporting & Conformance",ietf,wg
+2019,wg:/api/v1/group/group/1899/,art,1,stir,Secure Telephone Identity Revisited,ietf,wg
+2019,wg:/api/v1/group/group/1918/,art,1,uta,Using TLS in Applications,ietf,wg
+2019,wg:/api/v1/group/group/1953/,art,1,calext,Calendaring Extensions,ietf,wg
+2019,wg:/api/v1/group/group/2146/,art,3,regext,Registration Protocols Extensions,ietf,wg
+2019,wg:/api/v1/group/group/2156/,art,1,sipbrandy,SIP Best-practice Recommendations Against Network Dangers to privacY,ietf,wg
+2019,wg:/api/v1/group/group/2175/,art,1,cbor,Concise Binary Object Representation Maintenance and Extensions,ietf,wg
+2019,wg:/api/v1/group/group/2176/,art,2,jmap,JSON Mail Access Protocol,ietf,wg
+2019,wg:/api/v1/group/group/2205/,art,4,extra,Email mailstore and eXtensions To Revise or Amend,ietf,wg
+2019,wg:/api/v1/group/group/1642/,int,2,ntp,Network Time Protocol,ietf,wg
+2019,wg:/api/v1/group/group/1678/,int,5,softwire,Softwires,ietf,wg
+2019,wg:/api/v1/group/group/1709/,int,1,tictoc,Timing over IP Connection and Transfer of Clock,ietf,wg
+2019,wg:/api/v1/group/group/1723/,int,1,6man,IPv6 Maintenance,ietf,wg
+2019,wg:/api/v1/group/group/1847/,int,1,dmm,Distributed Mobility Management,ietf,wg
+2019,wg:/api/v1/group/group/2167/,int,1,ipwave,IP Wireless Access in Vehicular Environments,ietf,wg
+2019,wg:/api/v1/group/group/988/,int,1,dhc,Dynamic Host Configuration,ietf,wg
+2019,wg:/api/v1/group/group/1452/,ops,7,dnsop,Domain Name System Operations,ietf,wg
+2019,wg:/api/v1/group/group/1575/,ops,8,netconf,Network Configuration,ietf,wg
+2019,wg:/api/v1/group/group/1578/,ops,2,v6ops,IPv6 Operations,ietf,wg
+2019,wg:/api/v1/group/group/1584/,ops,2,grow,Global Routing Operations,ietf,wg
+2019,wg:/api/v1/group/group/1612/,ops,1,radext,RADIUS EXTensions,ietf,wg
+2019,wg:/api/v1/group/group/1638/,ops,2,netmod,Network Modeling,ietf,wg
+2019,wg:/api/v1/group/group/1682/,ops,4,dime,Diameter Maintenance and Extensions,ietf,wg
+2019,wg:/api/v1/group/group/1714/,ops,3,opsawg,Operations and Management Area Working Group,ietf,wg
+2019,wg:/api/v1/group/group/1959/,ops,3,lime,Layer Independent OAM Management in the Multi-Layer Environment,ietf,wg
+2019,wg:/api/v1/group/group/2166/,ops,4,sidrops,SIDR Operations,ietf,wg
+2019,wg:/api/v1/group/group/1041/,rtg,4,idr,Inter-Domain Routing,ietf,wg
+2019,wg:/api/v1/group/group/1102/,rtg,1,isis,IS-IS for IP Internets,ietf,wg
+2019,wg:/api/v1/group/group/1132/,rtg,2,manet,Mobile Ad-hoc Networks,ietf,wg
+2019,wg:/api/v1/group/group/1140/,rtg,8,mpls,Multiprotocol Label Switching,ietf,wg
+2019,wg:/api/v1/group/group/1188/,rtg,1,ospf,Open Shortest Path First IGP,ietf,wg
+2019,wg:/api/v1/group/group/1397/,rtg,1,pim,Protocols for IP Multicast,ietf,wg
+2019,wg:/api/v1/group/group/1524/,rtg,3,ccamp,Common Control and Measurement Plane,ietf,wg
+2019,wg:/api/v1/group/group/1619/,rtg,5,rtgwg,Routing Area Working Group,ietf,wg
+2019,wg:/api/v1/group/group/1628/,rtg,2,bfd,Bidirectional Forwarding Detection,ietf,wg
+2019,wg:/api/v1/group/group/1630/,rtg,5,pce,Path Computation Element,ietf,wg
+2019,wg:/api/v1/group/group/1650/,rtg,1,trill,Transparent Interconnection of Lots of Links,ietf,wg
+2019,wg:/api/v1/group/group/1875/,rtg,1,i2rs,Interface to the Routing System,ietf,wg
+2019,wg:/api/v1/group/group/1905/,rtg,3,spring,Source Packet Routing in Networking,ietf,wg
+2019,wg:/api/v1/group/group/1960/,rtg,4,bess,BGP Enabled ServiceS,ietf,wg
+2019,wg:/api/v1/group/group/1962/,rtg,3,detnet,Deterministic Networking,ietf,wg
+2019,wg:/api/v1/group/group/1964/,rtg,1,bier,Bit Indexed Explicit Replication,ietf,wg
+2019,wg:/api/v1/group/group/1985/,rtg,1,teas,Traffic Engineering Architecture and Signaling,ietf,wg
+2019,wg:/api/v1/group/group/2215/,rtg,6,lsr,Link State Routing,ietf,wg
+2019,wg:/api/v1/group/group/1326/,sec,1,tls,Transport Layer Security,ietf,wg
+2019,wg:/api/v1/group/group/1634/,sec,1,kitten,Common Authentication Technology Next Generation,ietf,wg
+2019,wg:/api/v1/group/group/1740/,sec,1,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2019,wg:/api/v1/group/group/1748/,sec,1,oauth,Web Authorization Protocol,ietf,wg
+2019,wg:/api/v1/group/group/1831/,sec,1,mile,Managed Incident Lightweight Exchange,ietf,wg
+2019,wg:/api/v1/group/group/1995/,sec,2,acme,Automated Certificate Management Environment,ietf,wg
+2019,wg:/api/v1/group/group/1996/,sec,1,dots,DDoS Open Threat Signaling,ietf,wg
+2019,wg:/api/v1/group/group/2164/,sec,6,lamps,Limited Additional Mechanisms for PKIX and SMIME,ietf,wg
+2019,wg:/api/v1/group/group/1089/,tsv,1,ippm,IP Performance Measurement,ietf,wg
+2019,wg:/api/v1/group/group/1152/,tsv,1,nfsv4,Network File System Version 4,ietf,wg
+2019,wg:/api/v1/group/group/1463/,tsv,2,tsvwg,Transport Area Working Group,ietf,wg
+2019,wg:/api/v1/group/group/1838/,tsv,1,rmcat,RTP Media Congestion Avoidance Techniques,ietf,wg
+2019,wg:/api/v1/group/group/1932/,tsv,2,tcpinc,TCP Increased Security,ietf,wg
+2020,rg:/api/v1/group/group/1849/,Other,3,icnrg,Information-Centric Networking,irtf,rg
+2020,rg:/api/v1/group/group/31/,Other,1,cfrg,Crypto Forum,irtf,rg
+2020,stream:iab,Other,7,iab,Internet Architecture Board,iab,ietf
+2020,stream:ietf-other,Other,11,sec,Security Area,ietf,area
+2020,stream:ise,Other,20,none,Individual Submissions,ise,individ
+2020,wg:/api/v1/group/group/2147/,Other,2,mtgvenue,Meeting Venue,ietf,wg
+2020,wg:/api/v1/group/group/2221/,Other,8,iasa2,IETF Administrative Support Activity 2,ietf,wg
+2020,wg:/api/v1/group/group/2233/,Other,2,git,GitHub Integration and Tooling,ietf,wg
+2020,wg:/api/v1/group/group/1643/,art,1,ecrit,Emergency Context Resolution with Internet Technologies,ietf,wg
+2020,wg:/api/v1/group/group/1718/,art,1,httpbis,HTTP,ietf,wg
+2020,wg:/api/v1/group/group/1762/,art,3,sipcore,Session Initiation Protocol Core,ietf,wg
+2020,wg:/api/v1/group/group/1789/,art,4,core,Constrained RESTful Environments,ietf,wg
+2020,wg:/api/v1/group/group/1812/,art,2,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2020,wg:/api/v1/group/group/1822/,art,1,cdni,Content Delivery Networks Interconnection,ietf,wg
+2020,wg:/api/v1/group/group/1963/,art,1,netvc,Internet Video Codec,ietf,wg
+2020,wg:/api/v1/group/group/2013/,art,1,perc,Privacy Enhanced RTP Conferencing,ietf,wg
+2020,wg:/api/v1/group/group/2015/,art,3,capport,Captive Portal Interaction,ietf,wg
+2020,wg:/api/v1/group/group/2022/,art,1,cellar,Codec Encoding for LossLess Archiving and Realtime transmission,ietf,wg
+2020,wg:/api/v1/group/group/2146/,art,3,regext,Registration Protocols Extensions,ietf,wg
+2020,wg:/api/v1/group/group/2175/,art,4,cbor,Concise Binary Object Representation Maintenance and Extensions,ietf,wg
+2020,wg:/api/v1/group/group/2176/,art,1,jmap,JSON Mail Access Protocol,ietf,wg
+2020,wg:/api/v1/group/group/2205/,art,1,extra,Email mailstore and eXtensions To Revise or Amend,ietf,wg
+2020,wg:/api/v1/group/group/1642/,int,2,ntp,Network Time Protocol,ietf,wg
+2020,wg:/api/v1/group/group/1665/,int,2,intarea,Internet Area Working Group,ietf,wg
+2020,wg:/api/v1/group/group/1723/,int,3,6man,IPv6 Maintenance,ietf,wg
+2020,wg:/api/v1/group/group/1847/,int,2,dmm,Distributed Mobility Management,ietf,wg
+2020,wg:/api/v1/group/group/1895/,int,3,dnssd,Extensions for Scalable DNS Service Discovery,ietf,wg
+2020,wg:/api/v1/group/group/1897/,int,4,6lo,IPv6 over Networks of Resource-constrained Nodes,ietf,wg
+2020,wg:/api/v1/group/group/1958/,int,1,dprive,DNS PRIVate Exchange,ietf,wg
+2020,wg:/api/v1/group/group/2148/,int,1,lpwan,IPv6 over Low Power Wide-Area Networks,ietf,wg
+2020,wg:/api/v1/group/group/988/,int,3,dhc,Dynamic Host Configuration,ietf,wg
+2020,wg:/api/v1/group/group/1118/,ops,2,mboned,MBONE Deployment,ietf,wg
+2020,wg:/api/v1/group/group/1452/,ops,7,dnsop,Domain Name System Operations,ietf,wg
+2020,wg:/api/v1/group/group/1599/,ops,1,opsec,Operational Security Capabilities for IP Network Infrastructure,ietf,wg
+2020,wg:/api/v1/group/group/1638/,ops,3,netmod,Network Modeling,ietf,wg
+2020,wg:/api/v1/group/group/1714/,ops,2,opsawg,Operations and Management Area Working Group,ietf,wg
+2020,wg:/api/v1/group/group/2166/,ops,2,sidrops,SIDR Operations,ietf,wg
+2020,wg:/api/v1/group/group/1041/,rtg,4,idr,Inter-Domain Routing,ietf,wg
+2020,wg:/api/v1/group/group/1132/,rtg,2,manet,Mobile Ad-hoc Networks,ietf,wg
+2020,wg:/api/v1/group/group/1140/,rtg,2,mpls,Multiprotocol Label Switching,ietf,wg
+2020,wg:/api/v1/group/group/1397/,rtg,3,pim,Protocols for IP Multicast,ietf,wg
+2020,wg:/api/v1/group/group/1619/,rtg,1,rtgwg,Routing Area Working Group,ietf,wg
+2020,wg:/api/v1/group/group/1628/,rtg,1,bfd,Bidirectional Forwarding Detection,ietf,wg
+2020,wg:/api/v1/group/group/1630/,rtg,10,pce,Path Computation Element,ietf,wg
+2020,wg:/api/v1/group/group/1840/,rtg,1,nvo3,Network Virtualization Overlays,ietf,wg
+2020,wg:/api/v1/group/group/1875/,rtg,1,i2rs,Interface to the Routing System,ietf,wg
+2020,wg:/api/v1/group/group/1910/,rtg,1,sfc,Service Function Chaining,ietf,wg
+2020,wg:/api/v1/group/group/1960/,rtg,1,bess,BGP Enabled ServiceS,ietf,wg
+2020,wg:/api/v1/group/group/1962/,rtg,2,detnet,Deterministic Networking,ietf,wg
+2020,wg:/api/v1/group/group/1985/,rtg,3,teas,Traffic Engineering Architecture and Signaling,ietf,wg
+2020,wg:/api/v1/group/group/2215/,rtg,5,lsr,Link State Routing,ietf,wg
+2020,wg:/api/v1/group/group/1326/,sec,4,tls,Transport Layer Security,ietf,wg
+2020,wg:/api/v1/group/group/1674/,sec,1,emu,EAP Method Update,ietf,wg
+2020,wg:/api/v1/group/group/1740/,sec,2,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2020,wg:/api/v1/group/group/1748/,sec,4,oauth,Web Authorization Protocol,ietf,wg
+2020,wg:/api/v1/group/group/1831/,sec,1,mile,Managed Incident Lightweight Exchange,ietf,wg
+2020,wg:/api/v1/group/group/1921/,sec,1,ace,Authentication and Authorization for Constrained Environments,ietf,wg
+2020,wg:/api/v1/group/group/1995/,sec,3,acme,Automated Certificate Management Environment,ietf,wg
+2020,wg:/api/v1/group/group/1996/,sec,3,dots,DDoS Open Threat Signaling,ietf,wg
+2020,wg:/api/v1/group/group/2002/,sec,2,cose,CBOR Object Signing and Encryption,ietf,wg
+2020,wg:/api/v1/group/group/2143/,sec,4,curdle,"CURves, Deprecating and a Little more Encryption",ietf,wg
+2020,wg:/api/v1/group/group/2164/,sec,6,lamps,Limited Additional Mechanisms for PKIX and SMIME,ietf,wg
+2020,wg:/api/v1/group/group/2169/,sec,2,secevent,Security Events,ietf,wg
+2020,wg:/api/v1/group/group/1089/,tsv,2,ippm,IP Performance Measurement,ietf,wg
+2020,wg:/api/v1/group/group/1152/,tsv,2,nfsv4,Network File System Version 4,ietf,wg
+2020,wg:/api/v1/group/group/1463/,tsv,4,tsvwg,Transport Area Working Group,ietf,wg
+2020,wg:/api/v1/group/group/1620/,tsv,2,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2020,wg:/api/v1/group/group/1744/,tsv,3,alto,Application-Layer Traffic Optimization,ietf,wg
+2020,wg:/api/v1/group/group/1764/,tsv,1,mptcp,Multipath TCP,ietf,wg
+2020,wg:/api/v1/group/group/1838/,tsv,2,rmcat,RTP Media Congestion Avoidance Techniques,ietf,wg
+2020,wg:/api/v1/group/group/1924/,tsv,2,taps,Transport Services,ietf,wg
+2020,wg:/api/v1/group/group/1926/,tsv,2,tram,TURN Revised and Modernized,ietf,wg
+2021,rg:/api/v1/group/group/1849/,Other,3,icnrg,Information-Centric Networking,irtf,rg
+2021,rg:/api/v1/group/group/1883/,Other,1,nwcrg,Coding for efficient NetWork Communications Research Group,irtf,rg
+2021,rg:/api/v1/group/group/2202/,Other,1,panrg,Path Aware Networking RG,irtf,rg
+2021,rg:/api/v1/group/group/31/,Other,1,cfrg,Crypto Forum,irtf,rg
+2021,stream:iab,Other,4,iab,Internet Architecture Board,iab,ietf
+2021,stream:ietf-other,Other,7,art,Applications and Real-Time Area,ietf,area
+2021,stream:ise,Other,8,none,Individual Submissions,ise,individ
+2021,wg:/api/v1/group/group/2280/,Other,1,shmoo,Stay Home Meet Only Online,ietf,wg
+2021,wg:/api/v1/group/group/1138/,art,15,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2021,wg:/api/v1/group/group/1643/,art,1,ecrit,Emergency Context Resolution with Internet Technologies,ietf,wg
+2021,wg:/api/v1/group/group/1718/,art,2,httpbis,HTTP,ietf,wg
+2021,wg:/api/v1/group/group/1789/,art,3,core,Constrained RESTful Environments,ietf,wg
+2021,wg:/api/v1/group/group/1812/,art,6,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2021,wg:/api/v1/group/group/1813/,art,1,avtext,Audio/Video Transport Extensions,ietf,wg
+2021,wg:/api/v1/group/group/1816/,art,6,clue,ControLling mUltiple streams for tElepresence,ietf,wg
+2021,wg:/api/v1/group/group/1820/,art,11,rtcweb,Real-Time Communication in WEB-browsers,ietf,wg
+2021,wg:/api/v1/group/group/1832/,art,3,bfcpbis,Binary Floor Control Protocol Bis,ietf,wg
+2021,wg:/api/v1/group/group/1892/,art,1,dmarc,"Domain-based Message Authentication, Reporting & Conformance",ietf,wg
+2021,wg:/api/v1/group/group/1899/,art,5,stir,Secure Telephone Identity Revisited,ietf,wg
+2021,wg:/api/v1/group/group/1918/,art,1,uta,Using TLS in Applications,ietf,wg
+2021,wg:/api/v1/group/group/1953/,art,3,calext,Calendaring Extensions,ietf,wg
+2021,wg:/api/v1/group/group/2013/,art,2,perc,Privacy Enhanced RTP Conferencing,ietf,wg
+2021,wg:/api/v1/group/group/2021/,art,2,ice,Interactive Connectivity Establishment,ietf,wg
+2021,wg:/api/v1/group/group/2022/,art,1,cellar,Codec Encoding for LossLess Archiving and Realtime transmission,ietf,wg
+2021,wg:/api/v1/group/group/2146/,art,8,regext,Registration Protocols Extensions,ietf,wg
+2021,wg:/api/v1/group/group/2156/,art,1,sipbrandy,SIP Best-practice Recommendations Against Network Dangers to privacY,ietf,wg
+2021,wg:/api/v1/group/group/2175/,art,3,cbor,Concise Binary Object Representation Maintenance and Extensions,ietf,wg
+2021,wg:/api/v1/group/group/2176/,art,1,jmap,JSON Mail Access Protocol,ietf,wg
+2021,wg:/api/v1/group/group/2205/,art,2,extra,Email mailstore and eXtensions To Revise or Amend,ietf,wg
+2021,wg:/api/v1/group/group/1626/,int,2,hip,Host Identity Protocol,ietf,wg
+2021,wg:/api/v1/group/group/1642/,int,1,ntp,Network Time Protocol,ietf,wg
+2021,wg:/api/v1/group/group/1723/,int,2,6man,IPv6 Maintenance,ietf,wg
+2021,wg:/api/v1/group/group/1803/,int,1,homenet,Home Networking,ietf,wg
+2021,wg:/api/v1/group/group/1817/,int,1,lwig,Light-Weight Implementation Guidance,ietf,wg
+2021,wg:/api/v1/group/group/1897/,int,2,6lo,IPv6 over Networks of Resource-constrained Nodes,ietf,wg
+2021,wg:/api/v1/group/group/1903/,int,4,6tisch,IPv6 over the TSCH mode of IEEE 802.15.4e,ietf,wg
+2021,wg:/api/v1/group/group/1958/,int,2,dprive,DNS PRIVate Exchange,ietf,wg
+2021,wg:/api/v1/group/group/2148/,int,2,lpwan,IPv6 over Low Power Wide-Area Networks,ietf,wg
+2021,wg:/api/v1/group/group/988/,int,1,dhc,Dynamic Host Configuration,ietf,wg
+2021,wg:/api/v1/group/group/1118/,ops,1,mboned,MBONE Deployment,ietf,wg
+2021,wg:/api/v1/group/group/1452/,ops,6,dnsop,Domain Name System Operations,ietf,wg
+2021,wg:/api/v1/group/group/1578/,ops,3,v6ops,IPv6 Operations,ietf,wg
+2021,wg:/api/v1/group/group/1599/,ops,1,opsec,Operational Security Capabilities for IP Network Infrastructure,ietf,wg
+2021,wg:/api/v1/group/group/1638/,ops,2,netmod,Network Modeling,ietf,wg
+2021,wg:/api/v1/group/group/1714/,ops,4,opsawg,Operations and Management Area Working Group,ietf,wg
+2021,wg:/api/v1/group/group/1956/,ops,6,anima,Autonomic Networking Integrated Model and Approach,ietf,wg
+2021,wg:/api/v1/group/group/945/,ops,1,bmwg,Benchmarking Methodology,ietf,wg
+2021,wg:/api/v1/group/group/1041/,rtg,9,idr,Inter-Domain Routing,ietf,wg
+2021,wg:/api/v1/group/group/1140/,rtg,3,mpls,Multiprotocol Label Switching,ietf,wg
+2021,wg:/api/v1/group/group/1188/,rtg,1,ospf,Open Shortest Path First IGP,ietf,wg
+2021,wg:/api/v1/group/group/1524/,rtg,2,ccamp,Common Control and Measurement Plane,ietf,wg
+2021,wg:/api/v1/group/group/1619/,rtg,1,rtgwg,Routing Area Working Group,ietf,wg
+2021,wg:/api/v1/group/group/1628/,rtg,1,bfd,Bidirectional Forwarding Detection,ietf,wg
+2021,wg:/api/v1/group/group/1630/,rtg,3,pce,Path Computation Element,ietf,wg
+2021,wg:/api/v1/group/group/1730/,rtg,4,roll,Routing Over Low power and Lossy networks,ietf,wg
+2021,wg:/api/v1/group/group/1905/,rtg,3,spring,Source Packet Routing in Networking,ietf,wg
+2021,wg:/api/v1/group/group/1910/,rtg,2,sfc,Service Function Chaining,ietf,wg
+2021,wg:/api/v1/group/group/1960/,rtg,9,bess,BGP Enabled ServiceS,ietf,wg
+2021,wg:/api/v1/group/group/1962/,rtg,8,detnet,Deterministic Networking,ietf,wg
+2021,wg:/api/v1/group/group/1985/,rtg,1,teas,Traffic Engineering Architecture and Signaling,ietf,wg
+2021,wg:/api/v1/group/group/2150/,rtg,6,babel,Babel routing protocol,ietf,wg
+2021,wg:/api/v1/group/group/2215/,rtg,3,lsr,Link State Routing,ietf,wg
+2021,wg:/api/v1/group/group/1326/,sec,2,tls,Transport Layer Security,ietf,wg
+2021,wg:/api/v1/group/group/1674/,sec,2,emu,EAP Method Update,ietf,wg
+2021,wg:/api/v1/group/group/1740/,sec,1,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2021,wg:/api/v1/group/group/1748/,sec,3,oauth,Web Authorization Protocol,ietf,wg
+2021,wg:/api/v1/group/group/1920/,sec,1,trans,Public Notary Transparency,ietf,wg
+2021,wg:/api/v1/group/group/1965/,sec,1,i2nsf,Interface to Network Security Functions,ietf,wg
+2021,wg:/api/v1/group/group/1995/,sec,2,acme,Automated Certificate Management Environment,ietf,wg
+2021,wg:/api/v1/group/group/1996/,sec,5,dots,DDoS Open Threat Signaling,ietf,wg
+2021,wg:/api/v1/group/group/2164/,sec,3,lamps,Limited Additional Mechanisms for PKIX and SMIME,ietf,wg
+2021,wg:/api/v1/group/group/2211/,sec,1,suit,Software Updates for Internet of Things,ietf,wg
+2021,wg:/api/v1/group/group/1089/,tsv,5,ippm,IP Performance Measurement,ietf,wg
+2021,wg:/api/v1/group/group/1463/,tsv,2,tsvwg,Transport Area Working Group,ietf,wg
+2021,wg:/api/v1/group/group/1620/,tsv,2,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2021,wg:/api/v1/group/group/1838/,tsv,4,rmcat,RTP Media Congestion Avoidance Techniques,ietf,wg
+2021,wg:/api/v1/group/group/2161/,tsv,4,quic,QUIC,ietf,wg
+2022,rg:/api/v1/group/group/1849/,Other,2,icnrg,Information-Centric Networking,irtf,rg
+2022,rg:/api/v1/group/group/1883/,Other,2,nwcrg,Coding for efficient NetWork Communications Research Group,irtf,rg
+2022,rg:/api/v1/group/group/2202/,Other,1,panrg,Path Aware Networking RG,irtf,rg
+2022,rg:/api/v1/group/group/31/,Other,1,cfrg,Crypto Forum,irtf,rg
+2022,rg:/api/v1/group/group/38/,Other,2,nmrg,Network Management,irtf,rg
+2022,stream:iab,Other,3,iab,Internet Architecture Board,iab,ietf
+2022,stream:ietf-other,Other,10,rtg,Routing Area,ietf,area
+2022,stream:ise,Other,23,none,Individual Submissions,ise,individ
+2022,wg:/api/v1/group/group/2280/,Other,1,shmoo,Stay Home Meet Occasionally Online,ietf,wg
+2022,wg:/api/v1/group/group/1138/,art,1,mmusic,Multiparty Multimedia Session Control,ietf,wg
+2022,wg:/api/v1/group/group/1718/,art,12,httpbis,HTTP,ietf,wg
+2022,wg:/api/v1/group/group/1763/,art,1,dispatch,Dispatch,ietf,wg
+2022,wg:/api/v1/group/group/1789/,art,6,core,Constrained RESTful Environments,ietf,wg
+2022,wg:/api/v1/group/group/1812/,art,1,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2022,wg:/api/v1/group/group/1822/,art,1,cdni,Content Delivery Networks Interconnection,ietf,wg
+2022,wg:/api/v1/group/group/1918/,art,1,uta,Using TLS in Applications,ietf,wg
+2022,wg:/api/v1/group/group/1953/,art,1,calext,Calendaring Extensions,ietf,wg
+2022,wg:/api/v1/group/group/2013/,art,1,perc,Privacy Enhanced RTP Conferencing,ietf,wg
+2022,wg:/api/v1/group/group/2146/,art,1,regext,Registration Protocols Extensions,ietf,wg
+2022,wg:/api/v1/group/group/2175/,art,1,cbor,Concise Binary Object Representation Maintenance and Extensions,ietf,wg
+2022,wg:/api/v1/group/group/2176/,art,1,jmap,JSON Mail Access Protocol,ietf,wg
+2022,wg:/api/v1/group/group/2205/,art,1,extra,Email mailstore and eXtensions To Revise or Amend,ietf,wg
+2022,wg:/api/v1/group/group/2242/,art,1,rum,Relay User Machine,ietf,wg
+2022,wg:/api/v1/group/group/2283/,art,1,httpapi,Building Blocks for HTTP APIs,ietf,wg
+2022,wg:/api/v1/group/group/1642/,int,2,ntp,Network Time Protocols,ietf,wg
+2022,wg:/api/v1/group/group/1723/,int,3,6man,IPv6 Maintenance,ietf,wg
+2022,wg:/api/v1/group/group/1817/,int,1,lwig,Light-Weight Implementation Guidance,ietf,wg
+2022,wg:/api/v1/group/group/1958/,int,1,dprive,DNS PRIVate Exchange,ietf,wg
+2022,wg:/api/v1/group/group/2266/,int,1,drip,Drone Remote ID Protocol,ietf,wg
+2022,wg:/api/v1/group/group/988/,int,1,dhc,Dynamic Host Configuration,ietf,wg
+2022,wg:/api/v1/group/group/1452/,ops,2,dnsop,Domain Name System Operations,ietf,wg
+2022,wg:/api/v1/group/group/1575/,ops,1,netconf,Network Configuration,ietf,wg
+2022,wg:/api/v1/group/group/1578/,ops,1,v6ops,IPv6 Operations,ietf,wg
+2022,wg:/api/v1/group/group/1584/,ops,1,grow,Global Routing Operations,ietf,wg
+2022,wg:/api/v1/group/group/1599/,ops,1,opsec,Operational Security Capabilities for IP Network Infrastructure,ietf,wg
+2022,wg:/api/v1/group/group/1638/,ops,2,netmod,Network Modeling,ietf,wg
+2022,wg:/api/v1/group/group/1714/,ops,4,opsawg,Operations and Management Area Working Group,ietf,wg
+2022,wg:/api/v1/group/group/1956/,ops,1,anima,Autonomic Networking Integrated Model and Approach,ietf,wg
+2022,wg:/api/v1/group/group/2166/,ops,5,sidrops,SIDR Operations,ietf,wg
+2022,wg:/api/v1/group/group/2248/,ops,1,mops,Media OPerationS,ietf,wg
+2022,wg:/api/v1/group/group/1041/,rtg,4,idr,Inter-Domain Routing,ietf,wg
+2022,wg:/api/v1/group/group/1140/,rtg,2,mpls,Multiprotocol Label Switching,ietf,wg
+2022,wg:/api/v1/group/group/1397/,rtg,4,pim,Protocols for IP Multicast,ietf,wg
+2022,wg:/api/v1/group/group/1628/,rtg,1,bfd,Bidirectional Forwarding Detection,ietf,wg
+2022,wg:/api/v1/group/group/1630/,rtg,1,pce,Path Computation Element,ietf,wg
+2022,wg:/api/v1/group/group/1751/,rtg,8,lisp,Locator/ID Separation Protocol,ietf,wg
+2022,wg:/api/v1/group/group/1905/,rtg,1,spring,Source Packet Routing in Networking,ietf,wg
+2022,wg:/api/v1/group/group/1910/,rtg,1,sfc,Service Function Chaining,ietf,wg
+2022,wg:/api/v1/group/group/1960/,rtg,3,bess,BGP Enabled ServiceS,ietf,wg
+2022,wg:/api/v1/group/group/1962/,rtg,1,detnet,Deterministic Networking,ietf,wg
+2022,wg:/api/v1/group/group/1964/,rtg,2,bier,Bit Indexed Explicit Replication,ietf,wg
+2022,wg:/api/v1/group/group/1985/,rtg,1,teas,Traffic Engineering Architecture and Signaling,ietf,wg
+2022,wg:/api/v1/group/group/2150/,rtg,1,babel,Babel routing protocol,ietf,wg
+2022,wg:/api/v1/group/group/2215/,rtg,4,lsr,Link State Routing,ietf,wg
+2022,wg:/api/v1/group/group/1326/,sec,6,tls,Transport Layer Security,ietf,wg
+2022,wg:/api/v1/group/group/1634/,sec,1,kitten,Common Authentication Technology Next Generation,ietf,wg
+2022,wg:/api/v1/group/group/1674/,sec,2,emu,EAP Method Update,ietf,wg
+2022,wg:/api/v1/group/group/1740/,sec,2,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2022,wg:/api/v1/group/group/1748/,sec,2,oauth,Web Authorization Protocol,ietf,wg
+2022,wg:/api/v1/group/group/1921/,sec,6,ace,Authentication and Authorization for Constrained Environments,ietf,wg
+2022,wg:/api/v1/group/group/1996/,sec,2,dots,DDoS Open Threat Signaling,ietf,wg
+2022,wg:/api/v1/group/group/2002/,sec,4,cose,CBOR Object Signing and Encryption,ietf,wg
+2022,wg:/api/v1/group/group/2143/,sec,1,curdle,"CURves, Deprecating and a Little more Encryption",ietf,wg
+2022,wg:/api/v1/group/group/2164/,sec,3,lamps,Limited Additional Mechanisms for PKIX and SMIME,ietf,wg
+2022,wg:/api/v1/group/group/2211/,sec,1,suit,Software Updates for Internet of Things,ietf,wg
+2022,wg:/api/v1/group/group/1089/,tsv,6,ippm,IP Performance Measurement,ietf,wg
+2022,wg:/api/v1/group/group/1152/,tsv,1,nfsv4,Network File System Version 4,ietf,wg
+2022,wg:/api/v1/group/group/1463/,tsv,1,tsvwg,Transport Area Working Group,ietf,wg
+2022,wg:/api/v1/group/group/1620/,tsv,2,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2022,wg:/api/v1/group/group/1744/,tsv,4,alto,Application-Layer Traffic Optimization,ietf,wg
+2022,wg:/api/v1/group/group/1966/,tsv,4,dtn,Delay/Disruption Tolerant Networking,ietf,wg
+2022,wg:/api/v1/group/group/2161/,tsv,6,quic,QUIC,ietf,wg
+2022,wg:/api/v1/group/group/2268/,tsv,2,masque,Multiplexed Application Substrate over QUIC Encryption,ietf,wg
+2023,rg:/api/v1/group/group/1849/,Other,1,icnrg,Information-Centric Networking,irtf,rg
+2023,rg:/api/v1/group/group/1883/,Other,2,nwcrg,Coding for efficient NetWork Communications Research Group,irtf,rg
+2023,rg:/api/v1/group/group/2202/,Other,1,panrg,Path Aware Networking RG,irtf,rg
+2023,rg:/api/v1/group/group/2227/,Other,3,pearg,Privacy Enhancements and Assessments Research Group,irtf,rg
+2023,rg:/api/v1/group/group/2228/,Other,1,qirg,Quantum Internet Research Group,irtf,rg
+2023,rg:/api/v1/group/group/31/,Other,6,cfrg,Crypto Forum,irtf,rg
+2023,stream:iab,Other,2,iab,Internet Architecture Board,iab,ietf
+2023,stream:ietf-other,Other,5,none,Individual Submissions,ietf,individ
+2023,stream:ise,Other,11,none,Individual Submissions,ise,individ
+2023,wg:/api/v1/group/group/2280/,Other,2,shmoo,Stay Home Meet Occasionally Online,ietf,wg
+2023,wg:/api/v1/group/group/2340/,Other,1,elegy,NomCom Eligibility Update,ietf,wg
+2023,wg:/api/v1/group/group/1718/,art,2,httpbis,HTTP,ietf,wg
+2023,wg:/api/v1/group/group/1762/,art,1,sipcore,Session Initiation Protocol Core,ietf,wg
+2023,wg:/api/v1/group/group/1812/,art,2,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2023,wg:/api/v1/group/group/1822/,art,1,cdni,Content Delivery Networks Interconnection,ietf,wg
+2023,wg:/api/v1/group/group/1899/,art,2,stir,Secure Telephone Identity Revisited,ietf,wg
+2023,wg:/api/v1/group/group/1918/,art,1,uta,Using TLS in Applications,ietf,wg
+2023,wg:/api/v1/group/group/2176/,art,2,jmap,JSON Mail Access Protocol,ietf,wg
+2023,wg:/api/v1/group/group/2205/,art,2,extra,Email mailstore and eXtensions To Revise or Amend,ietf,wg
+2023,wg:/api/v1/group/group/2273/,art,1,asap,Automatic SIP trunking And Peering,ietf,wg
+2023,wg:/api/v1/group/group/2283/,art,1,httpapi,Building Blocks for HTTP APIs,ietf,wg
+2023,wg:/api/v1/group/group/2286/,art,1,jsonpath,JSON Path,ietf,wg
+2023,wg:/api/v1/group/group/1817/,int,1,lwig,Light-Weight Implementation Guidance,ietf,wg
+2023,wg:/api/v1/group/group/1847/,int,1,dmm,Distributed Mobility Management,ietf,wg
+2023,wg:/api/v1/group/group/1897/,int,3,6lo,IPv6 over Networks of Resource-constrained Nodes,ietf,wg
+2023,wg:/api/v1/group/group/2148/,int,4,lpwan,IPv6 over Low Power Wide-Area Networks,ietf,wg
+2023,wg:/api/v1/group/group/2167/,int,1,ipwave,IP Wireless Access in Vehicular Environments,ietf,wg
+2023,wg:/api/v1/group/group/2246/,int,3,add,Adaptive DNS Discovery,ietf,wg
+2023,wg:/api/v1/group/group/2266/,int,2,drip,Drone Remote ID Protocol,ietf,wg
+2023,wg:/api/v1/group/group/1452/,ops,6,dnsop,Domain Name System Operations,ietf,wg
+2023,wg:/api/v1/group/group/1578/,ops,1,v6ops,IPv6 Operations,ietf,wg
+2023,wg:/api/v1/group/group/1584/,ops,1,grow,Global Routing Operations,ietf,wg
+2023,wg:/api/v1/group/group/1599/,ops,2,opsec,Operational Security Capabilities for IP Network Infrastructure,ietf,wg
+2023,wg:/api/v1/group/group/1682/,ops,1,dime,Diameter Maintenance and Extensions,ietf,wg
+2023,wg:/api/v1/group/group/1714/,ops,8,opsawg,Operations and Management Area Working Group,ietf,wg
+2023,wg:/api/v1/group/group/2166/,ops,1,sidrops,SIDR Operations,ietf,wg
+2023,wg:/api/v1/group/group/945/,ops,1,bmwg,Benchmarking Methodology,ietf,wg
+2023,wg:/api/v1/group/group/1041/,rtg,5,idr,Inter-Domain Routing,ietf,wg
+2023,wg:/api/v1/group/group/1397/,rtg,4,pim,Protocols for IP Multicast,ietf,wg
+2023,wg:/api/v1/group/group/1524/,rtg,1,ccamp,Common Control and Measurement Plane,ietf,wg
+2023,wg:/api/v1/group/group/1619/,rtg,1,rtgwg,Routing Area Working Group,ietf,wg
+2023,wg:/api/v1/group/group/1628/,rtg,1,bfd,Bidirectional Forwarding Detection,ietf,wg
+2023,wg:/api/v1/group/group/1630/,rtg,4,pce,Path Computation Element,ietf,wg
+2023,wg:/api/v1/group/group/1751/,rtg,1,lisp,Locator/ID Separation Protocol,ietf,wg
+2023,wg:/api/v1/group/group/1840/,rtg,1,nvo3,Network Virtualization Overlays,ietf,wg
+2023,wg:/api/v1/group/group/1905/,rtg,1,spring,Source Packet Routing in Networking,ietf,wg
+2023,wg:/api/v1/group/group/1910/,rtg,3,sfc,Service Function Chaining,ietf,wg
+2023,wg:/api/v1/group/group/1960/,rtg,1,bess,BGP Enabled ServiceS,ietf,wg
+2023,wg:/api/v1/group/group/2215/,rtg,12,lsr,Link State Routing,ietf,wg
+2023,wg:/api/v1/group/group/2256/,rtg,2,raw,Reliable and Available Wireless,ietf,wg
+2023,wg:/api/v1/group/group/1326/,sec,1,tls,Transport Layer Security,ietf,wg
+2023,wg:/api/v1/group/group/1674/,sec,1,emu,EAP Method Update,ietf,wg
+2023,wg:/api/v1/group/group/1740/,sec,7,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2023,wg:/api/v1/group/group/1748/,sec,3,oauth,Web Authorization Protocol,ietf,wg
+2023,wg:/api/v1/group/group/1869/,sec,1,sacm,Security Automation and Continuous Monitoring,ietf,wg
+2023,wg:/api/v1/group/group/1921/,sec,3,ace,Authentication and Authorization for Constrained Environments,ietf,wg
+2023,wg:/api/v1/group/group/1995/,sec,3,acme,Automated Certificate Management Environment,ietf,wg
+2023,wg:/api/v1/group/group/1996/,sec,2,dots,DDoS Open Threat Signaling,ietf,wg
+2023,wg:/api/v1/group/group/2002/,sec,2,cose,CBOR Object Signing and Encryption,ietf,wg
+2023,wg:/api/v1/group/group/2164/,sec,6,lamps,Limited Additional Mechanisms for PKIX and SMIME,ietf,wg
+2023,wg:/api/v1/group/group/2169/,sec,1,secevent,Security Events,ietf,wg
+2023,wg:/api/v1/group/group/2194/,sec,1,teep,Trusted Execution Environment Provisioning,ietf,wg
+2023,wg:/api/v1/group/group/2220/,sec,1,mls,Messaging Layer Security,ietf,wg
+2023,wg:/api/v1/group/group/2231/,sec,1,rats,Remote ATtestation ProcedureS,ietf,wg
+2023,wg:/api/v1/group/group/1089/,tsv,5,ippm,IP Performance Measurement,ietf,wg
+2023,wg:/api/v1/group/group/1463/,tsv,4,tsvwg,Transport Area Working Group,ietf,wg
+2023,wg:/api/v1/group/group/1620/,tsv,2,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2023,wg:/api/v1/group/group/1744/,tsv,1,alto,Application-Layer Traffic Optimization,ietf,wg
+2023,wg:/api/v1/group/group/1838/,tsv,1,rmcat,RTP Media Congestion Avoidance Techniques,ietf,wg
+2023,wg:/api/v1/group/group/2161/,tsv,2,quic,QUIC,ietf,wg
+2023,wg:/api/v1/group/group/2268/,tsv,1,masque,Multiplexed Application Substrate over QUIC Encryption,ietf,wg
+2024,rg:/api/v1/group/group/1849/,Other,4,icnrg,Information-Centric Networking,irtf,rg
+2024,rg:/api/v1/group/group/1988/,Other,1,hrpc,Human Rights Protocol Considerations,irtf,rg
+2024,rg:/api/v1/group/group/1991/,Other,1,t2trg,Thing-to-Thing,irtf,rg
+2024,rg:/api/v1/group/group/2228/,Other,1,qirg,Quantum Internet Research Group,irtf,rg
+2024,rg:/api/v1/group/group/31/,Other,1,cfrg,Crypto Forum,irtf,rg
+2024,stream:iab,Other,3,iab,Internet Architecture Board,iab,ietf
+2024,stream:ietf-other,Other,7,sec,Security Area,ietf,area
+2024,stream:ise,Other,5,none,Individual Submissions,ise,individ
+2024,wg:/api/v1/group/group/1953/,art,3,calext,Calendaring Extensions,ietf,wg
+2024,wg:/api/v1/group/group/2022/,art,2,cellar,Codec Encoding for LossLess Archiving and Realtime transmission,ietf,wg
+2024,wg:/api/v1/group/group/2146/,art,3,regext,Registration Protocols Extensions,ietf,wg
+2024,wg:/api/v1/group/group/2175/,art,2,cbor,Concise Binary Object Representation Maintenance and Extensions,ietf,wg
+2024,wg:/api/v1/group/group/2176/,art,3,jmap,JSON Mail Access Protocol,ietf,wg
+2024,wg:/api/v1/group/group/2205/,art,4,extra,Email mailstore and eXtensions To Revise or Amend,ietf,wg
+2024,wg:/api/v1/group/group/2285/,art,1,sframe,Secure Media Frames,ietf,wg
+2024,wg:/api/v1/group/group/2286/,art,1,jsonpath,JSON Path,ietf,wg
+2024,wg:/api/v1/group/group/2299/,art,1,sedate,Serialising Extended Data About Times and Events,ietf,wg
+2024,wg:/api/v1/group/group/2341/,art,1,uuidrev,Revise Universally Unique Identifier Definitions,ietf,wg
+2024,wg:/api/v1/group/group/1642/,int,1,ntp,Network Time Protocols,ietf,wg
+2024,wg:/api/v1/group/group/1665/,int,1,intarea,Internet Area Working Group,ietf,wg
+2024,wg:/api/v1/group/group/1723/,int,3,6man,IPv6 Maintenance,ietf,wg
+2024,wg:/api/v1/group/group/1803/,int,2,homenet,Home Networking,ietf,wg
+2024,wg:/api/v1/group/group/1897/,int,1,6lo,IPv6 over Networks of Resource-constrained Nodes,ietf,wg
+2024,wg:/api/v1/group/group/1958/,int,1,dprive,DNS PRIVate Exchange,ietf,wg
+2024,wg:/api/v1/group/group/1966/,int,1,dtn,Delay/Disruption Tolerant Networking,ietf,wg
+2024,wg:/api/v1/group/group/2246/,int,1,add,Adaptive DNS Discovery,ietf,wg
+2024,wg:/api/v1/group/group/2266/,int,1,drip,Drone Remote ID Protocol,ietf,wg
+2024,wg:/api/v1/group/group/2381/,int,1,bpf,BPF/eBPF,ietf,wg
+2024,wg:/api/v1/group/group/988/,int,1,dhc,Dynamic Host Configuration,ietf,wg
+2024,wg:/api/v1/group/group/1089/,ops,4,ippm,IP Performance Measurement,ietf,wg
+2024,wg:/api/v1/group/group/1118/,ops,1,mboned,MBONE Deployment,ietf,wg
+2024,wg:/api/v1/group/group/1452/,ops,5,dnsop,Domain Name System Operations,ietf,wg
+2024,wg:/api/v1/group/group/1575/,ops,7,netconf,Network Configuration,ietf,wg
+2024,wg:/api/v1/group/group/1578/,ops,2,v6ops,IPv6 Operations,ietf,wg
+2024,wg:/api/v1/group/group/1714/,ops,2,opsawg,Operations and Management Area Working Group,ietf,wg
+2024,wg:/api/v1/group/group/1744/,ops,1,alto,Application-Layer Traffic Optimization,ietf,wg
+2024,wg:/api/v1/group/group/2166/,ops,5,sidrops,SIDR Operations,ietf,wg
+2024,wg:/api/v1/group/group/2248/,ops,1,mops,Media OPerationS,ietf,wg
+2024,wg:/api/v1/group/group/1041/,rtg,1,idr,Inter-Domain Routing,ietf,wg
+2024,wg:/api/v1/group/group/1140/,rtg,7,mpls,Multiprotocol Label Switching,ietf,wg
+2024,wg:/api/v1/group/group/1524/,rtg,1,ccamp,Common Control and Measurement Plane,ietf,wg
+2024,wg:/api/v1/group/group/1619/,rtg,1,rtgwg,Routing Area Working Group,ietf,wg
+2024,wg:/api/v1/group/group/1630/,rtg,2,pce,Path Computation Element,ietf,wg
+2024,wg:/api/v1/group/group/1650/,rtg,1,trill,Transparent Interconnection of Lots of Links,ietf,wg
+2024,wg:/api/v1/group/group/1840/,rtg,2,nvo3,Network Virtualization Overlays,ietf,wg
+2024,wg:/api/v1/group/group/1905/,rtg,2,spring,Source Packet Routing in Networking,ietf,wg
+2024,wg:/api/v1/group/group/1960/,rtg,5,bess,BGP Enabled ServiceS,ietf,wg
+2024,wg:/api/v1/group/group/1962/,rtg,6,detnet,Deterministic Networking,ietf,wg
+2024,wg:/api/v1/group/group/1964/,rtg,1,bier,Bit Indexed Explicit Replication,ietf,wg
+2024,wg:/api/v1/group/group/1985/,rtg,3,teas,Traffic Engineering Architecture and Signaling,ietf,wg
+2024,wg:/api/v1/group/group/2150/,rtg,3,babel,Babel routing protocol,ietf,wg
+2024,wg:/api/v1/group/group/2215/,rtg,5,lsr,Link State Routing,ietf,wg
+2024,wg:/api/v1/group/group/2347/,rtg,1,tvr,Time-Variant Routing,ietf,wg
+2024,wg:/api/v1/group/group/1365/,sec,1,openpgp,Open Specification for Pretty Good Privacy,ietf,wg
+2024,wg:/api/v1/group/group/1634/,sec,1,kitten,Common Authentication Technology Next Generation,ietf,wg
+2024,wg:/api/v1/group/group/1740/,sec,2,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2024,wg:/api/v1/group/group/1918/,sec,1,uta,Using TLS in Applications,ietf,wg
+2024,wg:/api/v1/group/group/1921/,sec,1,ace,Authentication and Authorization for Constrained Environments,ietf,wg
+2024,wg:/api/v1/group/group/2002/,sec,3,cose,CBOR Object Signing and Encryption,ietf,wg
+2024,wg:/api/v1/group/group/2164/,sec,9,lamps,Limited Additional Mechanisms for PKIX and SMIME,ietf,wg
+2024,wg:/api/v1/group/group/2231/,sec,2,rats,Remote ATtestation ProcedureS,ietf,wg
+2024,wg:/api/v1/group/group/2249/,sec,2,lake,Lightweight Authenticated Key Exchange,ietf,wg
+2024,wg:/api/v1/group/group/2269/,sec,3,privacypass,Privacy Pass,ietf,wg
+2024,wg:/api/v1/group/group/2276/,sec,1,gnap,Grant Negotiation and Authorization Protocol,ietf,wg
+2024,wg:/api/v1/group/group/2312/,sec,2,ohai,Oblivious HTTP Application Intermediation,ietf,wg
+2024,wg:/api/v1/group/group/1152/,wit,1,nfsv4,Network File System Version 4,ietf,wg
+2024,wg:/api/v1/group/group/1463/,wit,3,tsvwg,Transport and Services Working Group,ietf,wg
+2024,wg:/api/v1/group/group/1620/,wit,1,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2024,wg:/api/v1/group/group/1718/,wit,5,httpbis,HTTP,ietf,wg
+2024,wg:/api/v1/group/group/1789/,wit,3,core,Constrained RESTful Environments,ietf,wg
+2024,wg:/api/v1/group/group/1812/,wit,2,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2024,wg:/api/v1/group/group/1820/,wit,1,rtcweb,Real-Time Communication in WEB-browsers,ietf,wg
+2024,wg:/api/v1/group/group/1822/,wit,2,cdni,Content Delivery Networks Interconnection,ietf,wg
+2024,wg:/api/v1/group/group/2283/,wit,2,httpapi,Building Blocks for HTTP APIs,ietf,wg
+2025,rg:/api/v1/group/group/2234/,Other,1,coinrg,Computing in the Network Research Group,irtf,rg
+2025,rg:/api/v1/group/group/31/,Other,4,cfrg,Crypto Forum,irtf,rg
+2025,rg:/api/v1/group/group/38/,Other,1,nmrg,Network Management,irtf,rg
+2025,rg:/api/v1/group/group/42/,Other,1,iccrg,Internet Congestion Control,irtf,rg
+2025,stream:editorial,Other,1,rswg,RFC Series Working Group,editorial,edwg
+2025,stream:iab,Other,1,iab,Internet Architecture Board,iab,ietf
+2025,stream:ietf-other,Other,4,none,Individual Submissions,ietf,individ
+2025,stream:irtf,Other,1,irtfopen,IRTF Open Meeting,irtf,rag
+2025,stream:ise,Other,4,none,Individual Submissions,ise,individ
+2025,wg:/api/v1/group/group/1762/,art,3,sipcore,Session Initiation Protocol Core,ietf,wg
+2025,wg:/api/v1/group/group/1813/,art,1,avtext,Audio/Video Transport Extensions,ietf,wg
+2025,wg:/api/v1/group/group/1899/,art,1,stir,Secure Telephone Identity Revisited,ietf,wg
+2025,wg:/api/v1/group/group/2146/,art,4,regext,Registration Protocols Extensions,ietf,wg
+2025,wg:/api/v1/group/group/2175/,art,1,cbor,Concise Binary Object Representation Maintenance and Extensions,ietf,wg
+2025,wg:/api/v1/group/group/2176/,art,1,jmap,JSON Mail Access Protocol,ietf,wg
+2025,wg:/api/v1/group/group/2205/,art,3,extra,Email mailstore and eXtensions To Revise or Amend,ietf,wg
+2025,wg:/api/v1/group/group/2303/,art,2,mediaman,Media Type Maintenance,ietf,wg
+2025,wg:/api/v1/group/group/1642/,int,2,ntp,Network Time Protocols,ietf,wg
+2025,wg:/api/v1/group/group/1709/,int,1,tictoc,Timing over IP Connection and Transfer of Clock,ietf,wg
+2025,wg:/api/v1/group/group/1723/,int,5,6man,IPv6 Maintenance,ietf,wg
+2025,wg:/api/v1/group/group/1895/,int,2,dnssd,Extensions for Scalable DNS Service Discovery,ietf,wg
+2025,wg:/api/v1/group/group/1966/,int,2,dtn,Delay/Disruption Tolerant Networking,ietf,wg
+2025,wg:/api/v1/group/group/2246/,int,1,add,Adaptive DNS Discovery,ietf,wg
+2025,wg:/api/v1/group/group/2266/,int,1,drip,Drone Remote ID Protocol,ietf,wg
+2025,wg:/api/v1/group/group/2289/,int,2,madinas,MAC Address Device Identification for Network and Application Services,ietf,wg
+2025,wg:/api/v1/group/group/1452/,ops,8,dnsop,Domain Name System Operations,ietf,wg
+2025,wg:/api/v1/group/group/1575/,ops,1,netconf,Network Configuration,ietf,wg
+2025,wg:/api/v1/group/group/1578/,ops,3,v6ops,IPv6 Operations,ietf,wg
+2025,wg:/api/v1/group/group/1584/,ops,1,grow,Global Routing Operations,ietf,wg
+2025,wg:/api/v1/group/group/1638/,ops,4,netmod,Network Modeling,ietf,wg
+2025,wg:/api/v1/group/group/1714/,ops,10,opsawg,Operations and Management Area Working Group,ietf,wg
+2025,wg:/api/v1/group/group/1956/,ops,1,anima,Autonomic Networking Integrated Model and Approach,ietf,wg
+2025,wg:/api/v1/group/group/2166/,ops,1,sidrops,SIDR Operations,ietf,wg
+2025,wg:/api/v1/group/group/2248/,ops,1,mops,Media OPerationS,ietf,wg
+2025,wg:/api/v1/group/group/945/,ops,1,bmwg,Benchmarking Methodology,ietf,wg
+2025,wg:/api/v1/group/group/1041/,rtg,7,idr,Inter-Domain Routing,ietf,wg
+2025,wg:/api/v1/group/group/1140/,rtg,10,mpls,Multiprotocol Label Switching,ietf,wg
+2025,wg:/api/v1/group/group/1397/,rtg,6,pim,Protocols for IP Multicast,ietf,wg
+2025,wg:/api/v1/group/group/1619/,rtg,1,rtgwg,Routing Area Working Group,ietf,wg
+2025,wg:/api/v1/group/group/1628/,rtg,2,bfd,Bidirectional Forwarding Detection,ietf,wg
+2025,wg:/api/v1/group/group/1630/,rtg,7,pce,Path Computation Element,ietf,wg
+2025,wg:/api/v1/group/group/1730/,rtg,2,roll,Routing Over Low power and Lossy networks,ietf,wg
+2025,wg:/api/v1/group/group/1751/,rtg,1,lisp,Locator/ID Separation Protocol,ietf,wg
+2025,wg:/api/v1/group/group/1840/,rtg,1,nvo3,Network Virtualization Overlays,ietf,wg
+2025,wg:/api/v1/group/group/1905/,rtg,1,spring,Source Packet Routing in Networking,ietf,wg
+2025,wg:/api/v1/group/group/1960/,rtg,9,bess,BGP Enabled ServiceS,ietf,wg
+2025,wg:/api/v1/group/group/1964/,rtg,1,bier,Bit Indexed Explicit Replication,ietf,wg
+2025,wg:/api/v1/group/group/1969/,rtg,1,pals,Pseudowire And LDP-enabled Services,ietf,wg
+2025,wg:/api/v1/group/group/1985/,rtg,4,teas,Traffic Engineering Architecture and Signaling,ietf,wg
+2025,wg:/api/v1/group/group/2214/,rtg,3,rift,Routing In Fat Trees,ietf,wg
+2025,wg:/api/v1/group/group/2215/,rtg,6,lsr,Link State Routing,ietf,wg
+2025,wg:/api/v1/group/group/2216/,rtg,2,lsvr,Link State Vector Routing,ietf,wg
+2025,wg:/api/v1/group/group/1326/,sec,1,tls,Transport Layer Security,ietf,wg
+2025,wg:/api/v1/group/group/1612/,sec,2,radext,RADIUS EXTensions,ietf,wg
+2025,wg:/api/v1/group/group/1674/,sec,1,emu,EAP Method Update,ietf,wg
+2025,wg:/api/v1/group/group/1740/,sec,3,ipsecme,IP Security Maintenance and Extensions,ietf,wg
+2025,wg:/api/v1/group/group/1748/,sec,4,oauth,Web Authorization Protocol,ietf,wg
+2025,wg:/api/v1/group/group/1830/,sec,1,jose,Javascript Object Signing and Encryption,ietf,wg
+2025,wg:/api/v1/group/group/1842/,sec,1,scim,System for Cross-domain Identity Management,ietf,wg
+2025,wg:/api/v1/group/group/1921/,sec,2,ace,Authentication and Authorization for Constrained Environments,ietf,wg
+2025,wg:/api/v1/group/group/1995/,sec,3,acme,Automated Certificate Management Environment,ietf,wg
+2025,wg:/api/v1/group/group/2164/,sec,17,lamps,Limited Additional Mechanisms for PKIX and SMIME,ietf,wg
+2025,wg:/api/v1/group/group/2220/,sec,1,mls,Messaging Layer Security,ietf,wg
+2025,wg:/api/v1/group/group/2231/,sec,3,rats,Remote ATtestation ProcedureS,ietf,wg
+2025,wg:/api/v1/group/group/2276/,sec,1,gnap,Grant Negotiation and Authorization Protocol,ietf,wg
+2025,wg:/api/v1/group/group/2352/,sec,1,pquip,Post-Quantum Use In Protocols,ietf,wg
+2025,wg:/api/v1/group/group/1152/,wit,3,nfsv4,Network File System Version 4,ietf,wg
+2025,wg:/api/v1/group/group/1463/,wit,2,tsvwg,Transport and Services Working Group,ietf,wg
+2025,wg:/api/v1/group/group/1620/,wit,1,tcpm,TCP Maintenance and Minor Extensions,ietf,wg
+2025,wg:/api/v1/group/group/1718/,wit,3,httpbis,HTTP,ietf,wg
+2025,wg:/api/v1/group/group/1789/,wit,1,core,Constrained RESTful Environments,ietf,wg
+2025,wg:/api/v1/group/group/1812/,wit,4,avtcore,Audio/Video Transport Core Maintenance,ietf,wg
+2025,wg:/api/v1/group/group/1822/,wit,1,cdni,Content Delivery Networks Interconnection,ietf,wg
+2025,wg:/api/v1/group/group/1924/,wit,3,taps,Transport Services,ietf,wg
+2025,wg:/api/v1/group/group/2283/,wit,2,httpapi,Building Blocks for HTTP APIs,ietf,wg
+2025,wg:/api/v1/group/group/2291/,wit,1,wish,WebRTC Ingest Signaling over HTTPS,ietf,wg
+2025,wg:/api/v1/group/group/2396/,wit,1,ccwg,Congestion Control Working Group,ietf,wg
