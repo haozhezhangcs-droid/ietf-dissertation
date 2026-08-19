@@ -1,0 +1,7886 @@
+﻿affiliation_raw,count
+Orange,652
+Alcatel-Lucent,593
+Nortel Networks,490
+France Telecom,434
+Sun Microsystems,363
+Telefonica,349
+ETRI,317
+New H3C Technologies,313
+Comcast,310
+CNNIC,290
+ICANN,262
+Alcatel,254
+BT,235
+Lucent Technologies,221
+NEC,216
+UC3M,193
+Old Dog Consulting,190
+Columbia University,183
+Universitaet Bremen TZI,180
+Ciena,166
+Telecom Italia,163
+INRIA,161
+Motorola,159
+HPE,156
+Siemens,155
+Nortel,153
+Avaya,151
+APNIC,150
+CableLabs,145
+ISC,144
+Sandelman Software Works,142
+"VeriSign, Inc.",141
+Zhongguancun Laboratory,141
+Soongsil University,139
+dynamicsoft,136
+Broadcom,133
+Editor,132
+The MITRE Corporation,132
+Bell Canada,130
+Vigil Security,125
+BUPT,123
+NetApp,123
+Swisscom,121
+University of Aberdeen,120
+Viagenie,119
+Fraunhofer SIT,119
+Beijing Jiaotong University,117
+ETH Zurich,115
+Universität Bremen TZI,113
+Fastly,110
+Columbia U.,108
+NIST,107
+Qualcomm,107
+Ping Identity,106
+Yale University,105
+CAICT,103
+Arrcus,101
+Isode Ltd,101
+NLnet Labs,100
+Arista Networks,99
+University of Glasgow,98
+MIT,97
+USC/ISI,97
+Beijing University of Posts and Telecommunications,97
+BBN Technologies,96
+Painless Security,93
+RIPE NCC,92
+NeuStar,91
+UCLouvain,90
+VPN Consortium,89
+Fujitsu,89
+ISI,88
+Panasonic,85
+Facebook,85
+Ciena Corporation,82
+RISE AB,81
+National Security Agency,80
+Isode Limited,80
+NICT,80
+University of Oslo,80
+Stanford University,79
+lispers.net,79
+IMT Atlantique,79
+Aalto University,78
+Keio University,77
+UCLA,77
+Redback Networks,77
+Brocade,77
+Meta,77
+Salesforce,76
+Verisign Labs,75
+Individual Contributor,73
+Acme Packet,72
+Univ. of Auckland,70
+Samsung,70
+Universidad Carlos III de Madrid,70
+INSA-Lyon,70
+Siemens AG,69
+NEC Europe Ltd.,69
+"Arrcus, Inc.",69
+"Vigil Security, LLC",69
+University College London,68
+Xerox Corporation,68
+Infinera,68
+Tencent,68
+Alibaba Group,67
+HTT Consulting,67
+Toshiba,66
+sn3rd,66
+Dell,65
+Internet Systems Consortium,65
+Arm Limited,65
+LinkedIn,64
+Telefonica I+D,63
+Nvidia,63
+Trinity College Dublin,62
+"LIX, Ecole Polytechnique",62
+Network Zen,62
+"LabN Consulting, L.L.C.",62
+IECA,61
+Polycom,61
+France Telecom Orange,61
+Chongqing University of,61
+Harvard University,60
+KT,60
+Marvell,60
+IIT Madras,60
+University of Murcia,59
+BBN,59
+Hewlett-Packard,59
+HAW Hamburg,59
+Andrew Corporation,59
+Check Point,58
+"RTFM, Inc.",58
+Internet Initiative Japan,58
+Verisign,58
+Acklio,57
+InterDigital Communications,57
+Inria,57
+KDDI Corporation,57
+Vodafone,57
+VMware,57
+Comodo Group Inc.,56
+Brandenburg InternetWorking,56
+Tail-f Systems,56
+ELVIS-PLUS,55
+Okta,55
+greenbytes,54
+Amazon,54
+Entrust Limited,54
+InterDigital,53
+UC Berkeley,53
+"Qualcomm, Inc.",53
+Orange Labs,53
+France Telecom R&D,53
+Kyung Hee University,53
+Fastmail,53
+Telcordia Technologies,52
+CERNET Center/Tsinghua,52
+Private Octopus Inc.,52
+SoftBank,51
+Tekelec,50
+"NeuStar, Inc.",50
+Innosoft,49
+Bell Labs,49
+Extreme Networks,49
+Sun,49
+Bloomberg LP,48
+University of Cambridge,48
+IP Infusion,48
+Neustar,48
+Samsung Electronics,48
+Lancaster University,48
+Starent Networks,48
+Alef Edge,48
+Bay Networks,47
+Time Warner Cable,47
+University of Tuebingen,47
+Jacobs University Bremen,47
+Volta Networks,47
+Pengcheng Laboratory,47
+Sungkyunkwan University,46
+Nominum,45
+Netscape Communications Corp.,45
+VeriSign,45
+CTTC,45
+EMC,45
+SJD AB,45
+CSC/FUNET,45
+University of Southampton,45
+SI6 Networks,45
+CZ.NIC,45
+Phoenix R&D,45
+Philips Research,44
+Vidyo,44
+"QUALCOMM, Inc.",44
+Taughannock Networks,44
+Grotto Networking,44
+Carnegie Mellon University,43
+IAB,43
+Inside Products,43
+"InterDigital Communications, LLC",43
+"AX Enterprize, LLC",43
+The University of Auckland,42
+Bellcore,42
+JPRS,42
+UCL,42
+LACNIC,42
+Zscaler,42
+AX Enterprize,42
+China Academy of Information and Communications Technology,42
+"Nominum, Inc.",41
+University of Twente,41
+TU Braunschweig,41
+Tsinghua Univ.,41
+University of Stuttgart,41
+"Arrcus, Inc",41
+Alibaba Inc.,41
+The Johns Hopkins University Applied Physics Laboratory,41
+"Novell, Inc.",40
+ATT,40
+RAD Data Communications,40
+EMC Corporation,40
+Sprint,40
+Soaring Hawk Consulting,40
+University of Washington,39
+"Verisign, Inc.",39
+TNO,39
+Adobe,39
+Universite catholique de Louvain,39
+Alcatel-Lucent Bell Labs,39
+Intuit,39
+"Meta Platforms, Inc.",39
+Jacobs University,38
+Johns Hopkins Applied Physics Laboratory,38
+Department of Computer Science and Engineering,38
+Entrust,37
+Hickory Hill Consulting,37
+AWS,37
+Skype,37
+SAMSUNG Electronics,37
+The IPv6 Company,37
+Casa Systems,37
+ZDNS,37
+Independent Consultant,36
+Bell Laboratories,36
+ARIN,36
+Alibaba,36
+Boeing Research & Technology,36
+Linaro,36
+University of California,35
+YumaWorks,35
+"SPARTA, Inc.",35
+NEC Corporation,35
+secunet Security Networks AG,35
+Broadcom Corporation,35
+CATR,35
+Southeast University,35
+University of Patras,35
+Veridom Ltd,35
+"CEA, LIST",34
+University of Napoli,34
+CEA,34
+KISA,34
+MTI Systems,34
+ARM Ltd.,33
+Isode Ltd.,33
+W3C,33
+Independent Researcher,33
+Telecom ParisTech,33
+DELL,33
+Watsen Networks,33
+USC,32
+Lulea University of Technology,32
+Internet Society,32
+jdrosen.net,32
+Telchemy,32
+Bridgewater Systems,32
+Zhejiang Gongshang University,32
+FreeRADIUS,32
+BSI,32
+Electronics and Telecommunications Research Institute,32
+Hewlett-Packard Company,31
+editor,31
+Tellabs,31
+SSW,31
+Arbor Networks,31
+The Boeing Company,31
+"NetApp, Inc.",31
+Energy Sciences Network,31
+CNIC,31
+"Dyn, Inc.",30
+University of Tennessee,30
+Network Appliance,30
+JHU/APL,30
+TeliaSonera,30
+Technical University of Catalonia,30
+LabN,30
+"McAfee, Inc.",30
+NSRI,30
+Dell EMC,30
+Quantonium,30
+Five9,30
+Ribose,30
+The Swedish Internet Foundation,30
+Department of Computer Science & Engineering,30
+Merit Network,29
+British Telecom,29
+TU Berlin,29
+Equinix,29
+Telcordia,29
+University of Auckland,29
+Muenster Univ. of Applied Sciences,29
+Muenster Univ. of Appl. Sciences,29
+DENIC eG,29
+Aruba Networks,29
+KDDI R&D Labs,29
+Cloudmark,29
+ARM Limited,29
+Jabil,29
+Infinera Corp,29
+Tongji University,29
+Universitat Politecnica de Catalunya,29
+IIT-CNR/Registro.it,29
+University of Applied Sciences Bonn-Rhein-Sieg,29
+Centec,29
+Hughes LAN Systems,28
+Editors,28
+Naval Research Laboratory,28
+MCI,28
+IMDEA Networks,28
+Siemens Enterprise Communications,28
+ARM,28
+University of Helsinki,28
+Trend Micro,28
+Cryptonector,28
+University of Goettingen,28
+Qwilt,28
+NVIDIA,28
+North Carolina State University,28
+CryptoPro,28
+pEp Foundation,28
+audriga,28
+Transmute,28
+RtBrick Inc.,27
+University of Michigan,27
+SNMP Research,27
+Procket Networks,27
+Nuage Networks,27
+Packet Design,27
+IIJ Research Laboratory,27
+RSA Security,27
+OpenLDAP Foundation,27
+Politecnico di Bari,27
+CDT,27
+Karlstad University,27
+BUPT University,27
+CMCC,27
+"Penango, Inc.",27
+Hewlett Packard Enterprise,27
+Network Time Foundation,27
+Sangmyung University,27
+Lumen Technologies,27
+Sensinode,26
+Netnod,26
+Check Point Software,26
+ICIR,26
+University of Waterloo,26
+Samsung AIT,26
+Plantronics,26
+CERNET,26
+University of Surrey,26
+Kyungpook National University,26
+National Institute of Information and Communications Technology,26
+SIDN Labs,26
+Hammerspace,26
+Beijing Internet Institute,26
+GoDaddy Inc.,26
+"Citrix Systems, Inc.",26
+InterDigital Europe,26
+Lucent,25
+Digital Fountain,25
+ICSI,25
+Cumulus Networks,25
+Andrew,25
+University of Seoul,25
+RWTH Aachen University,25
+Rogers Communications,25
+August Cellars,25
+Asia Pacific Network Information Centre,25
+"Beijing University of Posts and
+      Telecommunications",25
+InterDigital Inc.,25
+"ISI, R.C. ATHENA",25
+Catellix,25
+Digital Equipment Corporation,24
+SPYRUS,24
+Boston University,24
+Marconi,24
+Siemens/Roke Manor,24
+Politecnico di Torino,24
+OpenSSH,24
+AFNIC,24
+Infosys Technologies Ltd.,24
+University of Wuerzburg,24
+Alcatel Lucent,24
+Beijing University of Posts and,24
+Bloomberg,24
+ThresholdSecrets.com,24
+Qualcomm Technologies Inc.,24
+National Institute of Standards and Technology,24
+FastMail,24
+USA National Institute of Standards and Technology,24
+Self-Issued Consulting,24
+NSA,23
+Adobe Systems,23
+University of Delaware,23
+Hitachi,23
+HP,23
+Movaz Networks,23
+Princeton University,23
+Korea Telecom,23
+Seoul National University,23
+Data Connection Ltd,23
+Thomson Reuters,23
+enum.at,23
+Münster University of Applied Sciences,23
+Impedance Mismatch,23
+Sandvine,23
+Centec Networks,23
+RSA Laboratories,22
+Helsinki University of Technology,22
+Universitat Oberta de Catalunya,22
+"Alcatel-Lucent, Inc.",22
+ACIRI,22
+Concordia University/CSE,22
+"Sendmail, Inc.",22
+Telstra,22
+Acreo AB,22
+Consulintel,22
+Booz Allen Hamilton,22
+Fudan University,22
+University of Luxembourg,22
+Yubico,22
+Fastmail US LLC,22
+Institut MINES TELECOM; IMT Atlantique,22
+Amazon Web Services,22
+Internet Assigned Numbers Authority,22
+IPv4 Unicast Extensions Project,22
+"Cloud Software Group Holdings, Inc.",22
+Metaswitch Networks,21
+Vodafone Group,21
+ISODE Consortium,21
+Netscape Communications,21
+Tokyo Institute of Technology,21
+Kyoto University,21
+Fujitsu Laboratories of America,21
+BAE Systems ATC,21
+EPFL,21
+Retired,21
+Johns Hopkins University,21
+Nominet,21
+UPC,21
+Jisc,21
+Bronze Dragon Consulting,21
+American Civil Liberties Union,21
+UK National Cyber Security Centre,21
+"IRIF, University of Paris-Diderot",20
+T.J. Watson Research Center,20
+UNINETT,20
+Fraunhofer HHI,20
+MITRE,20
+SICS,20
+"Hitachi, Ltd.",20
+Amber Networks,20
+Comcast Cable,20
+Palo Alto Networks,20
+DoCoMo USA Labs,20
+Univ. Goettingen,20
+Kirei AB,20
+Telecom Bretagne,20
+ADVA Optical Networking,20
+Qualcomm Incorporated,20
+Unicamp,20
+KDDI,20
+"Hangzhou H3C Tech. Co., Ltd.",20
+Linden Research,20
+PowerDNS,20
+Everything OPS,20
+Alibaba Cloud,20
+Jitsi,19
+EICT,19
+Brocade Communications,19
+Network Solutions,19
+SUN Microsystems,19
+NAI Labs,19
+Jive Communications,19
+Flarion Technologies,19
+eB2Bcom,19
+RFC,19
+Sonus Networks,19
+Azaire Networks,19
+Hitachi Europe,19
+CRYPTO-PRO,19
+Boeing Phantom Works,19
+UTN/FRH,19
+KDDI Lab,19
+Toyota ITC,19
+Dyn,19
+MIT Kerberos Consortium,19
+Infinera Corporation,19
+Ruijie Networks,19
+Softbank,19
+Aalyria Technologies,19
+Sinodun IT,19
+"DigiCert, Inc.",19
+Aiven,19
+Cornell University,18
+Innosoft International,18
+CNRI,18
+FORE Systems,18
+QUALCOMM,18
+Internet Mail Consortium,18
+BMC Software,18
+ipUnplugged,18
+"Motorola, Inc.",18
+Hewlett-Packard Co.,18
+Network Resonance,18
+Nominet UK,18
+Comcast Cable Communications,18
+Tata Communications,18
+Netflix,18
+UK CPNI,18
+Universidad Diego Portales,18
+USA NIST,18
+Protocol Labs,18
+Chinese Academy of Sciences,18
+"Apstra, Inc.",18
+ACLU,18
+RISE SICS,18
+School of Electronic Engineering,18
+Xidian University,18
+Wire,18
+arm,18
+CryptoNext Security,18
+MATTR,18
+SandboxAQ,18
+Dover Beach Consulting,17
+Novell,17
+Yahoo,17
+BCBS Michigan,17
+Ohio University,17
+Adobe Systems Incorporated,17
+WIDE Project,17
+Motorola Laboratories,17
+"Neustar, Inc.",17
+SRI International,17
+Fraunhofer FOKUS,17
+Internet2,17
+Panasonic Singapore Labs,17
+Folly Consulting,17
+F5 Networks,17
+NS-Technologies,17
+Boeing,17
+Helsinki Institute for Information,17
+RD-IPtech,17
+US NIST,17
+MIT Lincoln Laboratory,17
+Nextworks,17
+Telecom Paris,17
+BSD Software Development,17
+NITK Surathkal,17
+Rohan Mahy Consulting Services,17
+The Matrix.org Foundation C.I.C.,17
+Nankai University,17
+Xerox PARC,16
+Entrust Technologies,16
+Sigma Designs,16
+Meetecho,16
+Ascend Communications,16
+Telia Finland,16
+Netscape,16
+"TZI, Universitaet Bremen",16
+Avici Systems,16
+Baltimore Technologies,16
+Bell Labs/Lucent Technologies,16
+DoCoMo Euro-Labs,16
+Aoyama Gakuin University,16
+ECI Telecom,16
+Korea Polytechnic University,16
+Symantec,16
+Northeastern University,16
+Dragon Research Labs,16
+National Digital Switching System Engineering and Technological,16
+Tongji/Yale University,16
+"Internet Systems Consortium, Inc.",16
+BII Group Holdings Ltd.,16
+greenbytes GmbH,16
+Bespoke Engineering,16
+Barefoot Networks,16
+Department of Software,16
+Department of Electrical and Computer Engineering,16
+ByteDance,16
+"CNIC, CAS",16
+Hikvision,16
+CMU,15
+KAIST,15
+Brandenburg Consulting,15
+Georgia Institute of Technology,15
+"RISEC, AIST",15
+Toshiba R&D Center,15
+MIT LCS,15
+INSIDE Secure,15
+Oryx Mail Systems GmbH,15
+W3C/MIT,15
+Airespace,15
+Mojatatu Networks,15
+Ixia,15
+IMC & VPNC,15
+TID,15
+"WINLAB, Rutgers University",15
+Drexel University,15
+Colorado State University,15
+Simula Metropolitan Centre for Digital Engineering,15
+Jabber Software Foundation,15
+Monash University CTIE,15
+IP Infusion Inc.,15
+University of Amsterdam,15
+Tampere University of Technology,15
+Technical University of Munich,15
+Cygnacom Solutions,15
+Elevate Technologies,15
+Symantec Corporation,15
+Afilias Canada,15
+Cornell U.,15
+Dongguk University,15
+Afilias,15
+Shinkuro Inc.,15
+University of Zagreb,15
+Simula Research Laboratory,15
+PT Taylor Consulting,15
+Big Switch Networks,15
+MINE lab,15
+Skype Technologies S.A.,15
+Sine Nomine,15
+UESTC,15
+Nanjing University,15
+Raytheon BBN Technologies,15
+Nomura Research Institute,15
+Velocix (Alcatel-Lucent),15
+University of Applied Sciences Augsburg,15
+Independent Contributor,15
+SUN YAT-SEN UNIVERSITY,15
+USTC,15
+Yandex,15
+Tessares,15
+TATA CONSULTANCY SERVICES LTD.,15
+Orange Business Service,15
+Sichuan University,15
+Qrator Labs,15
+ISRG,15
+Somos Inc.,15
+Thoughtspot,15
+Standcore LLC,15
+Fiberhome,15
+DigiCert,15
+Fastmail Pty Ltd,15
+PGPKeys.EU,15
+Humotica,15
+"Nomotic, Inc.",15
+Affirmed Networks,14
+Pittsburgh Supercomputing Center,14
+UC Davis,14
+FTP Software,14
+Carnegie Mellon,14
+Stockholm University/KTH,14
+PayPal,14
+Fermilab,14
+Canon CRF,14
+Computer Incident Response Center Luxembourg,14
+Vivace Networks,14
+LabN Consulting,14
+University of Oulu,14
+OpenSS7 Corporation,14
+WorldCom,14
+Yokogawa Electric Corp.,14
+Siemens/Roke Manor Research,14
+MCSR Labs,14
+"IECA, Inc.",14
+Alaxala Networks Corp.,14
+Arch Rock Corporation,14
+CEA LIST,14
+NEU,14
+NEC Laboratories Europe,14
+H3C,14
+T-Mobile USA,14
+Ecole Polytechnique,14
+"AKAYLA, Inc.",14
+Shenzhen University,14
+"VMware, Inc.",14
+I.I.T Madras,14
+cnnic,14
+RtBrick Inc,14
+DE-CIX,14
+Department of Defense,14
+zDNS Ltd.,14
+Apstra,14
+"Mellanox Technologies, Inc.",14
+Airbus,14
+IoTconsultancy.nl,14
+Sky UK,14
+RTFM llp,14
+Liquid Telecom,14
+Malis Consulting,14
+yes.com,14
+Brave Software,14
+Broadpeak,14
+"SECOM CO., LTD.",14
+"Aruba Networks, HPE",14
+Tradeverifyd,14
+"NetDEF, Inc.",14
+CERN,13
+QUALCOMM Incorporated,13
+Lepidum,13
+NRL,13
+University of Zurich,13
+RPI,13
+SPARTA,13
+ENST Bretagne,13
+Universitaet Karlsruhe,13
+SnowShore Networks,13
+Avaya Inc.,13
+Adara Networks,13
+Philips Electronics,13
+CA Technologies,13
+Farsight Security,13
+Internet Architecture Board,13
+SIPeerior Technologies,13
+SUNET,13
+MPI-SWS,13
+"Netflix, Inc.",13
+Orange CH,13
+RESTENA,13
+TU Muenchen,13
+Comcast Corporation,13
+Arktan,13
+Linkedin,13
+Renesas Mobile,13
+Telekom Innovation Laboratories,13
+Pantheon Technologies SRO,13
+SIGFOX,13
+T-Systems,13
+Redpill Linpro,13
+NXP Semiconductors,13
+"Comcast, Inc",13
+Network Systems Research and Design,13
+Edinburgh Napier University,13
+CETC 30,13
+Arm,13
+SCION Association,13
+All For Eco,13
+Naval Postgraduate School,13
+SPIRL,13
+Blue Fern Consulting,13
+AsiaInfo Technologies (China) Inc.,13
+Daydreamer,12
+3rd,12
+Hewlett Packard Co.,12
+Hewlett Packard,12
+Bull,12
+Quobis,12
+UUNET Technologies,12
+Cyber Solutions Inc.,12
+Loughborough University,12
+Fraunhofer FKIE,12
+Citrix,12
+IPHighway,12
+Newcastle University,12
+MCI WorldCom,12
+Matsushita,12
+TR-Sys,12
+VOCAL Technologies,12
+Self,12
+Univ. of Sci. and Tech. Beijing,12
+G11,12
+Estacado Systems,12
+Telchemy Incorporated,12
+Institute for Infocomm Research,12
+Bell Labs/Alcatel-Lucent,12
+TU Wien,12
+WiChorus,12
+Ed.,12
+California Digital Library,12
+Technische Universitaet Muenchen,12
+Institute IMDEA Networks,12
+SJTU,12
+Metaswitch,12
+First Principles,12
+secunet Security Networks,12
+US Army CERDEC,12
+Fraunhofer IIS,12
+Sproute Networks,12
+Primary Data,12
+CNRS,12
+Stonyfish,12
+Goldman Sachs,12
+IST/INESC-ID/INOV,12
+INEX,12
+CIRA,12
+University of Zaragoza,12
+Dell Technologies,12
+NetDEF,12
+Tor Project Inc.,12
+USC/Information Sciences,12
+"JPL, Calif. Inst. Of Technology",12
+Beijing Institute of Technology,12
+Neptela,12
+TU Dresden,12
+intoPIX S.A.,12
+Valimail,12
+Technical University Munich,12
+University Politehnica of Bucharest,12
+Huazhong University of Science and Technology,12
+JP Morgan Chase,12
+Security Theory LLC,12
+Open-Xchange,12
+Fraunhofer Institute for Secure Information Technology,12
+InkBridge Networks,12
+Ribbon Communications,12
+"Institute of Computing Technology, Chinese Academy of Sciences",12
+Concordia University,12
+Tencent America LLC,12
+Invisible College,12
+Ant Group,12
+mesur.io,12
+Changchun University of Science and Technology,12
+Bundesdruckerei GmbH,12
+CyberSecAI Ltd,12
+Performance Systems International,11
+Cray Research,11
+Bucknell University,11
+"Xylogics, Inc.",11
+Trilliant Networks Inc.,11
+Critical Angle Inc.,11
+"ANC, Inc.",11
+Fujitsu Limited,11
+ACI WorldWide/MessagingDirect,11
+JHU APL,11
+Roke Manor Research,11
+Xerox Corp.,11
+"Level 3 Communications, Inc.",11
+Digital Bazaar,11
+Riverstone Networks,11
+ICU,11
+BUTE,11
+RADVISION,11
+Dolby Laboratories,11
+Flarion,11
+Force10,11
+Purdue University,11
+The University of Tokyo,11
+University of Oxford,11
+Ionos Networks,11
+Hewlett-Packard Corp.,11
+University of Salzburg,11
+Qualcomm Inc.,11
+Omnitor,11
+Softbank Telecom,11
+Ariadne,11
+University of Basel,11
+KoanLogic,11
+ISOC,11
+Struik Security Consultancy,11
+Cox Communications,11
+Simula Research Lab,11
+Unify,11
+callstats.io,11
+Arista,11
+Johnson Controls,11
+"Cloudmark, Inc.",11
+Porticor,11
+Spherical Cow Group,11
+Mimecast,11
+Dell-Force10,11
+NASA GRC,11
+CNES,11
+SK Telecom,11
+"PARC, Inc.",11
+DE-CIX Management GmbH,11
+ARTICLE 19,11
+Jinan University,11
+Broadcom Inc.,11
+Linköping University,11
+Proton AG,11
+Defakto Security,11
+"New H3C Technologies Co., Ltd",11
+OpenBSD,11
+Max-Planck-Institut fuer Informatik,11
+MyAuberge K.K.,11
+Sinodun,10
+MIT Laboratory for Computer Science,10
+SWITCH,10
+SURFnet bv,10
+"CWC, University of Oulu",10
+Xerox,10
+"PPS, University of Paris-Diderot",10
+Edvina AB,10
+Catalogix,10
+High North,10
+Fujitsu Laboratories,10
+Sony Corporation,10
+Siemens Roke Manor Research,10
+Adacel Technologies,10
+SSH Communications Security,10
+International University Bremen,10
+Hughes Software Systems,10
+Univ. of Karlsruhe,10
+Toshiba America Research Inc.,10
+Overture Networks,10
+Brooktrout Technology,10
+Calient Networks,10
+VanDyke Software,10
+IIJ,10
+Axway,10
+Kayote Networks,10
+OeFEG,10
+Osaka City University,10
+HIIT,10
+ICSAlabs,10
+The Measurement Factory,10
+TARI,10
+Xiph.Org Foundation,10
+eBay,10
+Linear Technology,10
+Alcatel Shanghai Bell,10
+IPInfusion,10
+nic.at,10
+Bitvise Limited,10
+Orckit-Corrigent,10
+"RSA, The Security Division of EMC",10
+CESNET,10
+Illinois Institute of Technology,10
+NEC Europe,10
+TANDBERG,10
+VoIP.co.uk,10
+Network Heretics,10
+NJUPT,10
+TNS,10
+nic.at GmbH,10
+Atlassian,10
+WMN Research Group,10
+JANET(UK),10
+China CATR,10
+HP Enterprise,10
+Arrcus & IIJ,10
+NIC.br,10
+University of Electronic Science,10
+City University of Hong Kong,10
+Thales Alenia Space,10
+Veryx Technologies,10
+Muenster University of Applied Sciences,10
+"China Telcom Co., Ltd.",10
+Denpel Informatique,10
+Avinta Communications,10
+Zededa,10
+Universität Bremen,10
+bupt,10
+LG U+,10
+NIT Delhi,10
+Asia-Pacific Network Information Centre,10
+CoSMo Software,10
+"Guangzhou Root Chain International Network Research Institute Co., Ltd.",10
+TransUnion,10
+H3C Technologies,10
+Fastly Inc.,10
+MTG AG,10
+audriga GmbH,10
+AS207960 Cyfyngedig,10
+Biza.io,10
+RFC Series Consulting Editor,10
+"National Institute of Technology Karnataka, Surathkal",10
+"University of Pennsylvania
+        School of Engineering and Applied Science",10
+Stalwart Labs LLC,10
+Alter Meridian Pty Ltd,10
+Bell Communications Research,9
+WG Chair,9
+GARR-Italy,9
+MIT/LCS,9
+Livingston,9
+"ITRI, AIST",9
+NextHop Technologies,9
+LBNL,9
+University of Maryland,9
+SmartThings,9
+Sony,9
+Qualcomm Technologies,9
+University of Padova,9
+SSH Communications Security Corp,9
+Red Hound Software,9
+Parsons,9
+Toshiba Corp.,9
+Spirent Communications,9
+Alcatel USA,9
+Diversinet,9
+Axiowave Networks,9
+Sun Microsystems Inc.,9
+The University of Arizona,9
+TIM,9
+Utrecht University,9
+Hughes Network Systems,9
+Symas Corp.,9
+Nine by Nine,9
+Pingtel,9
+SICS Swedish ICT,9
+Univ. of Applied Sciences Muenster,9
+Yahoo Inc.,9
+Corrigent Systems,9
+Telematica Instituut,9
+Sonus,9
+Telio,9
+Day Software,9
+II,9
+DoCoMo Labs USA,9
+KEIO University,9
+LTS,9
+Certicom Corp.,9
+Research in Motion,9
+Nomor Research,9
+Hasso Plattner Institute,9
+TCS,9
+APT Ltd,9
+TKK,9
+BT & UCL,9
+Ucom.ch,9
+Peking University,9
+Jet Propulsion Laboratory,9
+CREATE-NET,9
+University of Milan,9
+Georgetown University,9
+Keio Univ.,9
+Inria Paris-Rocquencourt,9
+"Vidyo, Inc.",9
+IPC Systems,9
+Steinberg Consulting,9
+NUDT,9
+NAIST,9
+Lawrence Berkeley National,9
+TNO Netherlands,9
+McAfee,9
+NRI,9
+JIT,9
+Nexus Technology,9
+vanderstok consultancy,9
+U. St Andrews,9
+EPFL-LCA2,9
+FCC,9
+Hai Gaoming BV,9
+Lepidum Co. Ltd.,9
+UPC/i2CAT,9
+ISAE-SUPAERO,9
+"F5 Networks, Inc.",9
+Kaloom,9
+Spotify AB,9
+Johns Hopkins University Applied Physics Lab,9
+Indian Institute of Science,9
+"Universita di Roma ""Tor Vergata""",9
+Department of Computer Engineering,9
+Comcast-NBCUniversal,9
+RISE SICS AB,9
+Daejeon University,9
+QA Cafe,9
+RISE,9
+Scuola Superiore Sant'Anna,9
+South China University of Technology,9
+ETH Zürich,9
+Colt,9
+UnionPay,9
+Ionio Systems,9
+University of the Bundeswehr Munich,9
+TUD Dresden University of Technology,9
+Quant Network,9
+IDsec Solutions AB,9
+PQShield,9
+Garmin International,9
+Beonex,9
+Aryaka,9
+AlgoVoi,9
+Advanced Computer Communications,8
+DEC,8
+Request for Comments,8
+University of Wisconsin,8
+Lotus Development Corporation,8
+NSWC-DD,8
+INRIA Rocquencourt,8
+UC Irvine,8
+Northwestern University,8
+University of Oregon,8
+No Mountain Software,8
+RSA Data Security,8
+Vinci Systems,8
+University of California Berkeley,8
+Defense Information Systems Agency,8
+iMinds-IBCN/UGent,8
+KTH,8
+SAIC,8
+SSH,8
+UUNET,8
+Prose Consulting Ltd.,8
+Ennovate Networks,8
+TransNexus,8
+ANL,8
+Mitsubishi Electric Corporation,8
+Toshiba Corporation,8
+Blackberry,8
+Sandburst,8
+Telia Research,8
+VeriSign Inc.,8
+"Xbind, Inc.",8
+Content Technologies Limited,8
+NSN,8
+Charles E. Perkins,8
+TraceRoute Security,8
+CacheFlow,8
+University of Chicago,8
+Fujitsu Labs.,8
+Wipro Technologies,8
+NextHop,8
+Enterasys Networks,8
+VeriSign Inc,8
+SANlight,8
+dynamicsoft Inc.,8
+Independent consultant,8
+SIPez LLC,8
+Oefeg,8
+RSA,8
+Axerra Networks,8
+"Sparta, Inc.",8
+Adiscon GmbH,8
+American Registry for Internet Numbers,8
+Voxeo,8
+Actelis Networks,8
+CELAR,8
+KPN,8
+InfoTeCS,8
+Nuova Systems,8
+Samsung ISO,8
+Elbrys Networks,8
+Force10 Networks,8
+Ubiquity Software Corporation,8
+Panasas,8
+Orange Labs R&D,8
+LIMOS Laboratory,8
+Neustar Inc.,8
+KUT,8
+Vasona Networks,8
+IPInfusion Inc.,8
+University of Coimbra,8
+"Samsung Electronics Co., Ltd.",8
+TELECOM Bretagne,8
+AIST,8
+SFR,8
+XConnect Global Networks,8
+Stoke,8
+Networked Media,8
+SPIRIT DSP,8
+Return Path,8
+Telecom SudParis,8
+Mirantis Inc.,8
+University of Wisconsin Milwaukee,8
+University of Liege,8
+Applied Communication Sciences,8
+Mellanox,8
+Dell Inc.,8
+The National Library of Finland,8
+AVA Networks,8
+CNIT,8
+ForgeRock,8
+Contrail Systems,8
+PARC,8
+iconectiv,8
+Z. Zhuang,8
+Broadcom Limited,8
+Benu Networks,8
+CentralNic Group plc,8
+Individual contributor,8
+LMU Munich,8
+NetCracker,8
+Pulse Secure,8
+Arm Ltd.,8
+Universidad Autonoma de Madrid,8
+Kloud Services,8
+DONG-EUI University,8
+Department of Homeland Security,8
+University of California Irvine,8
+Proximus,8
+SSSA,8
+Standards & Open Source Research Division,8
+Yandex LLC,8
+Authlete,8
+"Internet Initiative Japan & Arrcus, Inc.",8
+cyberstorm.mu,8
+Internet Security Research Group,8
+Hang Seng Management College,8
+CyberArk,8
+"Computer Network Information Center, Chinese Academy of Sciences",8
+C-DAC Bangalore,8
+fortiss GmbH,8
+IIJ & Arrcus,8
+Workonline,8
+Cryptography Consulting LLC,8
+Hellō,8
+GMO CONNECT Inc.,8
+Hewlett-Packard Enterprise,8
+Tsinghua,8
+FiberCop,8
+Sandelman Software Works Inc,8
+Fiberhome/CICT,8
+IETF Administration LLC,8
+Airtel India,8
+UCLouvain & WELRI,8
+Deutsches Forschungsnetz | German National Research and Education Network,8
+Blockchain Commons,8
+Disney,8
+SwarmSync.AI,8
+University of Oviedo,7
+BBN Systems and Technologies,7
+Software Engineering Institute,7
+Wellfleet Communications,7
+TIS,7
+Process Software Corporation,7
+NASA,7
+Trusted Information Systems,7
+DayDreamer,7
+Brocade Communications Systems,7
+Los Alamos National Laboratory,7
+CyberCash,7
+GTE Laboratories,7
+Newbridge Networks,7
+Engineering Networks Ltd,7
+NEC Corp.,7
+TUE,7
+Compaq,7
+ACS,7
+Insieme Networks,7
+Rackspace,7
+ipVerse,7
+Certicom,7
+CSIRO,7
+WebTV Networks,7
+DISA,7
+Novell Inc.,7
+M.I.T.,7
+LIVE.COM,7
+NASA Glenn Research Center,7
+Viagenie inc.,7
+Universitaet Bielefeld,7
+UUNET (MCI Worldcom),7
+Bell Labs/Columbia U.,7
+National University of Singapore,7
+"Cryptocom, Ltd.",7
+SNMPinfo,7
+Texas A&M University,7
+University of Salford,7
+Transwitch,7
+Wind River,7
+Yves T'Joens,7
+Black Storm Networks,7
+PESA Switching Systems,7
+TOYO Communication Equipment,7
+BBN/NASA GRC,7
+Inktomi,7
+T.V.Lakshman,7
+Infoblox,7
+SJD,7
+McDATA Corporation,7
+Argonne National,7
+Corona Networks,7
+The Resource Group,7
+TWNIC,7
+Netseal,7
+GET/ENST Bretagne,7
+HCL Technologies,7
+KNU,7
+SAMSUNG AIT,7
+Allot Communications,7
+Intec Netcore,7
+HUFS,7
+ICT,7
+University of Innsbruck,7
+NICTA,7
+WiChorus Inc.,7
+Core Technology Consulting,7
+Motorola Labs,7
+NIDA,7
+Stellar Switches,7
+Voltage Security,7
+Instituto de Telecomunicacoes,7
+Opera Software ASA,7
+Gdansk University of Technology,7
+DELL-Force10,7
+Univ. of Rome Tor Vergata,7
+Telekom Srbija,7
+TDC Oy,7
+Surrey alumni,7
+Maebashi Kyoai Gakuen College,7
+Symmetricom,7
+Graduate School of Science and,7
+Communication Networks Institute,7
+Marben Products,7
+Orange Business Services,7
+Internet Initiative Japan Inc.,7
+Octasic Inc.,7
+"YumaWorks, Inc.",7
+NICE Systems,7
+TELECOM SudParis,7
+Outer Cape Cod Network,7
+Philips,7
+"Facebook, Inc.",7
+Energy Harvesting Solutions,7
+Claranet,7
+Charter Communications,7
+Cloud Registry,7
+SoftBank Telecom,7
+Honeywell,7
+SoftAtHome,7
+Universidade de Aveiro,7
+NORDUnet,7
+Hai Gaoming B.V,7
+GE Global Research,7
+Coriant,7
+Analog Devices,7
+Trevilon LLC,7
+Naudit HPCN,7
+Ripple,7
+genua GmbH,7
+Telefornica,7
+Kerlink,7
+Nexar Inc.,7
+Rochester Institute of Technology,7
+Mellanox Technologies Ltd.,7
+King's College London,7
+Sympotech,7
+IMT-Atlantique,7
+The Road,7
+"Consulintel, S.L.",7
+SiPanda,7
+Hebrew University of Jerusalem,7
+CMU SEI,7
+Baidu,7
+Last Press Label,7
+pEp Project,7
+PCL,7
+Vecima,7
+Edgemoor Research Institute,7
+Guangzhou Genlian,7
+Strolid,7
+"Qualcomm Europe, Inc.",7
+RFC Production Center,7
+XDPnet,7
+China Internet Network Information Center,7
+"Somos, Inc.",7
+VCONIC,7
+Vauban Research,7
+INSA Lyon,6
+"Xyplex, Inc.",6
+ANS,6
+University of Pennsylvania,6
+Lawrence Berkeley Laboratory,6
+"CyberCash, Inc.",6
+Rice University,6
+Silicon Graphics,6
+Bunyip Information Systems,6
+University of Minnesota,6
+Southern Methodist University,6
+Merit Networks,6
+MITRE Corporation,6
+Ipsilon Networks,6
+Merit Network Inc.,6
+Netscape Communications Corporation,6
+Franklin and Marshall College,6
+University of Melbourne,6
+BBN Corp,6
+IronBridge Networks,6
+Amaranth Networks Inc.,6
+USC/Information Sciences Institute,6
+Tele2,6
+University of Bologna,6
+Philips Lighting,6
+Agranat Systems,6
+"Force10 Networks, Inc.",6
+U.C. Santa Cruz,6
+Univ. of Tokyo,6
+University of Manchester,6
+Marconi Communications,6
+MediaTec,6
+Content Technologies,6
+Sun Microsystems Laboratories,6
+Cabletron Systems Incorporated,6
+Bloomberg L.P.,6
+Song Networks,6
+Wind River Systems,6
+INET-Consulting,6
+Brandenburg,6
+Carleton University,6
+Interlink Networks,6
+Oki,6
+High North Inc,6
+Informed Control Inc.,6
+Univ. of Arizona,6
+AOL,6
+Comverse,6
+Sparta,6
+Abhay Roy,6
+Van Dyke Technologies,6
+JPNIC,6
+CANON Inc.,6
+Chungnam National University,6
+Massachusetts Institute of Technology,6
+Telenor R&D,6
+Technical University Berlin,6
+Packet Clearing House,6
+Effective Software,6
+"Sonos, Inc.",6
+Jabberwocky Tech,6
+Znyx Networks,6
+Hammerhead Systems,6
+OSS Nokalva,6
+Switch,6
+Global Crossing,6
+Bull SAS,6
+"Jabber, Inc.",6
+Broadcom Corp.,6
+Double Shot Security,6
+NASA/Jet Propulsion Laboratory,6
+CUHK,6
+Mimecast Ltd,6
+BAE Systems,6
+Zhejiang Gongshang Univ.,6
+ThingMagic,6
+PSC,6
+Kestrel Institute,6
+Hitachi (China),6
+BWS,6
+XMPP Standards Foundation,6
+SpaceNet AG,6
+JAIST,6
+JLC.net,6
+MMA,6
+Niigata University,6
+INEOVATION,6
+Univ. Erlangen,6
+ActivIdentity,6
+Ciena Corp,6
+Ajou University,6
+"KDDI R&D Laboratories, Inc.",6
+Beihang University,6
+CONNOTECH,6
+CounterPath Solutions,6
+Moncaster.com,6
+Zhejiang University,6
+Registro.br,6
+University of Bremen,6
+NetStar Networks,6
+ISAE/LAAS-CNRS,6
+V. Narayanan,6
+Salesforce.com,6
+KDDI Labs,6
+"ICT, CAS",6
+University of Edinburgh,6
+XConnect,6
+Airbus Defence and Space,6
+Aricent,6
+KT Infra R&D Center,6
+Dust Networks,6
+Telnic Ltd,6
+"UCLouvain, Belgium",6
+Motorola Solutions,6
+Japan Internet Exchange,6
+"Guangzhou, China",6
+VSS Monitoring,6
+For the IAB,6
+Osaka University,6
+Universitat Politecnica de Catalunya/Fundacio i2CAT,6
+Opera Software,6
+Universitat Pompeu Fabra,6
+SIP Communicator,6
+DONG-EUI Univ.,6
+FastMail US LLC,6
+Blue Coat Systems,6
+SitePen (USA),6
+UPC-BarcelonaTech,6
+Filament,6
+ChinaMobile,6
+Ionos Corp.,6
+Thales Deutschland,6
+Hitachi (China) Research and,6
+Comodo CA Ltd.,6
+Fortinet,6
+Azuki Systems,6
+Softbank BB,6
+Schneider-Electric,6
+"CenturyLink, Inc.",6
+Zynga,6
+Textuality,6
+L. Li,6
+UPC/BarcelonaTech,6
+I.I.T Madras.,6
+Winterb Consulting Services,6
+PTB,6
+Laboratory for,6
+Center for Internet Security,6
+T-Systems International GmbH,6
+Institute of Computing,6
+SICS Swedish ICT AB,6
+Two Sigma,6
+IRIT,6
+Bracket Computing,6
+IIE/Chinese Academy of Sciences,6
+Federal University of Rio Grande do Sul,6
+"Broadcom, Inc.",6
+Actility,6
+AMS-IX,6
+Combitech,6
+"Japan Registry Services Co., Ltd.",6
+Quarkslab,6
+Consortium of Cloud Computing Research,6
+Universidad de Chile,6
+Thinking Cat Enterprises LLC,6
+Aviat Networks,6
+GoDaddy,6
+NIXI,6
+Nibbhaya Consulting,6
+Lincoln Laboratory,6
+Venafi,6
+RFC Editor,6
+LabN Consulting LLC,6
+Triangle Video,6
+Code On Network Coding LLC,6
+SAP SE,6
+Episteme Technology Consulting LLC,6
+University of Naples Federico II,6
+Twitch,6
+Facebook Inc.,6
+Rakuten,6
+internet policy advisors ltd,6
+Impedance Mismatch LLC,6
+CICT,6
+Mattr,6
+HKUST(GZ),6
+Beijing Univ. of Posts and Telecom.,6
+Beyond Identity,6
+General Dynamics Mission Systems,6
+Arm Ltd,6
+Freie Universität Berlin,6
+NC State University,6
+ProSapien LLC,6
+Yahoo!,6
+University of Surrey 5GIC,6
+Oxford Brookes University,6
+Université de Liège,6
+"China Academy of Information and Communications
+      Technology",6
+"Aruba, Hewlett Packard Enterprise Ltd.",6
+Münster Univ. of Applied Sciences,6
+Quad9,6
+Ribbon Communication,6
+"Arista Networks, Inc.",6
+AMD,6
+"Spacely Packets, LLC",6
+Penguin Securities Pte. Ltd.,6
+China Southern Power Grid,6
+Cryspen,6
+AWS Wickr,6
+Brigham Young University,6
+Viasat Inc,6
+Worcester Polytechnic Institute,6
+Ozyegin University,6
+Beijing Zhongguancun Laboratory,6
+Department of Informatics,6
+Orange Research,6
+Afnic,6
+Ponder Source,6
+DENIC,6
+Turkcell,6
+InterDigital Europe Ltd,6
+Bitwave,6
+Bluesky Social,6
+Tsinghua Shenzhen International Graduate School & Pengcheng Laboratory,6
+"Infoblox, Inc.",6
+Writerslogic Inc,6
+JPMorgan Chase & Co,6
+"Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG",6
+Unheaded,6
+"University of St Andrews, UK",6
+Merit/NSFNET,5
+Merit,5
+Octel Network Services,5
+"Taligent, Inc.",5
+Rutgers University,5
+Hill Associates,5
+"ADTRAN, Inc.",5
+IMAG,5
+Library of Congress,5
+TurboBridge,5
+Piermont,5
+SKT,5
+Internet Software Consortium,5
+Hewlett Packard Company,5
+Universitaet Bremen,5
+Alis Technologies,5
+SURFnet,5
+ArrowPoint Communications,5
+SSE,5
+US Bank,5
+RedBack Networks,5
+Funk Software,5
+Tandem Computers,5
+CompuServe,5
+"Verio, Inc.",5
+INTERNET DRAFT,5
+Nat'l Computerization Agency,5
+Jean-Yves Le Boudec,5
+Argon Networks,5
+Paradyne,5
+Jr.,5
+Cabletron Systems,5
+Compaq Computer Corporation,5
+"Loudcloud, Inc.",5
+VA Linux Systems,5
+Gadzoox Networks,5
+DIRECTV Inc.,5
+Politecnico  di Milano,5
+Integris,5
+Research Lab,5
+Level3 Communications,5
+MCI Worldcom,5
+Lucent Technologies Bell Laboratories,5
+HP Labs,5
+Lemur Networks,5
+U. of Pennsylvania,5
+CommWorks,5
+SANRAD,5
+eList eXpress LLC,5
+IETF,5
+Harvey Mudd College,5
+University of Ottawa,5
+Gerald Maziarski,5
+University of Lecce,5
+IMOT,5
+Interpay Nederland B.V.,5
+Clearswift Corporation,5
+Ansible Systems,5
+MIMEsweeper Group,5
+Invisible Worlds,5
+Enterasys Networks EMEA,5
+Frequentis,5
+WaterCove Networks,5
+Sorrento Networks,5
+Agilent Technologies,5
+Tellium,5
+Arastra,5
+Sony Computer Entertainment Inc.,5
+Waseda University,5
+F-Secure,5
+PMC-Sierra,5
+NEC Australia,5
+Communication Systems Laboratory,5
+UCLA REMAP,5
+Nishan Systems,5
+PADL Software,5
+Kazeon Systems,5
+DoCoMo,5
+Autonomica AB,5
+Calient,5
+Black Ops Ltd,5
+Caspian Networks,5
+Cyber Solutions,5
+Temple University,5
+Autonomica,5
+SAVVIS Communications,5
+Sonoa Systems,5
+BEA Systems,5
+CommerceNet,5
+Purple Streak Development,5
+Zyfer,5
+SiNett Corp.,5
+Cantata Technology,5
+Ostfold University College,5
+Lockheed Martin,5
+Pingtel Corp.,5
+no affiliation,5
+CSC,5
+Memory Palace Press,5
+Ordyn Technologies,5
+Tohoku University,5
+Ed,5
+RMRL,5
+INTEC NetCore,5
+Eds.,5
+Easynet Global Services,5
+NTU,5
+BcN ERC,5
+Elan Networks,5
+"VeriWave, Inc.",5
+Domain Assurance Council,5
+xyzzy,5
+ECI Telecom Ltd.,5
+University of Bradford,5
+Wichorus,5
+CERT/NetSA,5
+CNRS/LIMOS Laboratory,5
+National ICT Australia,5
+SIPez LLC.,5
+Ulticom Inc.,5
+Diversinet Corp.,5
+F. Andreasen,5
+Institut Eurecom,5
+F5,5
+Avaya Labs Research,5
+NRC-CNRC,5
+KU,5
+Secure Endpoints,5
+Karlsruhe Institute of Technology,5
+BT Research,5
+DOCOMO Euro-Labs,5
+RWTH Aachen,5
+Eastlake Enterprises,5
+CCNU INC,5
+Quantum Corporation,5
+NIKSUN,5
+UPM,5
+Brute Squad Labs,5
+Infosys Ltd.,5
+DT,5
+University of Essex,5
+Virginia Tech,5
+"deSEC, Secure Systems Engineering",5
+EADS,5
+Sinodun Internet Technologies,5
+Altran,5
+Network Research Division,5
+InterWorking Labs,5
+NEC AccessTechnica,5
+FreeBit,5
+Webtide,5
+Cooper Power Systems,5
+"Hangzhou H3C Tech. Co., Ltd",5
+Intracom Telecom,5
+"Digital Wave Co., Ltd",5
+Intlnet,5
+Itron,5
+Beijing University of Post and,5
+Telstra Corporation,5
+Siemens Enterprise,5
+University of Stirling,5
+TU Delft,5
+"BUPT, China",5
+Swedish Institute of Computer,5
+Grotto,5
+TELUS,5
+UniUD,5
+Network RADIUS,5
+IIJ Innovation Institute Inc.,5
+Poznan University of Technology,5
+Universitaet Tuebingen,5
+Telus Communications,5
+BME,5
+AMS,5
+Softbank Mobile,5
+Universitat Politecnica de,5
+Silicon Labs,5
+XtraTelecom S.A.,5
+Protiviti Government Services,5
+CQUPT,5
+Shanghai Jiaotong University,5
+"SICS, Stockholm",5
+Exceliance,5
+HangZhou H3C Co. Limited,5
+FU Berlin,5
+Z. Xie,5
+Nicolaus,5
+SNU,5
+Tohoku Institute of Technology,5
+Paypal,5
+SamKnows,5
+Pexip,5
+SimulaMet,5
+GNU consensus,5
+"Transcore, LP",5
+Sandflow Consulting LLC,5
+HES-SO,5
+Samsung Research America,5
+NDSC P.R. China,5
+ARPA2.net,5
+"Alibaba, Inc",5
+Kuatro Technologies,5
+DMARC.org,5
+Southend Technical Center,5
+LinuxMagic,5
+InternetWide.org,5
+"The Johns Hopkins University Applied
+      Physics Laboratory",5
+Dovecot Oy,5
+Beijing University of Post and Telecommunication,5
+SITRANS,5
+EURECOM,5
+Charter,5
+Physikalisch-Technische Bundesanstalt,5
+Universidad de Buenos Aires,5
+Infinite Computing Solutions,5
+Reliance Jio Infocomm Limited,5
+BBC Research & Development,5
+Derechos Digitales,5
+NS1,5
+Workonline Communications,5
+NIC Chile,5
+"Department of Electronic, Electrical and Computer Engineering",5
+Post-Quantum,5
+ISARA Corporation,5
+"IRIF, University of Paris",5
+Mellanox Technologies,5
+"Windy Hill Systems, LLC",5
+CIRA Labs,5
+BT plc,5
+IIT-CNR,5
+Auth0,5
+"JSC ""NPK Kryptonite""",5
+"Team Digitale, Italian Government",5
+Bytedance Inc.,5
+Fraunhofer AISEC,5
+Guangzhou University,5
+ChongQing University,5
+Chongqing University,5
+Brave,5
+University of Florence,5
+"Ruijie Networks Co., Ltd.",5
+codelabs GmbH,5
+Beijing Jiaotong,5
+Széchenyi István University,5
+Alphabet Inc,5
+Utimaco IS GmbH,5
+FreeBSD Project,5
+TUD Dresden University of Technology & Barkhausen Institut,5
+Transloadit,5
+Consensys,5
+Fondation Restena | Restena Foundation,5
+NetDef,5
+SGNL,5
+Siemens Mobility GmbH,5
+State Grid Corporation of China,5
+Darmstadt University of Applied Sciences,5
+Smallstep,5
+Intelligent Information R and D Division Mobility Platform Research Center,5
+The Chinese University of Hong Kong,5
+Veridigo,5
+DPA R&D Ltd (https://www.dpa-cloud.co.uk),5
+WritersLogic Inc,5
+PipeChina,5
+"Proteon, Inc.",4
+LBL,4
+RARE Secretariat,4
+Spider Systems,4
+Precept Software,4
+AG Projects,4
+Royal Institute of Technology,4
+TeraCortex,4
+Digital Equipment Corp.,4
+George Mason University,4
+"Spyglass, Inc.",4
+Iris Associates,4
+Xerox PARC/MIT LCS,4
+University of Kent,4
+Medooze,4
+Izenpe,4
+Siara Systems,4
+RGnet,4
+Digital Equipment Corp,4
+"P6R, Inc",4
+"Parsons, Inc.",4
+Chemical Abstracts Service,4
+Aventail Corporation,4
+The Inner Net,4
+CoSine Communications,4
+Hi/fn Inc.,4
+National Laboratory for Applied,4
+Capitalonline,4
+Crocodile RCS Ltd,4
+High North Inc.,4
+Hewlett-Packard Corporation,4
+"Sun Microsystems, Inc.",4
+Worldtalk,4
+University of Arizona,4
+Technion,4
+Shasta Networks,4
+Live Networks,4
+Fujitsu Laboratories LTD.,4
+Utah Valley State College,4
+USC Information Sciences Institute,4
+T. Grant,4
+Ellison Software Consulting,4
+Hethmon Brothers,4
+The Hebrew Univ. of Jerusalem,4
+Unisphere Solutions,4
+University of WA,4
+Tampere University,4
+Lawrence Berkeley National Laboratory,4
+University of Cincinnati,4
+Activerse,4
+Thinking Cat Enterprises,4
+Sun Labs,4
+SafeNet,4
+The Industrial Lounge,4
+RSL COM,4
+Jasmine Networks,4
+Sun Laboratories,4
+Lotus,4
+Vertical Networks,4
+Telia,4
+U.C. Berkeley,4
+University of Bonn,4
+"LGERCA, Inc.",4
+Utfors AB,4
+Cosine Communications,4
+"Novell, Inc",4
+Network Startup Resource Center,4
+WIDE,4
+Communication Research Laboratory,4
+PMC-Sierra Inc.,4
+Secworks Sweden AB,4
+FUNDP,4
+Govindaraj Sampathkumar,4
+MetraTech Corp.,4
+Pearl Crescent,4
+Nortel Networks Corp.,4
+Signatus Technologies,4
+Emad Qaddoura,4
+Yale,4
+PGP Corporation,4
+"Entera, Inc.",4
+K. Meth,4
+NEC America,4
+Helsinki University Library,4
+TCB,4
+Security & Standards,4
+Cambridge Univ.,4
+Univ. Pisa,4
+JDS Consulting,4
+Toshiba America Research,4
+"Intransa, Inc.",4
+BellSouth,4
+"Djinesys, Inc.",4
+Predictive Systems,4
+Network Test,4
+Network Projects Inc.,4
+F-Secure Corporation,4
+Swinburne University of Technology,4
+TZI/Uni Bremen,4
+Alcatel Bell,4
+Orthanc Systems,4
+NetNumber,4
+M. Hofmann,4
+Layer8 Networks,4
+IHTFP Consulting,4
+Litchfield Communications,4
+Athonet,4
+Reef Point Systems,4
+AOL Time Warner,4
+Sanera Systems,4
+IXIA,4
+L-3 Communications,4
+Neteka Inc.,4
+Netnod Internet Exchange,4
+RealNames Corp.,4
+University of Tokyo,4
+Calix,4
+University of Karlsruhe,4
+Point6,4
+LTU,4
+Global IP Sound,4
+Aalborg University,4
+Perceval,4
+University of Duisburg-Essen,4
+Oversi,4
+Harvard U.,4
+DANTE,4
+Alert Logic,4
+Inter China,4
+Infonet Services Corporation,4
+Xiph.Org,4
+Xiph,4
+Houston Associates,4
+KUL,4
+Keio University/WIDE Project,4
+Caltech,4
+LSIIT,4
+JSF,4
+ADVA Optical,4
+Kuntal Chowdhury,4
+"Safenet, Inc.",4
+Mail Abuse Prevention System,4
+ENST Paris,4
+GET/INT,4
+NexTone Communications,4
+TILAB,4
+Isocore,4
+Xidian Univ.,4
+"Cryptonector, LLC",4
+The Cooper-Cain Group,4
+Nivis,4
+University of York,4
+National Cheng Kung University,4
+Uni Bremen TZI,4
+Rain Willow Communications,4
+"Canon, Inc.",4
+Research In Motion,4
+Santronics Software,4
+ETT-R&D Publications,4
+Cogent Force,4
+MIPS,4
+Real-Time Text Taskforce,4
+Velocix,4
+Airtel,4
+FOX,4
+SIPeerior,4
+AOL  LLC,4
+Japan Advanced Institute of,4
+Infinity Networks,4
+University of Namur,4
+NCSU,4
+SatLabs Group,4
+BT Group,4
+Korea Information Security Agency,4
+"H3C Tech. Co., Ltd",4
+MediaTek,4
+Columbia Univ.,4
+Martin J Reed,4
+Telcordia Technologies Inc.,4
+Commscope,4
+MINE/BUPT,4
+Univ. of Soongsil,4
+Ariadne Internet Services,4
+HP Networking,4
+DLR,4
+Pando Networks,4
+"Pollere, Inc.",4
+Johnson Controls Inc.,4
+1-4-5.net,4
+Institute of Computing Technology,4
+KPU,4
+University of Fribourg,4
+NEC BIGLOBE,4
+Cryptocom Ltd.,4
+Villanova University,4
+"Tridium, Inc",4
+Pacific Gas and Electric,4
+Center,4
+Frontier Communications,4
+TMSP,4
+PhoneFactor,4
+Telefonica Investigacion y Desarrollo,4
+IST/INOV,4
+University of Paderborn,4
+SOFTBANK TELECOM Corp.,4
+CESG,4
+Korea Internet & Security Agency,4
+U.S. Army CERDEC,4
+Luminate Wireless,4
+Comodo Inc.,4
+Panasonic Wireless Research Lab,4
+Universidad Politecnica de Valencia,4
+INRIA Sophia Antipolis,4
+VT iDirect,4
+Korea University,4
+Vmware,4
+Ciena Corp.,4
+Simula Research Laboratory AS,4
+UPV,4
+Freescale,4
+Nest Labs,4
+"Comcast, Inc.",4
+The Varnish Cache Project,4
+next layer Telekom GmbH,4
+Ping,4
+Telecom Italia Labs,4
+Rtbrick,4
+STTRI,4
+Janet,4
+Chinese Academy of Science,4
+Bouygues Telecom,4
+Arrcus Inc,4
+Freelance,4
+SailPoint,4
+National Security Research Institute,4
+Silverflare,4
+Delft University of Technology,4
+Yorktown Museum of Asian Art,4
+TOSHIBA Corporation,4
+Texas A&M,4
+KU Leuven,4
+Tata Consultancy Services Ltd.,4
+Duksung Women's University,4
+Morgan Stanley,4
+Thierry Technologies,4
+Travelping,4
+Moulay Ismail University,4
+YoGoKo,4
+credativ GmbH,4
+AGH Univ. of Science and Technology,4
+SIDN,4
+M. Makaraju,4
+LMU,4
+Qosmos,4
+Arista Networks Inc.,4
+IAEA,4
+SouthEast University,4
+"RtBrick, Inc.",4
+"Universidad Carlos III de
+      Madrid",4
+Nexenta,4
+National Instruments,4
+Comtech TCS,4
+ENAC,4
+fruux GmbH,4
+British Broadcasting Corporation,4
+Retevia,4
+"VMWare, Inc.",4
+"University of New Hampshire, Interoperability Lab (UNH-IOL)",4
+Security Innovation,4
+The Tor Project,4
+Article19,4
+Oxford Internet Institute,4
+BBC,4
+Teleinfo,4
+Szechenyi Istvan University,4
+Mapbox,4
+PetroChina Huabei Oilfield Company,4
+MIRACL Ltd.,4
+ZDNS Ltd.,4
+Shopify,4
+Huaiyin Institute of Technology,4
+Next Layer Communications,4
+California Institute of Technology,4
+Nexus Group,4
+Sejong University,4
+Institut Mines Telecom Atlantique,4
+RtBrick India,4
+Etheric Networks,4
+Nexus,4
+link-lab & FU Berlin,4
+Nordic Semiconductor,4
+SPRIND,4
+Paragon Initiative Enterprises,4
+Vencore Labs,4
+Frequentis AG,4
+Data Archiving and Networked Services,4
+Essex University,4
+FastMail Pty Ltd,4
+Accedian Networks,4
+Riphah Institute of Systems Engineering,4
+LiteSpeed Technologies,4
+China Information Communication Technologies Group,4
+F. Iqbal,4
+Reliance Jio,4
+University of Applied Sciences Emden/Leer,4
+AliBaba Inc.,4
+Open-Xchange Inc.,4
+Somos,4
+KDDI Research,4
+Tencent America,4
+Center for Democracy & Technology,4
+CUHK(SZ),4
+QuTech,4
+"WMN Research Group, Kingston University London",4
+Technical University of Liberec,4
+OpenXchange,4
+MTN Cameroon,4
+Lapishills Consulting Limited,4
+Hiroshima University,4
+Dipartimento per la trasformazione digitale,4
+Proofpoint,4
+University of Surrey ICS,4
+Toyota Motor Corporation,4
+Guardian Project,4
+Technical University Muenchen,4
+Hostinger,4
+Gunnar Hellstrom Accessible Communication,4
+Grab,4
+German Aerospace Center (DLR),4
+Z. Li,4
+"Amazon Web Services, Inc.",4
+SignIn.Org,4
+"AX 
+	Enterprize",4
+6connect,4
+Haivision Network Video,4
+"SK Telecom Co., Ltd.",4
+Renmin University of China,4
+"Digital Transformation Department, Italian Government",4
+Hackmanit,4
+Nederlandse Publieke Omroep,4
+Millicast,4
+Forescout Technologies,4
+Hirschmann Automation and Control GmbH,4
+Port 179 Ltd,4
+"IIJ Research Lab & Arrcus, Inc.",4
+NIO,4
+ULiege,4
+Telecom Italia - TIM,4
+SANGMYUNG UNIVERSITY,4
+Reliably Coded,4
+TU Korea,4
+Guangzhou university,4
+Industry Network Technology Council,4
+Interpeer gUG,4
+Domos,4
+MTN,4
+NSA-CCSS,4
+IIJ Research & Arrcus,4
+"Garmin International, Inc.",4
+China Automotive Innovation Corporation,4
+TQSD Technische Universität München,4
+Compellio S.A.,4
+Peng Cheng Laboratory,4
+PCH,4
+SOBCO,4
+"QuSecure, Inc.",4
+Chinat Telecom,4
+dhyanayoga.info,4
+Data Transfer Initiative,4
+Tiktok,4
+VIT-AP University,4
+Raiffeisen Bank International,4
+DistributedApps.ai,4
+IPFS Foundation,4
+InterDigital Europe Ltd.,4
+Phoenix R&D GmbH,4
+University of New Hampshire Interoperability Labs,4
+"CNIC, Chinese Academy of Sciences",4
+"GuardSuite, VXMSecure",4
+OpenAI,4
+Department of the Air Force,4
+University of Illinois at Urbana-Champaign,4
+Web 7.0 Foundation,4
+"Dept. of CSE, Hong Kong University of Science and Technology",4
+"Dept. of IE, The Chinese University of Hong Kong",4
+"SKGO, IKT Support",4
+Aevum Network,4
+Nexthop AI,4
+Zebra Technologies,3
+Tata Communications Ltd,3
+BJTU,3
+ACC,3
+SynOptics Communications,3
+Data General Corporation,3
+OARnet,3
+NeXor Ltd.,3
+Network Management Associates,3
+Bunyip,3
+CNIDR,3
+Farallon Computing,3
+University of Luebeck,3
+Epilogue Technology Corporation,3
+Israeli Inter-University,3
+Open Connect Systems,3
+Myricom,3
+Y. Jiang,3
+"WAIS, Inc.",3
+UMICH,3
+Magnalink,3
+KTHNOC,3
+LANL,3
+DigiBoard,3
+New Century Systems,3
+BBN Planet,3
+Hrvatski Telekom,3
+Versatica,3
+Accurate Information Systems,3
+Solbox Inc.,3
+Xylogics,3
+Adaptec,3
+Berkeley Software Design,3
+"XIson, Inc.",3
+Wildbear Consulting,3
+CONAC,3
+InterNIC,3
+RIPE,3
+Lucent Technologies Inc.,3
+MessagingDirect Ltd.,3
+Sycamore Networks,3
+PSC International,3
+Swiss Federal Institute of,3
+DTCC,3
+Aladdin Enterprises,3
+DHS,3
+TimeStep Corporation,3
+UCSD,3
+Nuage Networks.,3
+Tele2/Swipnet,3
+DSTC Pty Ltd,3
+Drummond Group,3
+Cyclone Commerce,3
+The City College of New York,3
+NASA Lewis/Sterling Software,3
+Network Alchemy,3
+Megisto Systems,3
+GTE Internetworking,3
+"Stonecast, Inc.",3
+Motorola BCS,3
+Sunil Jagannath,3
+Human Communications,3
+Cabletron Systems Inc.,3
+U.C. Irvine,3
+Olafur Gudmundsson,3
+Data Connection Ltd.,3
+Electric Communities,3
+Southwestern Bell,3
+Xcert,3
+NEC USA,3
+General DataComm,3
+CygnaCom Solutions,3
+AltaVista Internet Software,3
+Dataproducts Corp.,3
+Critical Angle,3
+W3C/Keio University,3
+Engage,3
+"Qualcomm, Inc",3
+Secure Computing Corporation,3
+CERT,3
+Congruent Software,3
+Fujitsu Network Communications,3
+Redback Networks Inc.,3
+Stanford,3
+TIS Labs,3
+SonyCSL Inc.,3
+IMC,3
+The Ohio State University,3
+ValiCert,3
+Siara,3
+QUALCOMM Inc.,3
+Chalmers University of Technology,3
+Network Associates,3
+Daniel Tappan,3
+Drummond Group Inc.,3
+University of California at Berkeley,3
+Campio Communications,3
+University of Pisa,3
+Marimba,3
+Nortel (Northern Telecom),3
+World Wide Web Consortium,3
+CANON Inc,3
+GlobalCast Communications,3
+TIS Labs at Network Associates,3
+QinetiQ,3
+ADC Telecommunications,3
+AKC Computer Services Corp.,3
+VPNC,3
+OpenDirectory,3
+"Twitter, Inc.",3
+Solidum Systems Corporation,3
+Teltec UCD-CS,3
+Internet Draft,3
+Eurecom,3
+Qwest Communications,3
+MicroLegend Telecom Systems Inc.,3
+Axis Communications,3
+BBN/GTEI,3
+Bilel Jamoussi,3
+UDcast,3
+Redback,3
+Verio,3
+Nexabit Networks,3
+ESnet,3
+Inktomi Corporation,3
+PFN,3
+Tropos Networks,3
+Trustpoint,3
+"ipVerse, Inc.",3
+Forge Research,3
+Omnitor AB,3
+OpenSS7,3
+Anritsu,3
+PADL,3
+NASA GRC/BBN,3
+PassEdge,3
+Technical University Braunschweig,3
+Cabletron Systems EMEA,3
+RedCreek Communications,3
+Citigroup,3
+CPlane Inc.,3
+Internet Engines,3
+Sprint PCS,3
+Hatteras Networks,3
+ULB,3
+IKS GmbH,3
+Telia ProSoft,3
+Malibu Networks,3
+Erlang Technology,3
+"LabN Consulting, LLC",3
+IP Highway,3
+CNNIC-Farsight Joint Laboratory,3
+"Hifn, Inc.",3
+Centigram Communications,3
+eCal,3
+"INRIA, France",3
+Ebone,3
+ECI Telecom Inc.,3
+Tenor Networks,3
+"Arastra, Inc.",3
+TRAB,3
+Nayna Networks,3
+Directory Tools and,3
+PoliTO,3
+"Tellium, Inc.",3
+"Metanoia, Inc.",3
+Nexsi Systems,3
+Baltimore,3
+Entera,3
+Sylantro Systems,3
+CSU Sacramento,3
+CoRiTeL,3
+Salzburg Research,3
+TeraOptic Networks,3
+IPTC,3
+BCI,3
+TERENA,3
+Exodus,3
+YAS Corporation,3
+OneSparrow,3
+University of,3
+Riverbed Technology,3
+Xythos,3
+McDATA,3
+ETRI/KOREA,3
+Caymas Systems,3
+LIP6,3
+Terabeam Networks,3
+Network Associates Inc,3
+IdentAware,3
+IANA,3
+KTF,3
+InMon Corp.,3
+Jay Kumarasamy,3
+Laurel Networks,3
+Henning Schulzrinne,3
+University of Kaiserslautern,3
+National Communications System,3
+Mangrove Systems,3
+Cable & Wireless,3
+Stockholm University,3
+Consult,3
+SmartPipes,3
+Openwave,3
+CPR,3
+FhG Fokus,3
+NRC,3
+Network Associates Laboratories,3
+SnT/Univ. of Luxembourg,3
+UMKC,3
+Equant,3
+SBC Communications,3
+DAASI International GmbH,3
+Univ. of Missouri-Kansas City,3
+Anand Oswal,3
+tComLabs,3
+SIP Edge LLC,3
+Operax,3
+Cyrusoft International,3
+Wampumpeag,3
+Technical University,3
+Mark Stapp,3
+Siemens/Columbia U./Nortel Networks,3
+RFG Security,3
+Hughes Software,3
+Radio Mobile Access,3
+Openwave Systems,3
+Hexago,3
+UCL/INGI,3
+Rhyolite Software,3
+CSC/Funet,3
+Convedia,3
+Brandenburg Internetworking,3
+Konkuk University,3
+SECOM,3
+Infineon Technologies,3
+All Play,3
+Seongho,3
+SolidMatrix Technologies,3
+Stockholm university,3
+Siemens plc,3
+Keio University/WIDE,3
+RMR,3
+Isode,3
+Computer Science Department,3
+SONY,3
+Fraunhofer Gesellschaft,3
+UNBC,3
+PacketVideo Network Solutions,3
+ck technology concepts,3
+Zarlink Semiconductor,3
+BT Infonet,3
+Universite de Sherbrooke,3
+ICIR/ICSI,3
+"ISTRAC, ISRO",3
+GIP RENATER,3
+Samsung India Software Operations,3
+Avaya Labs,3
+"Virtualized, LLC",3
+"IntelliCal, LLC",3
+DNS-MODA,3
+Skype Labs,3
+EXFO,3
+Univ. Tuebingen,3
+Brix Networks,3
+Emergicom,3
+Sprint Nextel,3
+Flextronics Software Systems,3
+KIT,3
+Nagoya University,3
+Tandberg,3
+Gesher Erove Ltd,3
+Softarmor Systems,3
+IT Aveiro,3
+QoSmetrics,3
+"University of Duisburg-Essen, Institute for Experimental Mathematics",3
+SETCCE,3
+Adva Optical,3
+STMicroelectronics,3
+KT Advanced Technology Lab,3
+Swedish Museum of Natural History,3
+Pollere LLC,3
+Sxip Identity,3
+Queen Mary,3
+Fraunhofer IFAM,3
+LAAS,3
+AOL LLC,3
+JP Vasseur,3
+Siemens Mobile,3
+University of Electro-Communications,3
+Lucid Vision,3
+CenturyLink,3
+Default Deny Security,3
+CenGen,3
+Lab126,3
+"eBook Technologies, Inc.",3
+Univ. of Parma,3
+sip101,3
+XSF,3
+Zimbra,3
+Portugal Telecom,3
+Institut National des,3
+Ansaldo Trasporti e Sistemi,3
+iRam Technologies,3
+Alt-N Technologies,3
+Kochi University of Technology,3
+Softbank Telecom Corp.,3
+Intec Netcore Inc.,3
+Openet-Telecom,3
+Researcher,3
+OSC,3
+Braintrust Ltd.,3
+Monash University,3
+netconfcentral.org,3
+Rainwillow,3
+Genesys,3
+Syzygy,3
+Acreo,3
+Rome Tor Vergata University,3
+Research Center for Natural Hazard,3
+NIIF/Hungarnet,3
+Furukawa Network Solutions Corp.,3
+OCCNC,3
+Word to the Wise,3
+WorldGate Communications,3
+Sun microsystems,3
+Eka Systems,3
+Universiti Sains Malaysia,3
+Harris Corporation,3
+IT/TB,3
+Booz Allen Hamilton Inc.,3
+IS Consulting G.K.,3
+ICSI Center for Internet Research,3
+Internet Archive,3
+BitTorrent,3
+Proto6,3
+Netconf Central,3
+International Computer Science,3
+Shinkuro,3
+Sandstorm Enterprises,3
+Cumulus,3
+RealVNC Ltd.,3
+Motorola Inc,3
+CSU-Netsec Group,3
+M. Maknavicius,3
+Iformata Communications,3
+Swisscom Schweiz AG,3
+Ember Corporation,3
+CERTH,3
+PJIIT,3
+TEI of Chalkida,3
+ADAE,3
+"CMCC, Inc.",3
+enum.at GmbH,3
+Zhejiang University of Technology,3
+Zhi-Wei Yan,3
+Ember,3
+JDSU,3
+University of Rostock,3
+YFS,3
+Technicolor,3
+Fraunhofer Fokus,3
+Message Systems,3
+Leibniz Supercomputing Centre,3
+Infinera Corp.,3
+"HAW Hamburg, Informatics Department",3
+Consecom AG,3
+Verison Business,3
+S. Jury,3
+QLogic,3
+Univ.of BUPT,3
+K. Wierenga,3
+University of Houston,3
+"Nominum, Inc",3
+VMware Inc.,3
+ATT Labs,3
+Alcatel-Lucent Bell Labs France,3
+Riveronce,3
+Old Dominion University,3
+Infinity Networks B.V.,3
+cstar industries,3
+AuthenTec,3
+AGH University,3
+VOIPFUTURE GmbH,3
+SMHS Ltd,3
+TW Telecom,3
+Arktan Inc,3
+Chelsio Communications,3
+Audinate,3
+New H3C Technologies Co. Ltd,3
+CentralNic Ltd,3
+PADL Software Pty Ltd,3
+Cardiff University,3
+Cloud Identity,3
+"Alcatel-Lucent, Bell Labs",3
+BCBS of Michigan,3
+Hurricane Electric,3
+Electronic Frontier Foundation,3
+Delta Controls,3
+Viris,3
+XJTU,3
+Blue Sun,3
+Technical University Darmstadt,3
+EDF R&D,3
+Synelixis,3
+De-Yun Gao,3
+Y.Bo,3
+D3 Communications,3
+UPC/i2cat,3
+Telefonica Global CTO,3
+Tallac Networks,3
+Qualcomm Innovation Center,3
+Freelancer Technologies,3
+Kookmin University,3
+Broadcom Communications,3
+Kitterman Technical Services,3
+Deutsche Telecom,3
+AVAYA,3
+CIS,3
+"DigiCert, Inc",3
+Pivotal,3
+JHU,3
+Mitsubishi Electric Research Laboratories,3
+Vienna University of Technology,3
+Afilias USA,3
+"Tokyo Electric Power Company, Inc.",3
+Japan Network Enabler Corporation,3
+Alibaba Inc,3
+Cobenian,3
+University of Glasgow Singapore,3
+HAProxy Technologies,3
+UPB,3
+Silent Circle,3
+KDDI Technology,3
+Tencent Holdings Ltd.,3
+IPinfusion,3
+CALLSTATS I/O Oy,3
+Teklibre,3
+Alpen-Adria University Klagenfurt,3
+eBay Inc.,3
+Secunet Security Networks,3
+Ionos Corp,3
+"Farsight Security, Inc.",3
+Hebei University of Engineering,3
+Textuality Services,3
+YES.com AG,3
+Rozanak,3
+Blue Cross Blue Shield of Michigan,3
+Airbus Defence and Space CyberSecurity,3
+Wireshark Foundation,3
+Tableau Software,3
+Jeju Nat. Univ.,3
+US Ignite,3
+H-DA,3
+SecureRF Corporation,3
+INTEC Inc.,3
+BENOCS GmbH,3
+Independant,3
+Grenoble Institute of Technology,3
+"Pivotal Software, Inc.",3
+KDDI R&D Labs. Inc.,3
+Bedework Commercial Services,3
+APC,3
+EFF,3
+"Brute Squad Labs, Inc.",3
+Chinamobile,3
+"Regumi, Inc.",3
+"Rakuten, Inc.",3
+TU Eindhoven,3
+TU Darmstadt,3
+TrustPoint Innovation Technologies,3
+FreeLance,3
+"Stargazers Consulting, LLC",3
+Radboud University,3
+"Dolby Laboratories, Inc.",3
+Refinitiv,3
+MIRACL Ltd,3
+University of Nebraska-Lincoln,3
+University of Colorado at Boulder,3
+H. Xie,3
+TISF,3
+"ASMUS, Inc.",3
+Xoriant Corporation,3
+Let's Encrypt,3
+RCS&RDS,3
+Airbus Defence & Space,3
+France-IX,3
+RKF Engineering,3
+University of Konstanz,3
+PuTTY,3
+Naval Information Warfare Center Pacific,3
+University of Lancaster,3
+Hackers.mu,3
+Worldsensing,3
+GnuPG e.V.,3
+DellEMC,3
+Politecnico di Bari (DEI),3
+T-Mobile Austria,3
+Bedework,3
+Stefan Vallin AB,3
+"RKF Engineering Solutions, LLC",3
+C-DAC,3
+Radware Ltd.,3
+RedHat,3
+Avi Networks,3
+Blue Meadow Networks,3
+Sandelman Software,3
+"Expedia, Inc",3
+PowerDNS.COM B.V.,3
+Temporary RFC Series Project Manager,3
+Hua Wu,3
+CoSMo,3
+Friedrich-Alexander-Universität Erlangen-Nürnberg,3
+DNSimple,3
+Odin Solutions S.L.,3
+Baidu Inc,3
+Berlin Institute of Technology,3
+Internet Corporation for Assigned Names and Numbers,3
+Wonder Hamster Internetworking LLC,3
+Orange SA,3
+Semtech,3
+BaishanCloud,3
+EANTC AG,3
+TCS R&I,3
+Amsterdam Internet Exchange,3
+Curity AB,3
+CISPA Helmholtz Center for Information Security,3
+OP3FT,3
+Coinbase,3
+Alibaba-Inc,3
+Open Netlabs B.V.,3
+Soongsil Univ.,3
+Saudi Telecom Company,3
+"Research Institute CODE, UniBwM",3
+Lightside Instruments AS,3
+EDCO,3
+IPNGROUP,3
+RtBrick,3
+Budapest University of Technology and Economics,3
+NCTU,3
+Graphiant,3
+"University of
+      Basel",3
+HK University of Science and Technology,3
+OpenCA Labs,3
+D-Trust GmbH,3
+intoPIX,3
+pdv Financial Software GmbH,3
+City University of London,3
+"QuTech, Delft University of Technology",3
+CDAC Bangalore,3
+Open-Xchange Oy,3
+Rakuten Mobile,3
+MWA Ltd c/o Inmarsat Global Ltd,3
+Brunel University,3
+"Internet Systems Consortium,
+      Inc.",3
+University of St Andrews,3
+OutSys,3
+University of Warsaw,3
+Benocs,3
+Viasat,3
+Endress + Hauser Liquid Analysis,3
+"HTT 
+	Consulting",3
+Tokyo University of Agriculture and Technology,3
+Confluent,3
+Twilio,3
+Berner Fachhochschule,3
+ICT-CAS,3
+NthPermutation Security LLC,3
+Public Interest Registry,3
+Univ. of Erlangen-Nuernberg,3
+Clubhouse,3
+Netgate,3
+"Igalia, S.L.",3
+Inner Mongolia University,3
+HexaBuild,3
+Arrcus & Internet Initiative Japan,3
+H3C Technology Co.LTD,3
+Agora Lab,3
+Capital Normal University,3
+"InterDigital Europe, Ltd.",3
+Disney Streaming,3
+PFS Internet Development Pty Ltd,3
+SEACOM,3
+Par-Tec,3
+GLEIF,3
+UCLouvain and WELRI,3
+"General Dynamics Mission Systems, Inc.",3
+University of Ferrara,3
+Redhat,3
+CICT and PCL,3
+Univ. of Rome Tor Vergata / CNIT,3
+Arista Networks Inc,3
+Anapaya Systems,3
+Ori Industries,3
+India Internet Engineering Society,3
+The University of Tokyo/WIDE Project,3
+Indirection Network Inc.,3
+Digital Medusa,3
+Authlete Inc.,3
+"deSEC, SSE",3
+Capital One,3
+"Aalyria Technologies, Inc.",3
+Vi,3
+Armidale Consulting,3
+Loco-labs,3
+Cryptic Forest Software,3
+"Purple Mountain Laboratories, China",3
+Beijing Jiao Tong University,3
+Ostschweizer Fachhochschule - OST,3
+Netskope Inc,3
+Practical Identity LLC,3
+4a2e.online,3
+Trifecta Tech Foundation,3
+Tweede golf B.V.,3
+Istituto Poligrafico e Zecca dello Stato,3
+"Beijing Jiaotong
+      University",3
+CUJO AI,3
+Quantum Bridge Technologies Inc.,3
+CYMERTEK,3
+National Institute of Technology Karnataka,3
+Meta Platforms Inc.,3
+Inter.link GmbH,3
+Thunderbird,3
+J.P. Morgan Chase,3
+Aramco,3
+"Strolid, Inc.",3
+Synamedia,3
+OpenNHP,3
+Independent Submission,3
+Bern University of Applied Sciences,3
+Telefónica,3
+CoreWeave,3
+easyDNS Technologies Inc.,3
+Arcan Consulting,3
+VeritasChain Standards Organization,3
+Tempo Labs,3
+1id.com,3
+Quox Ltd,3
+Freedom of the Press Foundation,3
+HJS Foundation,3
+"Certisyn, Inc.",3
+Alter Meridian Pty Ltd (~truealter),3
+AutoCyber AI Pty Ltd,3
+Univ. of Southampton,2
+Telecom Italia S.p.A,2
+Rohde & Schwarz,2
+"Synoptics, Inc.",2
+Open Networks,2
+BARRNet,2
+III,2
+Telecom Finland,2
+Lachman Technology,2
+Wellfleet Communications Inc.,2
+The Branch Office,2
+Core Competence,2
+Control Data Systems,2
+RainbowBridge Communications,2
+Newbridge Networks Corporation,2
+Telebit Corporation,2
+Ascom Timeplex,2
+Rupy,2
+AIC Systems Laboratory,2
+Dresden University,2
+Lloyd Internetworking,2
+"Metaplex, Inc.",2
+Newbridge,2
+OpenVision Technologies,2
+National Institute of Standards,2
+David Crocker,2
+Cascade,2
+First Virtual,2
+Texas Instruments,2
+Epilogue Technology,2
+Bell-Northern Research,2
+Bell-Northern Research Ltd,2
+connect.com.au pty ltd,2
+MIT/W3C,2
+Hookflash,2
+Open Market,2
+Pedestal Networks,2
+Troll Technologies,2
+Silicon Graphics Inc.,2
+The Pennsylvania State University,2
+IIS,2
+INS,2
+University of  Michigan,2
+Phresheez,2
+Fore Systems,2
+Umea University,2
+Spyglass,2
+U Washington,2
+Edvina,2
+Xyplex,2
+Shiva,2
+"Com21, Inc.",2
+The Aerospace Corporation,2
+Sandia National Laboratory,2
+Alantec,2
+"FORE Systems,Inc.",2
+SURFnet ExpertiseCentrum bv,2
+Bull S.A.,2
+Empire Technologies,2
+Lulea University of Technology/SICS,2
+"RGnet, Inc.",2
+Digital Equipment Co. Ltd.,2
+Citicorp,2
+QUT,2
+Cylink Corporation,2
+MCI Telecommunications Corp.,2
+Tenet Technologies,2
+CMU/INI,2
+Surevine Ltd,2
+Northern Telecom,2
+Riverbed,2
+Lawrence Berkeley National Lab,2
+Gartner Group,2
+Lanworks Technologies Inc.,2
+ProtocolLabs,2
+Telseon,2
+ULB-STC,2
+Herve Schauer Consultants,2
+National University,2
+Preston & Lynch,2
+Donald Eastlake,2
+First Floor Software,2
+At Home Network,2
+Hitachi Printing Solutions,2
+Cygnus Solutions,2
+George Mason U.,2
+Loudcloud,2
+NASA Glenn/Sterling Software,2
+Rainfarm,2
+B. Jouris,2
+"IIT, Kanpur",2
+NLANR,2
+J. Rafferty,2
+"Mirapoint, Inc.",2
+Tokai Univ,2
+Meiji Univ,2
+US Geological Survey,2
+Cayman Systems,2
+Fujitsu Laboratories of America INC.,2
+"QUALCOMM, Incorporated",2
+Astart Technologies,2
+G. Montasser-Kohsari,2
+Harvard,2
+Coalition for Networked Information,2
+Editor of this version,2
+Author of previous version,2
+Effnet,2
+P. Cheng,2
+RSA Laboratories East,2
+Oblix Inc.,2
+VPNet Technologies,2
+DoD,2
+D. Garcia del Rio,2
+ODETTE,2
+Ionos,2
+Internet Engineering Group,2
+"AOL,",2
+SITA,2
+Universitaet Regensburg,2
+Transwitch Corporation,2
+Standford University,2
+TimeStep Corp.,2
+NASA Lewis,2
+Maxware,2
+Internal Revenue Service,2
+Portland State University,2
+Univ. Bremen,2
+PictureTel,2
+Vaughan Enterprises,2
+Coscend Corp.,2
+"PDC, KTH",2
+T. Fujiyama,2
+New Oak,2
+University of Southern California/ISI,2
+Bay Networks Inc,2
+Bell Laboratories/Columbia U.,2
+C&C Research Labs,2
+Copper Mountain Networks,2
+HSC,2
+ERS/USDA,2
+BTLABS,2
+GIE DYADE,2
+Demon Internet Ltd,2
+ACI Worldwide/MessagingDirect,2
+AG Communication Systems,2
+Benjie Chen,2
+MIT Artificial Intelligence Laboratory,2
+UIUC,2
+Integralis Technology Ltd.,2
+Joe Touch,2
+Torrent Networking Technologies,2
+Georgia Tech,2
+The Apache Software Foundation,2
+RTFM Inc.,2
+FileNet,2
+L. Ong,2
+TCE,2
+Regenstrief Institute,2
+University of Ulm,2
+Columbia U,2
+Fujitsu Laboratories Ltd.,2
+2,2
+1,2
+Rational Software,2
+Nicholas Race,2
+tti (telecom technologies inc.),2
+BT Labs,2
+Lucent Technologies Microelectronics Group,2
+Royal Bank of Canada,2
+TISLabs,2
+"DATAFUSION, Inc.",2
+MCIWorldcom,2
+University of Athens,2
+Project Hipercom,2
+Atoga Systems,2
+Intelliden Corporation,2
+Xebeo,2
+Zocalo,2
+Dept. of Electrical and Computer Eng.,2
+Siemens Atea,2
+Candlestick Networks,2
+Peerless Systems Networking,2
+Telia Network Services,2
+Liaison,2
+"Equinix, Inc.",2
+GDC,2
+Dinesh Verma,2
+GTE Wireless,2
+Airtouch Communications,2
+Celox Networks,2
+Axiowave,2
+UCSB,2
+neart.org,2
+Arian Durresi,2
+GRIC,2
+Brooktrout,2
+TIAA-CREF,2
+NEC USA Inc.,2
+RIPE/NCC,2
+Pluris,2
+The MITRE Corp.,2
+Brodia,2
+ETRI/PEC,2
+SmartPipes Inc.,2
+Talarian,2
+Internet Engineering,2
+Matt Cannon,2
+Harbour Networks,2
+Malpani Consulting Services,2
+"RealNetworks, Inc.",2
+Allegro Networks,2
+MetaTel,2
+Pat R. Calhoun,2
+Hummingbird Ltd.,2
+Double Precision,2
+Agere Systems,2
+University of Linz,2
+Global Workflow Solutions,2
+Shockey Consulting LLC,2
+Avaya Communication,2
+Basavaraj Patil,2
+"Toshiba America Research, Inc.",2
+"Samsung Telecommunications America, Inc.",2
+"LG Information & Communications, Ltd.",2
+Fujitsu Lab.,2
+Pipal Systems,2
+Ricoh Company,2
+"Radware, Inc.",2
+Foundry Networks,2
+Alteon Web Systems,2
+Ubique/Lotus,2
+Certicom Corp,2
+Firwood Consulting,2
+Ciena Networks,2
+Mobile-Mind,2
+CryptoRights Foundation,2
+Paradyne Networks,2
+RAD Data Communications Ltd.,2
+P. Brittain,2
+Debanjan Saha,2
+Mind,2
+T.I.A.,2
+SBC Technology Resources,2
+First Hop Ltd.,2
+Alcatel Networks Corporation,2
+"Avaya, Inc.",2
+Vishal Sharma,2
+I.Net,2
+No Affiliation,2
+Oceana Matrix Ltd.,2
+Ellacoya,2
+ANDA Networks,2
+Docomo Labs USA,2
+Siemens n.v.,2
+Theale Volunteer Networking Group,2
+Deloitte Consulting,2
+Virata Corporation,2
+Comverse Network Systems,2
+B. Campbell,2
+PolicyConsulting.Com,2
+Ubiquity Software,2
+Netergy Networks,2
+Sunil Mahajan,2
+Comsat Corporation,2
+Megisto,2
+Airtel Movil,2
+WIDE and INRIA,2
+GTS Network,2
+Musa Unmehopa,2
+Digital Island,2
+SUN,2
+No organization,2
+Mike Shand,2
+UMD,2
+SS8 Networks Inc,2
+Araneus Information Systems Oy,2
+Liem Nguyen,2
+Panasonic Research,2
+Simon Fraser University,2
+ISSN International Centre,2
+RIST,2
+Nippon Telegraph and Telephone Corporation,2
+NetPlane Systems,2
+Content Technologies Ltd.,2
+University of Kentucky,2
+Josh Tseng,2
+T-Nova,2
+Net Proj,2
+Databus Inc.,2
+Intracom,2
+SUN Microsystem,2
+"SS8 Networks, Inc",2
+"OASIS, Inc.",2
+Network Associates Labs,2
+Nexthop Technologies,2
+"edgeflow, Inc.",2
+C. Perkins,2
+Tucows Inc.,2
+Worldcom,2
+Tropic Networks,2
+TRW,2
+Fraunhofer Institute FOKUS,2
+Vitesse,2
+"Opsware, Inc.",2
+Celion Networks,2
+University of Texas,2
+Far Field Associates,2
+Z2 Sagl,2
+Veriwave,2
+"BT, UCL",2
+Revelstone Software,2
+The OpenBSD Project,2
+Qlogic Corp.,2
+Agilent,2
+The Ogg Vorbis Community,2
+Y&D ISG,2
+Clipcode.com,2
+Polaris Networks,2
+XACCT Technologies,2
+Transactionware,2
+PCC,2
+Iris Labs,2
+DICOM Committee,2
+KPNQwest,2
+IRISA-France,2
+S. McGeown,2
+Cetus Networks,2
+Peter Kirstein,2
+Ubiquity,2
+Tim Moore,2
+Gett Communications,2
+Orion Security Solutions,2
+COMMCARE telecommunications,2
+Japan Telecom,2
+Extundo,2
+"VeriSign, Inc",2
+W3C URI Interest Group,2
+Hotsip,2
+Not Organised,2
+PRiSM Lab UVSQ,2
+TruSecure,2
+Inria Rhone-Alpes,2
+SAGEM S.A.,2
+SK TELECOM,2
+Vocoder Speech                            Qualcomm Inc.,2
+BEA,2
+HNR Consulting,2
+"Brocade, Inc.",2
+TopSpin,2
+Alcatel Space,2
+"NetNumber, Inc.",2
+Department of Computer Science,2
+KTF Advanced Lab,2
+Intec NetCore,2
+Center for Democracy and Technology,2
+Asia Global Crossing,2
+Communications Research Laboratory,2
+JHU-APL,2
+SP Systems,2
+Terabeam,2
+Netplane Networks,2
+Nuera Communications,2
+SWIFT,2
+SI International,2
+Texas Tech University,2
+A9,2
+"IKN, Vienna University",2
+editors,2
+co-editor,2
+LORIA/INRIA-Lorraine,2
+A. Olivereau,2
+RNID,2
+Waikato University,2
+UCBL/ENS-Lyon,2
+T-Systems Nova,2
+University of Toronto,2
+"firstRain, Inc.",2
+Avinci,2
+MessagingDirect,2
+Bytemobile,2
+Comverse Technology,2
+F. Travostino,2
+VODAFONE SPAIN,2
+CERT Coordination Center,2
+Asian School of Cyber Laws,2
+WU-FTPD Development Group,2
+Sonera Corporation,2
+University of Osnabrueck,2
+Raytheon,2
+webwasher.com,2
+SBC,2
+Tahoe Networks,2
+Xebeo Communications,2
+Resolute Networks,2
+Hifn,2
+PureEdge Solutions,2
+The XWT Foundation,2
+Kings College London,2
+Refactored Networks,2
+Siemens/RMR,2
+Quarry Technologies,2
+Jean-Philippe Vasseur,2
+Fujitsu Labs of America,2
+George Mason Univ,2
+Spirent,2
+Telecom Italia Lab,2
+pulver.com,2
+TutPro Inc.,2
+Siemens Corporate Technology,2
+Hisham Khartabi,2
+M. V. Sahalayev,2
+Vollbrecht Consulting LLC,2
+Koshiro Mitsuya,2
+U. Chicago,2
+Neterion,2
+UC San Diego,2
+NIC.AT,2
+Serendipity,2
+Wissenschaftszentrum Berlin,2
+NASK,2
+INRIA Rhone-Alpes,2
+Freiburg University,2
+NEC Europte Ltd.,2
+University of Split,2
+SAMSUNG,2
+"GITS, Waseda University",2
+UNSW,2
+ETRI/University of Minnesota,2
+snom technology AG,2
+CITI,2
+BroadSoft,2
+VTT Technical Research Centre of Finland,2
+Mitel Networks,2
+Fujitsu Labs,2
+Polytechnic University,2
+Roke,2
+Transmode,2
+BBC Research and Development,2
+kegel.com,2
+SNMPInfo,2
+"IDT, Inc.",2
+DoCoMo Communications Labs USA,2
+IRISA/INRIA Rennes,2
+ENST-Bretagne,2
+Hirschmann Electronics,2
+ETRI/NIST,2
+"webMethods, Inc.",2
+Corrent Corp.,2
+InterComponentWare AG,2
+Author,2
+RADVISION Ltd.,2
+O.L.N. Rao,2
+Beon Solutions,2
+KDDI Labs USA,2
+Open Text Corporation,2
+FER-UNIZG,2
+PDNETs,2
+QLogic Corporation,2
+Univ. of Murcia,2
+Chantry Networks,2
+Cingular Wireless,2
+JinHyeock Choi,2
+NewBay Software,2
+TraceRoute Security LLC,2
+Green Hills Software,2
+S. Felix,2
+Modular Networks,2
+Keio Univ./WIDE,2
+IneoQuest Technologies,2
+TILab,2
+Bridgewater,2
+Institut Gaspard-Monge,2
+Polytechnique Montreal,2
+Reef Point,2
+Polish-Japanese Institute,2
+"SPARTA, Inc",2
+"SecureOL, Inc.",2
+Teliasonera,2
+NIC Mexico,2
+IntelliCal LLC,2
+TZI,2
+Open Geospatial Consortium,2
+Secure Computing,2
+New Zealand Government,2
+Lockheed,2
+DNA Lounge,2
+"Skype, Inc.",2
+INTEC Netcore,2
+Special Research Centre for Optical Internet and,2
+THUS plc.,2
+Sacramento State,2
+Counterpane Internet Security,2
+CoolPad,2
+ShafTek Enterprises,2
+Instituto,2
+The Anti-Phishing Working Group,2
+MODACOM,2
+Univ. of Oulu,2
+IPA,2
+U. Delaware,2
+NIIF/HUNGARNET,2
+Arch Rock Corp,2
+INT-France,2
+Bowhead,2
+ENSICA/LAAS-CNRS,2
+Detecon,2
+Cobham Analytic Solutions,2
+ICN LAB of Soongsil UNIV,2
+Jian Zhang,2
+The Mitre Corporation,2
+"Storspeed, Inc.",2
+W3C/Volantis,2
+Runcom,2
+Information and Communications,2
+CHiPES,2
+link-lab,2
+Cornfed Systems,2
+Truphone,2
+"Digium, Inc.",2
+"Portwise, Inc.",2
+Symantec Corp.,2
+Venkitaraman,2
+JSON.org,2
+Qualcomm Flarion Technologies,2
+RedPhone Security,2
+IT/Telecom Bretagne,2
+Toyota ITC/Keio Univ.,2
+iTCD/CSUMB,2
+RadiSys,2
+Samsung-AIT,2
+Zfone Project,2
+Stirling,2
+University of New South Wales,2
+National Laboratory on Local Fiber-Optic Communication Network,2
+ISO,2
+TrekAhead,2
+"CCSR, U. of Surrey",2
+INTEC Systems,2
+"David Allan, Nortel",2
+ProCurve Networking by HP,2
+Layered Media,2
+Meinberg,2
+H. Deng,2
+Videotron Ltd.,2
+Ewha Womans Univ.,2
+Aegis Data Security,2
+UC Santa Cruz,2
+Xian Jiaotong University,2
+"Stoke, Inc.",2
+Friesty,2
+LogicaCMG,2
+DAFUER GmbH,2
+freenet,2
+SU,2
+U.S. Department of Defense,2
+"AuthenTec, Inc.",2
+Queensland University of Technology,2
+Adva,2
+Siemens/Roke,2
+"RSA, Security Division of EMC",2
+Softarmor Systems LLC,2
+OGUD Consulting LLC,2
+BAE Systems Advanced Technology,2
+Yokogawa Electric Corporation,2
+OIR-ID,2
+DoCoMo Euro,2
+Sylantro Systems Corp,2
+Future Invest,2
+UNL,2
+WilmerHale,2
+Neville-Neil Consulting,2
+MLTF,2
+SSTL,2
+NEC Laboratories,2
+Hughes Systique Corp.,2
+TEI of Thessaloniki,2
+Olym Tech.,2
+"Hainan University, College of Information Science and Technology",2
+L. Pasteur University/SIP,2
+picosNet Corp/Ajou Univ.,2
+"HGI, Ruhr-University Bochum",2
+Unicode Consortium,2
+PingID,2
+University of Wurzburg,2
+Actalis S.p.A.,2
+Dartmouth College,2
+Mavenir Systems,2
+BlackBerry Ltd,2
+Netstar Logicalis,2
+Department of Information,2
+ZST University,2
+Louis Pasteur University,2
+Helsinki Institute for,2
+Telnic,2
+VideoLAN project,2
+Alaxala Corp.,2
+BME EET,2
+Universidad Nacional del Litoral,2
+M.M. Hanuksela,2
+UN-ESCWA,2
+NEC Labs Europe,2
+KDDILab,2
+R. Desetti,2
+Coriant R&D GmbH,2
+Safenet Infotech Pvt Ltd,2
+Spacely Spackets,2
+HEIG-VD,2
+This Space for Sale,2
+University of Applied Sciences,2
+"Fortinet, Inc.",2
+Ocarina Networks,2
+DigitPA,2
+ISTI-CNR,2
+Zhongshan University,2
+Elster SAS,2
+Dynamic Network Services,2
+Jeff Doyle and Associates,2
+F. Lindholm,2
+ITUA Inc.,2
+TNO ICT,2
+Univ. of Bupt.,2
+BATC,2
+Fermi Serverless,2
+Jian-feng Guan,2
+"ARX, Inc",2
+Kudelski Security,2
+Thales Communication France,2
+Bay Microsystems,2
+Arts Centre Vooruit,2
+LG Electronics Inc.,2
+Sylantro Systems Corp.,2
+Evernote,2
+"IBR, TU Braunschweig",2
+Gesher Erove,2
+Alcatel-Lucent-Sbell,2
+France Telecom-Orange Labs,2
+NEC Corporation of America,2
+Communications Research Centre,2
+Politecnico di Milano,2
+Penn State,2
+UCLA IRL,2
+Coolpad,2
+DT Labs/TU Berlin,2
+Forterra Systems,2
+RTFM,2
+"BitTorrent, Inc.",2
+Colgate University,2
+BreakingPoint Systems,2
+Internet Messaging Technology,2
+JCP-Consult,2
+3xA Security,2
+U. Politechnica of Bucharest,2
+U. College London,2
+U. catholique de Louvain,2
+Octasic Semiconductor,2
+VineGen Inc,2
+AcmePacket,2
+Videotron,2
+Enterprise Architects,2
+Infosys Technologies,2
+University of Suwon,2
+Max Planck Institute for Software,2
+ALCATEL-LUCENT,2
+Bit9 Inc.,2
+Future DOS R&D Inc.,2
+"OpenDNS, Inc.",2
+l. Jiang,2
+H. Schulzrinne,2
+Universidad Politecnica de Madrid,2
+NEC Labs China,2
+G. Xiang,2
+Schrage Consulting,2
+Univ. of Memphis,2
+DOLBY,2
+HARMAN,2
+Freescale Semiconductor,2
+"CISE, University of Florida",2
+PAR Government Systems Corp.,2
+Infosys Tech. Ltd.,2
+CommScope,2
+Atmel Corporation,2
+Netflix Inc.,2
+CWRU,2
+Nexenta Systems,2
+Massachusetts Institute of,2
+"OCCNC, LLC",2
+Nice Systems,2
+Staples,2
+Exar Corporation,2
+MINE Lab,2
+BEIJING UNIVERSITY OF POSTS AND TELECOMMUNICATIONS,2
+University of Strathclyde,2
+IPSw,2
+AKAYLA,2
+Z. Lei,2
+ASTRI,2
+Projet.FRA,2
+Xiao-Ming Guang,2
+Jagiellonian University,2
+AGH University of Science and,2
+Condition-ALPHA,2
+Uni. of Glasgow,2
+"Arktan, Inc.",2
+iXXi,2
+"Symmetricom, Inc.",2
+LUMS,2
+ULD Kiel,2
+Unabhaengiges Landeszentrum,2
+Limelight Networks,2
+AMS-IX B.V.,2
+XMLgrrl.com,2
+Hirschmann Automation and Control,2
+Proximetry,2
+Univ. of Wisconsin Milwaukee,2
+PG&E,2
+CWI Netherlands,2
+Furukawa Network Solution Corp.,2
+NDSC,2
+Nantes University,2
+Keio univ.,2
+UTD,2
+T-Systems Nordic,2
+UNH-IOL,2
+University of Trento,2
+China Academy of Telecommunication,2
+Comodo CA,2
+Hewlett Packard Labs,2
+Tellabs Inc.,2
+Paul Jones,2
+UGent,2
+Wireless Network Laboratory,2
+Y.P.Zhu,2
+University Carlos III of Madrid,2
+Nanjing Univ. of Posts and,2
+.,2
+Cablelabs,2
+APPLIC,2
+Carillon Information Security Inc,2
+C&W,2
+Paul. Kyzivat,2
+IJsbrands Wijnands,2
+Univ. Politecnica de Madrid,2
+Turnip Video,2
+"Verivue, Inc.",2
+Redeem,2
+Hochschule Darmstadt,2
+IEEE,2
+IMDEA Networks and UC3M,2
+IKR University of Stuttgart,2
+NCF,2
+University of Texas at Dallas,2
+"ISAE, Univ. of Toulouse",2
+INSA-Lyon/INRIA,2
+CHT-TL,2
+Verivue Inc.,2
+ForgeRock US,2
+Twitter,2
+University Defense Center,2
+Infinite Automata,2
+PrimeTel,2
+Interisle Consulting Group,2
+COLT Technology Services,2
+Symonics GmbH,2
+MSFT,2
+w. Zhang,2
+Agari,2
+Aricent Group,2
+Microsemi,2
+Sakura Internet,2
+Trusted Information Consulting,2
+Wroclaw University of Technology,2
+"Arktan, Inc",2
+OpenFortress,2
+"Itron, Inc",2
+Nest,2
+TEIHAL,2
+Ping Identity Corp.,2
+Western Mining Company Limited,2
+China SARFT,2
+Research In Motion Limited,2
+Secure64 SW Corp,2
+Shibboleth Consortium,2
+ISAE,2
+Halasz Ventures,2
+DShell Net Arch,2
+"Japan Internet Exchange Co.,Ltd.",2
+CERT/SEI/CMU,2
+Aegis BMD Program Office,2
+Opus One,2
+AmericaFree.TV,2
+DU,2
+Feng Qiu,2
+Citi,2
+Xura,2
+Technische Universiteit Delft,2
+INRIA Paris-Rocquencourt,2
+UPVLC,2
+IEA Software,2
+Altmode Networks,2
+James Hogg Research Centre,2
+Orange Polska,2
+Twist,2
+University of Granada,2
+Broker Communications Inc.,2
+ASMUS Inc.,2
+Korea U.,2
+NIL,2
+SpaceNet,2
+Hong Kong Polytechnic University,2
+China Academy of,2
+LINCS,2
+Comcast.,2
+Spectrum Bridge,2
+Ascension,2
+UnboundID,2
+BigWave IT,2
+The University of New South Wales,2
+Canadian Internet Registration,2
+"BBIX, Inc.",2
+Skyhook Wireless,2
+University Tor Vergata,2
+KDDI corporation,2
+"Dell, Inc.",2
+Mitsubishi Electric Research Labs,2
+Yumaworks,2
+UoG,2
+Voicetronix,2
+Radisys,2
+"COPELABS, Universidade Lusofona",2
+INESC-ID/INOV,2
+University of BUPT,2
+T-Labs/TU-Berlin,2
+Renault,2
+Coriant GmbH,2
+ALU,2
+TW,2
+Spherical Cow Consulting,2
+Xi'an Jiaotong University,2
+"Dropbox, Inc.",2
+France Telecom-Orange,2
+"COMSYS, RWTH Aachen",2
+Outer Cape Cod Network Consulting,2
+Open IPTV Forum e.V.,2
+Fundacio i2CAT,2
+ERNW,2
+Incognito,2
+IETF Chair,2
+IEEE-SA President,2
+W3C CEO,2
+IAB Chair,2
+"Tripwire, Inc.",2
+Zayed University,2
+T-Mobile,2
+Codalogic,2
+RFC Series,2
+Independent Submissions,2
+Bright House Networks,2
+F. Lan,2
+daviko GmbH,2
+Institute de Telecomunicacoes,2
+S. Mena,2
+Brocade Communications System,2
+"SITI, University Lusofona",2
+Alcatel-Lucent Shanghai Bell,2
+Samsung SDS,2
+"BroadBand Tower, Inc.",2
+UNIRC,2
+Sailpoint,2
+Loon LLC,2
+Prof.Kamakoti Veezhinathan,2
+vocTone,2
+Universidad de Sevilla,2
+Altibox,2
+S.J.M. Steffann Consultancy,2
+China Academy of Telecommunication Research,2
+Universitat Politecnica de Catalunya/i2CAT,2
+D. Deng,2
+Bredbandsfylket Troms,2
+ADTRAN,2
+AVA,2
+EICT GmbH,2
+T-Mobile US,2
+TDP,2
+Uppsala University,2
+MetiaTek,2
+Keio Univ./WIDE Project,2
+Iometrix,2
+P. Paolo Lucente,2
+"COPELABS, University Lusofona",2
+Vigil Securiy,2
+Vodafone Group Networks,2
+Redes de Interconexion,2
+Sam aldrin,2
+Netmagic Associates LLC,2
+OfficeTone,2
+Innovium,2
+TUM,2
+Sun Yat-Sen University,2
+Robin.Li,2
+Peloton Technology,2
+IAB Security Program,2
+-,2
+Wuxi Institute of Technology,2
+QFactor,2
+Evolv,2
+Metafinanz Informationssysteme GmbH,2
+CIRCL,2
+Grad Student,2
+Hobu Inc.,2
+Trinity College,2
+Jiangsu Internet-of-Things,2
+CNES/TAS/TESA,2
+Z. Wang,2
+Mandat International,2
+UTokyo,2
+O. Huang,2
+Y-H. Choi,2
+Sectigo Ltd.,2
+"UCL, Belgium",2
+Universite Catholique de Louvain,2
+"Itron, Inc.",2
+Pantheon Technologies,2
+University of Vale do Rio dos Sinos,2
+Technische Universitaet Chemnitz,2
+Universitaet der Bundeswehr Muenchen,2
+iMinds,2
+SoutnEast University,2
+ENS Lyon,2
+University of Nantes,2
+Computer Science Laboratory,2
+BII,2
+Delvin,2
+Nemu Dialogue Systems Oy,2
+NAT.Consulting,2
+Globis Consulting BV,2
+Massar Networking,2
+HbbTV Association,2
+Aliababa Group,2
+Prismtech,2
+Bennish.net,2
+Kanazawa University,2
+CMRG,2
+id3as-company Ltd,2
+China Academy of Telecom. Research,2
+CU Boulder,2
+Princeton,2
+Ikerlan,2
+ISAE - Supaero,2
+USAA,2
+IMT-TELECOM Bretagne,2
+CIRCE Technology Center,2
+DHL Express,2
+Arccus,2
+Sockrate,2
+Florida International University,2
+"Netflix, Inc",2
+NANEL,2
+Nano Sec,2
+Université catholique de Louvain,2
+Armory Technologies,2
+U. of Lancaster,2
+The Abdus Salam ICTP,2
+Viagenie/SANA,2
+"Physikalisch-Technische
+      Bundesanstalt",2
+SUNY Buffalo,2
+Keio/WIDE,2
+genua mbH,2
+Forgerock,2
+Iron Mountain Data Centers,2
+EdgeUno,2
+University of Perugia,2
+HKUST,2
+Elektrobit,2
+Fijitsu,2
+"APL, Johns Hopkins University",2
+C-DOT India,2
+China Monile,2
+Nozomi,2
+Canon,2
+Werner Management Services e.U.,2
+Private Contributer,2
+Rivian Automotive,2
+BIHE,2
+Samsung Electronics America,2
+Onboard Security,2
+VN Telecom Consultancy,2
+Bangor University,2
+Brocade Networks,2
+Gamma Communications,2
+Tavendo GmbH,2
+Blue Ridge Envisioneering,2
+libssh,2
+Affilias,2
+VMWare,2
+K. Ma,2
+Oxbotica,2
+A. Lindem,2
+Nanjing Univ. of Posts and Telecom.,2
+Bar Ilan University,2
+g10 Code GmbH,2
+Private Contributor,2
+Mobile TeleSystems JLLC,2
+"China Telcom Co., Ltd",2
+General Electric,2
+Equinix Inc,2
+Alibaba Group Holding Ltd.,2
+GSMA,2
+University of Campinas,2
+Paderborn University,2
+Vigilsec,2
+AFRINIC,2
+GridTICs - UTN FRM,2
+Swinburne University of,2
+University of Haifa and Amazon Web Services,2
+M.,2
+Nivetti Systems,2
+Luxembourg Institute of Science and Technology,2
+LAAS-CNRS,2
+University of Piraeus,2
+Electrical Computer Engineering,2
+HuaiMo Chen,2
+Tencent Company,2
+Intercede,2
+Stratumn,2
+China CAICT,2
+WJR Consulting,2
+"Winlab, Rutgers University",2
+Universita degli studi dell Insubria,2
+The Catholic University of America,2
+New Mexico State University,2
+JMPC,2
+PoliTo,2
+Yanzi Networks,2
+"University of Nebraska, Omaha",2
+City University Hong Kong,2
+Atos,2
+F. Sunavala,2
+Turk Telekom A.S.,2
+Jackpine Technolgies Corp.,2
+Universitaet Duisburg-Essen,2
+Dogtiger Labs,2
+Philips Lighting Research,2
+i3D.net,2
+FBConsulting,2
+D. Daghmehchi,2
+Song Xiao Lin,2
+Avinta Communications Inc.,2
+Graz University of Technology,2
+UAB,2
+Unina,2
+Gran Sasso Science Institute,2
+R. Marin,2
+vaf.net Internet Consulting,2
+SRM University-AP,2
+Royal Danish Library,2
+SGEPRI,2
+FBK,2
+Greenspector,2
+Well-Typed,2
+"MistIQ Technologies, Inc",2
+ariksh software,2
+Taler Systems SA,2
+BFH,2
+LONAP Ltd,2
+CAEIT,2
+Korea Telekom,2
+R. Lohiya,2
+webrtchacks,2
+Office of Emergency Communication/DHS,2
+Divideon,2
+Soluto by Asurion,2
+Danube Tech GmbH,2
+"Comodo Group, Inc",2
+Stellar Development Foundation,2
+Nightwatch Cybersecurity,2
+eurofunk Kappacher GmbH,2
+Hagedorn Informationssysteme GmbH,2
+"University of California, Los Angeles",2
+Connect2id Ltd.,2
+Futurewai,2
+BNC,2
+LNCC,2
+APNIC Pty Ltd,2
+CIS India,2
+American University,2
+Farsight,2
+Crossref,2
+Singapore Telecommunications Limited,2
+GitHub,2
+Singapore Telecommunications,2
+University of Reggio Calabria,2
+Federal University of Rio Grande do Sul (UFRGS),2
+Nuage,2
+Wellcome Sanger Institute,2
+O3b Networks,2
+Dyson Technology,2
+Alexander TEI of Thessaloniki,2
+Xiamen University,2
+K. DeSmedt,2
+The University of Manchester,2
+Steinwurf Aps,2
+Inmarsat PLC,2
+"InterDigital Europe, Ltd",2
+"Entrust Datacard, Ltd",2
+TC 26,2
+"D-Link Systems, Inc.",2
+Edward Jones wealth management,2
+Xilinx,2
+Brown University,2
+Divination Inc.,2
+Edward Jones Wealth Management,2
+Hammerspace Inc,2
+Nexar,2
+"Mercari, Inc.",2
+"SECOM Co., Ltd. Intelligent System Laboratory",2
+Varsa Networks,2
+Inspur,2
+Commscope Networks,2
+SIDN Labs/TU Delft,2
+SFR/ALTICE,2
+MTN Uganda Ltd.,2
+Loon,2
+Altiostar,2
+Ex-Sun Employee,2
+NCC Group,2
+Line Plus,2
+Hochschule Esslingen - University of Applied Sciences,2
+LookingGlass Cyber,2
+Chaincomp,2
+UNSW Sydney,2
+Les-Tilleuls.coop,2
+"Hochschule Esslingen -
+      University of Applied Sciences",2
+Emden University,2
+"NetEase,Inc",2
+fTLD Registry Services,2
+OpenFortress BV,2
+Beijing University of Posts and Telecommunications.,2
+Grenoble Informatics Laboratory,2
+FiberHome,2
+Bufferbloat.net,2
+TekLibre,2
+Arris,2
+UNH,2
+Sky,2
+The Linux Foundation,2
+St. Poelten UAS,2
+China SAPPRFT,2
+Jan Algermissen Solutions Engineering,2
+Mavenir Systems Pvt Ltd,2
+HSBC,2
+Algorand,2
+Skye Logicworks LLC,2
+Go6 Institute,2
+Ernst & Young,2
+Safety IO,2
+EMP University,2
+UFRGS,2
+"NIC Labs, Universidad de Chile",2
+South-east University,2
+H3C Corporation,2
+"Hughes Network Systems, LLC",2
+OpenDrives.com,2
+Signalwire/Freeswitch,2
+Segment,2
+Moneyhub Financial Technology,2
+Mailpile ehf,2
+Fiberhome Telecom LTD,2
+Ciena Corporation.,2
+MTN Group Limited,2
+TIM S.p.A,2
+"Openchip & Software Technologies, S.L.",2
+NNIX,2
+Ghent University - imec,2
+TCINET,2
+EdwardJones,2
+"Institute of Embedded Systems, ZHAW",2
+NearForm Research,2
+Ciena Coroporation,2
+Reliance,2
+Splunk Inc.,2
+internet policy advisors,2
+University of Surrey 5/6GIC,2
+University of Notre Dame,2
+D. Zhao,2
+CoSMo Software Consulting,2
+HamBSD,2
+IIJ Innovation Institute,2
+GNUnet e.V.,2
+Donuts,2
+New College Florida,2
+Intesi Group,2
+"The Technical center of Internet, LLC",2
+"F5 Networks, Inc",2
+Cox communications,2
+Open-Xchange Srl,2
+Fachhochschule Dortmund,2
+CENTR,2
+Venture Cryptography.,2
+"University of Waterloo, Zcash Foundation",2
+Comscope,2
+MNK Labs and Consulting,2
+Concordia Univeristy,2
+Technico Lisboa,2
+Immersion Corporation,2
+acert.io,2
+Virgin Media,2
+"Preferred Networks, Inc. / WIDE Project",2
+Bowery Farming,2
+"PayPal, Inc.",2
+Postman,2
+"INESC-ID, Instituto Superior Tecnico",2
+Orange Innovation,2
+NLNet Labs B.V.,2
+auth0.com,2
+ViaThinkSoft,2
+"Bloomberg, L.P.",2
+Physikalisch-Technische Bundesanstalt (PTB),2
+Ostfalia University of Applied Sciences,2
+"IIE, CAS",2
+SJWs R Us,2
+Oceania,2
+Offen,2
+Centre National de la Recherche Scientifique,2
+IP ArchiTechs,2
+Meinberg Funkuhren GmbH&Co.KG,2
+CSIRO Data61,2
+KOREATECH,2
+"deSEC, Technische Universität Berlin",2
+"Qualcomm Technologies, Inc.",2
+Radboud University and MPI-SP,2
+Haivision Network Video GmbH,2
+"Aruba, HPE",2
+Maia Edge,2
+NSS LLC,2
+Databricks,2
+Edvina.net,2
+ASSA ABLOY,2
+Splio,2
+NENA,2
+Zhejiang P&T College,2
+Square Inc.,2
+Strategic Wealth Limited,2
+OpenFortress.nl,2
+Uber Technologies Inc.,2
+Independent Identity Inc,2
+"DACS group, EEMCS, University of Twente",2
+Auth0/Okta,2
+NXP,2
+OpenSSL Corporation,2
+Upsec Inc.,2
+Synopsys,2
+"IRIF, University of Paris-Cité",2
+Federal Aviation Administration,2
+Concepts Beyond,2
+Sequoia PGP,2
+V434 Project,2
+ByteDance Inc,2
+FAU,2
+Init7 (Switzerland) Ltd.,2
+Portage,2
+CryptID,2
+Purple Moutain Laborotary,2
+"Secure Systems Engineering, deSEC",2
+Agricultural Bank of China,2
+University of Luxembourg and Inria,2
+3NLab Belgium Reseach Center,2
+Central Bank of Canada,2
+Digital Railway (DSD) at Deutsche Bahn,2
+R.I.T.,2
+AnyWi,2
+Operant Networks Inc.,2
+"KDDI Research, Inc.",2
+The University of Osaka,2
+MPI-SP & Radboud University,2
+GEANT,2
+The University of Minnesota at Duluth,2
+SoftBank Corp.,2
+CS GROUP,2
+Telecom Sud Paris,2
+"Haivision Network Video, GmbH",2
+"internet policy advisors, ltd",2
+Rohan Mahy Consulting Service,2
+REA,2
+Federated Solutions,2
+"Innate, Inc.",2
+SipRadius LLC.,2
+Video Services Forum,2
+"New H3C Technologies Co.,Ltd",2
+"Freelance, Measurement Lab",2
+INT Council,2
+Technische Universität Ilmenau,2
+Private,2
+Crypto4A,2
+Zoox,2
+China Tower,2
+Geomys,2
+Fynbos,2
+Stichting Internet Domeinregistratie Nederland,2
+Liquid Intelligent Technologies,2
+"UK Dept. for Science, Innovation & Technology",2
+Okayama University,2
+AntGroup,2
+TinySSH,2
+SecureG Inc.,2
+"Trinity College, Dublin",2
+"Spruce Systems, Inc.",2
+Sine Nomine Associates,2
+KeyFactor,2
+Tachyon Dynamics,2
+ZF Friedrichshafen AG,2
+Sectigo (Europe) SL,2
+"INESC-ID, Técnico Lisboa",2
+Capital One Financial,2
+Korea Electronics Technology Institute,2
+China Moblie,2
+Keio University / WIDE Project,2
+Preferred Networks / WIDE Project,2
+Avilution,2
+Spirl,2
+"University of New
+      South Wales",2
+Bundesdruckerei,2
+Blockcast,2
+Lumen,2
+Ruhr University Bochum,2
+Sateliot,2
+FullCtl,2
+LINKS Foundation,2
+London Internet Exchange Ltd,2
+Crypto4A Technologies,2
+National Institute of Advanced Industrial Science and Technology (AIST),2
+China University of Petroleum-Beijing at Karamay(CUPK),2
+Zhongguancun Lab,2
+Discord,2
+Swarthmore College,2
+National Network to End Domestic Violence,2
+DataTrails,2
+Transforming Information Security LLC,2
+Axiomatics,2
+"Bluesky, PBC",2
+ENS Labs,2
+Crypto4A Technologies Inc.,2
+"Department of Computer
+      Science and Engineering",2
+"Germ Network, Inc.",2
+6WIND,2
+SimpleLogin,2
+True3D Technologies Inc.,2
+Identity Digital,2
+TrustAsia,2
+IPinfo,2
+IDsec Solutions,2
+The Agency for Digital Government,2
+"Hyper Digital Twins Co., Ltd. / Shibaura Institute of Technology",2
+Siemens Mobility,2
+Swedish Internet Foundation,2
+HPE Networking,2
+Tweede Golf B.V.,2
+Namefi,2
+"Storvisor, Inc.",2
+Science Applications International Corporation,2
+ZGC Laboratory,2
+Space Initiatives Inc,2
+University of Warwick,2
+OpenSSL,2
+TaRDIS,2
+Latvijas Banka,2
+Deuetsche Telekom,2
+Sunet,2
+Otto-von-Guericke University Magdeburg,2
+Crypto4A Inc.,2
+US Naval Postgraduate School,2
+The FreeBSD Foundation,2
+RiverExplorer LLC,2
+Open Future,2
+GMO Cybersecurity by Ierae,2
+UNC Charlotte,2
+Université Catholique de Louvain,2
+Condé Nast,2
+IndyKite,2
+"Drummond Group, LLC",2
+Stardust,2
+Arrcus Inc.,2
+deSEC,2
+WSO2,2
+Biren Technology,2
+Samsung R&D Bangalore,2
+JPMorgan Chase & Co.,2
+Public Interest Registry (PIR),2
+Blind Five Year Old,2
+Ubitech Ltd.,2
+CNR-ISTI,2
+SIRIUS Technology,2
+University of Cagliari,2
+ATHENA RC,2
+"Marashlian & Donahue, PLLC",2
+Queen Mary University of London,2
+Amazon Trust Services,2
+Hopae Inc.,2
+"National Security Institute, Virginia Tech",2
+Artificial Intelligence Internet Foundation (AIIF),2
+European Space Operations Centre (ESOC),2
+Meta-Layer Initiative,2
+Bytedance,2
+Ethereum Foundation,2
+Franhaufer Inst.,2
+Asteroid International B.V.,2
+Crusoe,2
+"Lumen Technologies, Inc.",2
+Sea Group,2
+"GuardSuite, a VXMSecure Company",2
+Keyfactor,2
+Centre for Development of Advanced Computing (CDAC),2
+ISOC.CAT,2
+eReuse.org,2
+TAU/RAEE,2
+Everything-OPS,2
+Yunshan Networks,2
+Sun Yat-sen University,2
+Harbin Institute of Technology,2
+"ARCES, University of Bologna",2
+"Equinix, Inc",2
+Stripe,2
+NetEdge,2
+Banu Systems Private Limited,2
+Purple Mountain Laboratories,2
+XLIM UMR CNRS 7252 - Limoges University,2
+Vulture Labs,2
+Univ. of Rome Tor Vergata / CNIT / Common Net,2
+paywalls.net,2
+Apex Intelligence Empire,2
+ApertoID,2
+Internet of Thinger SL,2
+Astrognosy AI,2
+Secure-IC,2
+Sovereign AI Stack,2
+AI Internet Foundation,2
+Vettic LLC,2
+OWASP,2
+Zentity,2
+Shanghai Jiao Tong University,2
+Glyphzero Labs Inc.,2
+Sovereign AG,2
+Jolly Roger Telephone Company,2
+"Abertay University, UK",2
+"Independent, USA",2
+SVT Robotics,2
+InsumerAPI,2
+"Keel API, Inc.",2
+Apptly Software Ltd,2
+Groundmark,2
+GLCN,2
+The `OpenHTTPA` Foundation (openhttpa.org),2
+Beacon Spec,2
+"NextNav, LLC",1
+Robin Li,1
+Cornell Univ. Theory Center,1
+Open Software Foundation,1
+Wang Laboratories,1
+Center for Discrete Mathematics and,1
+Computer Science Center,1
+Webster Computer,1
+Cray Communications,1
+CICNet,1
+Geer Zolot Associates,1
+BBN Communications,1
+Rationel Almen Planlaegning,1
+IETF/IESG Chair,1
+JvNC,1
+"Advanced Network & Services, Inc.",1
+NORDUnet/SUNET,1
+Ungermann-Bass,1
+MERIT,1
+F. Kastenholz,1
+IR,1
+SRI,1
+NNSC,1
+C. Feil,1
+Panda Programming,1
+NSFnet/Merit,1
+OARnet & ISI,1
+NetConsult AG,1
+UTexas,1
+IESG Internet AD,1
+IESG Chair,1
+Network Innovations,1
+"Bolt, Beranek and Newman",1
+Corporation for National Research Initiatives,1
+Cascade Communications Corp.,1
+EIT,1
+Xerox Palo Alto Research Center,1
+GMD Fokus,1
+Centro Svizzero Calcolo Scientifico,1
+ftp Software,1
+NSFNET/MERIT,1
+Cadia Networks,1
+University of Newcastle upon Tyne,1
+Solvit Chosun Media,1
+NASA NREN/Sterling Software,1
+Hewlett-Packard Laboratories,1
+Hebrew University,1
+Electricite de France,1
+NetConsult,1
+SonyCSL,1
+Eicon Technology Corporation,1
+CWI,1
+"DCA, Inc.",1
+"Network Solutions,Inc.",1
+Sidewalk Software,1
+U S WEST Advanced Technologies,1
+Sync Research,1
+Chair,1
+"Merit, Inc.",1
+Stac Electronics,1
+Univ. of Michigan,1
+Gandalf,1
+US Robotics,1
+Thinking Machines Corp.,1
+FS Consulting,1
+ICL Enterprise Systems,1
+Wellfleet,1
+Mitre,1
+Erik Nordmark,1
+Edinburgh University Computing Service,1
+Newbridge Networks Inc.,1
+RDBMSMIB Working Group Chair,1
+Informix Software,1
+Iris,1
+"INRIA, IAB Chair",1
+Sunspot Graphics,1
+Boeing Computer Services,1
+SHL Systemhouse,1
+BUNYIP INFORMATION SYSTEMS,1
+Motorola Codex,1
+CDPD Consortium,1
+EPRI,1
+AADS,1
+Villamicro,1
+Lexmark International,1
+Wall Data Inc.,1
+Jupiter Technology Inc.,1
+"NetStar, Inc.",1
+Digital,1
+Freegate,1
+Indian Institute of Technology,1
+AIC Laboratories,1
+University of Newcastle,1
+Bay Networks Inc.,1
+Cascade Communications Co.,1
+STUPI.AB,1
+Stac Technology,1
+NASA Ames Research Center,1
+SilverPlatter Information Ltd.,1
+IMDEA Networks/UC3M,1
+"Hewlett-Packard, Inc.",1
+ITT/NRL,1
+Terisa Systems,1
+Boulder Software Engineering,1
+Comp-Comm Consulting,1
+"Accurate Info. Sys., Inc.",1
+Aerospace Corporation,1
+ADARA,1
+RABA Technologies,1
+"Securify, Inc.",1
+ICL,1
+ISI/LBNL,1
+Vixie Enterprises,1
+"IEEE, Inc.",1
+Hill & Associates,1
+C. Hage Associates,1
+Athena Associates,1
+SINTEF RUNIT,1
+Telstra Internet,1
+Kaman Sciences Corporation,1
+Unisys,1
+Internet Consulting of Vermont,1
+Sellnet Communications Pty Ltd,1
+SEI/CMU,1
+Nara Institute of Science,1
+Electronic Book Technologies,1
+XEROX,1
+"EBT, Inc.",1
+Norwegian Computing Center,1
+Cybersource,1
+National Institutes of Health,1
+University of Colorado,1
+T-Mobile CZ,1
+University of Utrecht,1
+Stratix Consultancy bv,1
+TradeWave,1
+"AXON Networks,Inc.",1
+Merit Networking,1
+Sterling Software/NASA IITA,1
+"Ipsilon Networks,Inc.",1
+Xedia Corp.,1
+InterCon,1
+W3,1
+Madge Networks Ltd.,1
+Coloma Communications,1
+Shiva Corporation,1
+MCI Systemhouse,1
+J. Le Boudec,1
+Info-ZIP,1
+Telecom Finland Inc.,1
+Lulea University of Technology/Telia Research AB,1
+Compaq Computer Corp.,1
+P. Gross,1
+NOAO,1
+Martha Steenstrup,1
+GMD,1
+B. Patel,1
+Monaco Telematique MC-TEL,1
+K. Kartmann,1
+E. Crawley,1
+Isode Inc.,1
+SENA S.A.,1
+S. Carl-Mitchell,1
+Higgs America,1
+Berkeley,1
+Bright Tiger Technologies,1
+U.S. ARMY CECOM,1
+T. Maufer,1
+Ipsilon,1
+US Robotics Access Corp.,1
+J. W. Pace,1
+NORTEL,1
+National Center for Supercomputing Applications,1
+HP Laboratories Bristol,1
+Epic Systems Corporation,1
+Albstadt-Sigmaringen University,1
+Phase2 Software Corporation,1
+Competitive Computing,1
+Contractor,1
+Public Access Publications,1
+Sohonet Limited,1
+Teledesic,1
+Darren Shakib,1
+European Network Laboratories,1
+Network Systems Corp.,1
+Dun & Bradstreet,1
+AimQuest Corp.,1
+i-Pass Alliance,1
+Asiainfo,1
+"isochrone, Inc.",1
+Ionos Network,1
+The NetBSD Project,1
+Mitsubishi Electric Corp.,1
+DRA,1
+AM Network Information Center,1
+AltaVista,1
+Allot Networks Inc.,1
+DECWRL,1
+Wink Communications,1
+Excite,1
+CyberSafe Corporation,1
+WorldCom Advanced Networks,1
+DKUUG,1
+Pacific Broadband Communications,1
+Northstream AB,1
+Hethmon Software,1
+LuTH/CDT,1
+Institute of Systems & Information Technologies/KYUSHU,1
+COLT Internet,1
+GRACELAND.COM,1
+Tatyana Ryutov,1
+Liberate,1
+Joint Research Centre of the E.C.,1
+Joerg Ott,1
+Tellique,1
+The Virtual Workshop,1
+RealNetworks,1
+NewBridge,1
+Hitachi Data Systems,1
+V. Paxson,1
+M. Mealling,1
+Bunyip Information Systems Inc.,1
+Directory Tools and Application Services,1
+iPlanet e-commerce Solutions,1
+Consensus Development,1
+Cal Tech,1
+Gigapacket Networks,1
+Gecko Software,1
+Digital Equipment,1
+III / ISI,1
+C. Semeria,1
+Harlequin Inc,1
+Graphics Communication Laboratories,1
+Netsuite Development,1
+Cyno Technologies,1
+"CygnaCom Solutions, Inc.",1
+StarBurst,1
+Neda,1
+U. S. Bank,1
+Institutional Venture Partners,1
+Ascend Communications Inc.,1
+OCLC Online Computer Library Center,1
+Reuters Limited,1
+Keen.com,1
+A. Sappia,1
+NorthWestNet,1
+Project Xanadu,1
+Integralis,1
+MIT SIPB,1
+SISCO,1
+Compucat Research,1
+"Affinia, Inc.",1
+Hitachi Soft,1
+SkyWeyr Technologies,1
+Nisto,1
+"Centre for Research and Innovation
+      Hellas",1
+Lulea  University  of Technology,1
+Arrowpoint,1
+Fiberlane,1
+ATT Labs Research,1
+Organic Online,1
+VideoServer Corp.,1
+UPenn,1
+Gene Tsudik,1
+Matt Hur,1
+Hibernia Networks,1
+Connect,1
+America On-Line,1
+Spider Software Ltd.,1
+NASA Ames Research Center/MRJ,1
+Sable Technology,1
+"Newbridge Networks, Inc",1
+J. Benoit,1
+ISODE Ltd,1
+Critical Angle Inc,1
+"Dirk-Willem van Gulik,",1
+International Business Machines Corp.,1
+"InfoBeat, Inc.",1
+Philips Semiconductors,1
+M. Kosters,1
+Ironbridge Networks,1
+IABG,1
+K. Dobbins,1
+Smith Micro Software,1
+R. McKenzie,1
+W. Diss,1
+Univ of Washington,1
+Liberate Technologies,1
+Pacific Softworks Inc,1
+Compuserve Corporation,1
+Sable Technology Corporation,1
+Miranda Productions,1
+Theodore Ts'o,1
+"Underscore, Inc.",1
+Sharp Labs,1
+AltaVista Internet,1
+Hi/fn,1
+TimeStep,1
+Adobe Systems Inc.,1
+Nentec GmbH,1
+U. Michigan,1
+United International University/CSE,1
+Iris Assoc.,1
+Claddagh Films,1
+"Coreon, Inc.",1
+PADL Software Pty. Ltd.,1
+Fore,1
+DeLong Consulting,1
+P. Raison,1
+Data Communications,1
+Stockholm University and KTH,1
+HSCOMMS,1
+L.Phifer,1
+Reaper Technologies,1
+THUS plc,1
+Cabletron,1
+"Isode, Ltd.",1
+Base Tecnologia e Sistemas,1
+Compaq WRL,1
+J. Touch,1
+Sembawang Media,1
+Ennovate,1
+ACONET,1
+Sony CSL,1
+Diamond Plus Software Development,1
+Jon Cargille,1
+Petri Koskelainen,1
+KPI,1
+Saveen Reddy,1
+RouterWare,1
+Academ Consulting Services,1
+Digital Equipment GmbH,1
+BrightTiger Technologies,1
+Compaq/W3C,1
+Dascom,1
+neart.ie,1
+My CFO,1
+CertCo,1
+Jim Randell,1
+"Maxware, Pirsenteret",1
+Vinca Corporation,1
+"Oblix, Inc.",1
+I.E.C.C.,1
+IN-Root-CA Individual Network e.V.,1
+EIS Corporation,1
+TranSwitch Corporation,1
+"Bay Networks, Inc.",1
+Center for Information Technology Integration,1
+FreeGate,1
+FreeGate Corp.,1
+Ascend,1
+Kim Kinnear,1
+James Gilroy,1
+Angelos D. Keromytis,1
+U. Of Pennsylvania,1
+RAFT Corporation,1
+Praerit Garg,1
+"AbiSource, Inc.",1
+Expires in six months,1
+David B. Johnson,1
+Gregory D. Troxel,1
+ORNL,1
+Bozeman Pass,1
+"SonyCSL, Inc.",1
+Japan Satellite Systems,1
+O. Tavakoli,1
+Critical-Angle Inc.,1
+Integralis Ltd.,1
+Mainbrace,1
+Jeffrey Altman,1
+Chairman,1
+Blue Coat Systems Inc.,1
+New Oak Communications,1
+TIBCO Software,1
+Talarian Corporation,1
+Univ. of Saarbruecken,1
+QSSL,1
+Cumulus Data Systems (UK) Ltd,1
+CAP GEMINI,1
+Vancouver Webpages,1
+WaterSprings.ORG,1
+Sequent Computer Systems,1
+Bay Networks Architecture Lab,1
+Chrysler Corporation,1
+ESI,1
+Sybase,1
+Lexmark,1
+Noell,1
+Soumitra (Ronnie) Sarkar,1
+Compaq Computer Corp,1
+"Activerse, Inc.",1
+Technical University of Vienna,1
+UNLP Argentina,1
+Avici,1
+Isochrome,1
+Sharp Laboratories,1
+Stairnote,1
+Telecomitalia Lab,1
+Filenet,1
+B. Haberman,1
+Chesapeake Computer Consultants,1
+Jon Knight,1
+Andrey Lyamin,1
+R. Droms,1
+Ruhr-Uni Bochum,1
+Corriente,1
+The Electric Loft,1
+B. Blakley,1
+CiTR Pty Ltd,1
+Fuji Xerox Info. Systems,1
+Verve,1
+Armenian Computer Center,1
+Zephyr Development,1
+Kasthuri Kasthurirangan,1
+Bell Labs Lucent Technologies,1
+Nortel UK,1
+et al,1
+DataChannel,1
+Redback Networks Inc,1
+Avri Doria,1
+Hyundai Network Systems,1
+CorVu Pty Ltd,1
+Yakov Rekhter,1
+Digex,1
+UUnet,1
+Data I/O Corp.,1
+MessagingDirect Inc.,1
+Rutgers University Computing Services,1
+Ganymede Software,1
+NetScout Systems,1
+BT Laboratories,1
+Bay,1
+Wes Rishel Consulting,1
+ICAT,1
+IP Devices,1
+Singularity Networks,1
+Netscape Communications Corp,1
+Bay Networks.,1
+Omnia Communications.,1
+Photonex,1
+Transfinite Systems Company,1
+GMD FOKUS,1
+CSELT,1
+O. Gudmundsson,1
+Nortel Networks Inc.,1
+PhotonEx Corp,1
+"RouterWare, Inc.",1
+Expired in six months,1
+Biaoma IT,1
+Nortel Ltd,1
+MCI WorldCom Advanced Networks,1
+BankNet,1
+CQOS Inc.,1
+Integrated Systems Inc.,1
+Surevine Limited,1
+"ValiCert, Inc.",1
+TekSavvy Solutions,1
+A. Ballardie,1
+John Ioannidis,1
+Joan Feigenbaum,1
+Gisli Hjalmtysson,1
+Sateesh Kumar,1
+SNMP Research Inc.,1
+S. Sengodan,1
+1998-09-06,1
+CyberSource,1
+United Kingdom,1
+DSTC,1
+NLA,1
+"SERC, Melbourne",1
+Commerce One,1
+1998-09-25,1
+Centraal Corporation,1
+Attachmate Corporation,1
+Timestep,1
+Level3,1
+Univ IL,1
+UWisc-Mad,1
+Neda Communications,1
+3Com,1
+U.S. Satellite Broadcasting,1
+"GlobeSet, Inc.",1
+WebPKI.org,1
+Mediatrix Telecom,1
+IP Multicast Initiative,1
+Bay Networks/Nortel Networks,1
+D. Grad,1
+NASA Ames/Raytheon,1
+Netrake Corporation,1
+"Editor, Nortel Networks",1
+ANF Consulting,1
+"Song Networks, Inc.",1
+"Newbridge Networks, Inc.",1
+OTB Consulting Corp.,1
+Srinivasa Rao,1
+BBN/NASA Glenn,1
+CDT-LTU/Marratech AB,1
+"CyberSafe, Inc.",1
+ISPSoft Inc.,1
+Steve Shultz,1
+NORTEL Networks,1
+Hossam Afifi,1
+"dotRocket, Inc.",1
+ThinLink Solutions,1
+AddTrust,1
+SECUDE,1
+Sockeye Networks,1
+SoongSil UNIV,1
+Digital Signature Trust,1
+INRIA Sophia-Antipolis,1
+HRL,1
+NBX Corporation,1
+AMT Group,1
+CacheFlow Inc.,1
+Ting Cai,1
+Differential,1
+Ameritech,1
+Samsung Telecommunications America,1
+LGIC,1
+UC-Santa Barbara,1
+H.-Y. Tyan,1
+Zambeel,1
+EPFL ICA,1
+CTL Nortel Networks,1
+INR Moscow,1
+AppGate Network Security AB,1
+savecore.net,1
+Dublin Core,1
+DHL Worldwide Express,1
+Equipe Communications,1
+CSELT S.p.A.,1
+Wei Sun,1
+"WGSI, A Getronics Company",1
+davidreilly.com,1
+iPass,1
+FGAN/FKIE,1
+University Of Plymouth,1
+NAILabs,1
+SEC,1
+National Yunlin University,1
+TWS,1
+UMass-Amherst,1
+Argonne National Laboratory,1
+"Advanced Networks & Services, Inc.",1
+ICAIR,1
+Into Networks,1
+J. Alvinen,1
+Surety Technologies,1
+Maxware AS,1
+"Mykotronx, Inc.",1
+Fibonacci,1
+UNICEN,1
+Torrent Networks,1
+Critial Angle,1
+Ulticom,1
+Colt Telecom,1
+Utah State University,1
+TOYOCOM,1
+RedCreek,1
+L. Gommans,1
+Jerry Maziarski,1
+Xbind,1
+Internet Security Systems,1
+NEC USA Inc,1
+W. Polk,1
+M. Thomas,1
+Bernie Volz,1
+Bootix Tech. GmbH,1
+"Zambeel, Inc.",1
+Circa Communications,1
+"APMMON MIB                Apptitude, Inc.",1
+W3C/INRIA/MIT,1
+"Gadzoox Networks,Inc.",1
+J. Yoakum,1
+W3C/INRIA,1
+S. Sato,1
+Photuris,1
+Routingloop,1
+WeSync.com,1
+"LongBoard, Inc.",1
+Produx House,1
+Mirror Image,1
+America Online,1
+Chalmers University,1
+Rhodes University,1
+Aventail Corp.,1
+Univ. of Tuebingen,1
+Corporate R&D Center,1
+DevelopMentor,1
+SkiCal Consortium,1
+Soft Applications,1
+iVMG,1
+ACIRI/ICSI,1
+Exodus Communications,1
+Skymoon Ventures,1
+NetRake,1
+"Zaffire, Inc.",1
+George Babics/Steltor,1
+Procket,1
+HPL,1
+Icon Medialab,1
+Chek,1
+i-data Printing Systems,1
+"Photuris, Inc.",1
+Cplane,1
+RealNames Corporation,1
+NAI,1
+Pacific*Bell,1
+On Sabbatical,1
+Toshiba TEC,1
+ISI/USC,1
+3Com Corporation,1
+Vodaphone Airtouch,1
+Network Engines,1
+Anoop Ghanwani,1
+BroadBandOffice Inc.,1
+Mitel Corp.,1
+"G3 Nova Technology, Inc.",1
+UC--Santa Barbara,1
+Levon Esibov,1
+Belgacom,1
+HRL Labs,1
+"Toshiba Research America,Inc.",1
+Motorola India,1
+INETCO Systems Ltd.,1
+Tivoli Systems.,1
+Enron Communications,1
+Bosch Telecom,1
+Simon Bryden,1
+zev.net,1
+Tivoli Systems Inc,1
+UML,1
+BBC Monitoring,1
+Forsythe Solutions,1
+SS8 Networks,1
+"Netword, Inc.",1
+Datang Telecom,1
+eCal Corp.,1
+Net Effect,1
+nVisible Networks,1
+University of Illinois,1
+Amour Eternal,1
+Integral Access Inc.,1
+BeThereBeSquare Inc.,1
+"BeThereBeSquare, Inc.",1
+UUNet (MCI WorldCom),1
+"Rankom, Inc.",1
+V. Heinau,1
+Purple Streak Dev.,1
+Vodafone Espana,1
+New Access Communications,1
+Master Consultant,1
+V. Hilt,1
+TerraByte Technology,1
+InterNetShare.com,1
+DDI Corporation,1
+"Sun Laboratories, Inc.",1
+"Award Solutions, Inc.",1
+DO Corporation,1
+Integral Access,1
+Lucent Technology,1
+SITA Equant,1
+Bala Rajagopalan,1
+DoubleWide Software,1
+Occam Networks,1
+Stardust.com,1
+Intelliden,1
+Ntear LLC,1
+eStarCom,1
+Technoinfo Service,1
+Atos Origin,1
+Bryan Gleeson,1
+Optical Datacom,1
+nCUBE Corporation,1
+Chromisys,1
+Nextbeacon,1
+Gold Wire Technology,1
+In-Q-Tel,1
+CSFB,1
+Airvana,1
+"INTELLIDEN, Inc.",1
+"SecureWorks, Inc.",1
+Guardian,1
+"Alice's Registry, Inc.",1
+BoxnArrow.com,1
+Tachion Networks,1
+"Editor, TZI/Uni Bremen",1
+"LTS, U. of Maryland",1
+Comverse Technology Inc.,1
+William A. Simpson,1
+The UUCP Mapping Project,1
+Messaging Direct,1
+The Jabber.org Project,1
+Communications Research Lab,1
+NUS,1
+Trapeze Networks,1
+Enterasys,1
+Seamoby Forum,1
+Research Laboratory,1
+Vail Systems,1
+Toshiba Corp,1
+"RADWare, Inc.",1
+Guardeonic Solutions,1
+Consortium GARR,1
+Hitachi Koki Imaging Solutions,1
+net&tv,1
+Global Financial Networks Limited,1
+Peter Blatherwick,1
+Motorola Labs Paris,1
+"INITECH, Inc.",1
+hereUare,1
+Tektronix,1
+JDS Consultant,1
+Scott R. Fluhrer,1
+Christophe Diot,1
+G. Baese,1
+ONI Systems,1
+Motorola India Electronics Ltd.,1
+DeTeSystem,1
+Jon Peterson,1
+C3L/ETSI,1
+Tut Systems,1
+PolicyConsulting,1
+xCert,1
+GVNW Consulting Inc,1
+Xapiens Corporation,1
+Tellium Inc.,1
+Lucent Tech,1
+D. Marples,1
+Entrust Inc.,1
+Manish Tiwari,1
+Franck Le,1
+A.L. Digital Ltd,1
+J. Williams,1
+Singularis Ltd,1
+Keping Long,1
+Circular Logic UnLtd.,1
+The International ISBN Agency,1
+ThinkingCat Enterprises,1
+Multimedia University,1
+WRQ,1
+Computer Club West,1
+"Onesecure, Inc.",1
+Certco,1
+CIS-KIEV,1
+Skygate Technology,1
+Novell Corporation,1
+Wipro Systems,1
+"Invisible Worlds, Inc.",1
+Korea Telecom M.com Research Center,1
+Clearswift,1
+Dave Nelson,1
+Extreme,1
+A. Paraschiv,1
+RIPE NNWG,1
+C. Monia,1
+InterNetShare,1
+"QoSient, LLC",1
+Dialout.Net,1
+ITU,1
+Circular Logic,1
+FFI,1
+Rod Mullendore,1
+Fujistsu,1
+"Trlokom, Inc.",1
+Reuters,1
+Rivcom,1
+University of North Texas,1
+Apogee,1
+WebWeaving,1
+IPR Systems,1
+Nominum Inc.,1
+UNCC,1
+CIO Austria,1
+Univ of Texas,1
+Aventail Corp,1
+Dept of Defense,1
+Bitstream Inc.,1
+"DualName, Inc.",1
+Telia CERT,1
+JANET-CERT,1
+ALCATEL,1
+Corona Networks Inc.,1
+Adero,1
+University,1
+PureEdge Solutions Inc.,1
+"MCTR, UMBC",1
+D. Fedyk,1
+"Giganet, Inc.",1
+Treasury Board of Canada,1
+Future Foundation,1
+J. Quittek,1
+University of Mannheim,1
+David Oran,1
+Trolltech AS,1
+UUNET/WorldCom,1
+Brian W. Spolarich,1
+Luca Dell'Uomo,1
+Ramesh Nagarjan         UUNet/WorldCom,1
+Metanoia,1
+Sudarshan Naganathan,1
+Provin Gurung,1
+LANL/UCSD,1
+"Planetfred, Inc.",1
+The SANS Institute,1
+Users,1
+Metromedia Fiber Network,1
+ESCAUX,1
+Endless Crossword,1
+Electronic Engineer,1
+BTexact,1
+Tiara Networks,1
+Charlotte's Web Networks,1
+James Fu,1
+Telco Research Corporation,1
+Canola & Jones,1
+Northstream,1
+Canarie,1
+Dave Frascone,1
+Department007.com,1
+i-EMAIL.net,1
+Wild Packets,1
+"Airespace, Inc.",1
+Bytemobile Inc,1
+Circular Networks,1
+Reuters Health Information,1
+"Arbortext, Inc.",1
+SGI,1
+Flash Networks,1
+TIA,1
+Tactical Software,1
+Steltor,1
+Vodaphone,1
+Roaring Penguin,1
+CSC/NASA Ames Research Center,1
+Troika Networks,1
+Aravox Technologies,1
+Kuokoa Networks,1
+Ryerson University,1
+Gotham Networks,1
+AppliedTheory Corporation,1
+International University,1
+A. Banchs,1
+Pim Vanheuven,1
+CWC,1
+Mascon Global Limited,1
+Bank One Corp,1
+Advanced Software Technologies,1
+JANET Web Cache Service,1
+Lantern Communications,1
+Nayna Networks Inc.,1
+Sonera,1
+Andiamo Systems,1
+Deltathree,1
+Jim Jones,1
+ACI Worldwide,1
+Woven Systems,1
+ATI Technologies,1
+"LNT, Munich Univ. of",1
+Stefano M. Faccin,1
+Tellique Kommunikationstechnik GmbH,1
+"Resonate, Inc.",1
+Accelight,1
+École nationale des Chartes,1
+Ellacoya Networks,1
+Nixxo,1
+TAHOE Networks,1
+"Avri Doria, Howard Berkowitz,",1
+BTexact Technologies,1
+Smartpipes Inc,1
+Telverse Communications,1
+Petr Fiedler,1
+The Hebrew University of Jerusalem,1
+Ka-Cheong Leung,1
+KereniX,1
+Samba Team,1
+Ping Pan,1
+Kireeti Kompella,1
+Lockheed Martin Corporation,1
+Vibrant Solutions,1
+Alphion,1
+Invidi Technologies,1
+Verzion Global Networks,1
+Ranch Networks,1
+Worldcom/Jet Propulsion Laboratory,1
+Yong Xue       UUNet/WorldCom,1
+G. Renker,1
+Code On The Road,1
+Thus plc,1
+Avian Communications,1
+Monolithic Technologies,1
+SRA,1
+C. Jacquenet,1
+PowerDsine Inc.,1
+M. Hinckley,1
+Tom Taylor,1
+Bourgeois Dilettant,1
+NCSA,1
+dynamicSoft,1
+Elias Dacloush,1
+krishna Gundamaraju,1
+Kenetec Inc,1
+Elysium Ltd,1
+Communications,1
+NetSeal Technologies,1
+Loutfi Nuaymi,1
+ABNW,1
+Dan Harkins,1
+Eran Aloni,1
+Aerospace,1
+TiMetra Networks,1
+"CacheWare, Inc.",1
+Vrije Universiteit Brussel,1
+Mimosa,1
+PacketExchange Ltd.,1
+Accton Technology Corporation,1
+Motorola Labs and INRIA Planete,1
+Frank Neil,1
+Jari T. Malinen,1
+Sally Floyd,1
+National Tsing Hua University,1
+InterLink Networks,1
+"Infoliance, Inc.",1
+Cooley Godward LLP,1
+Biodata Application Security AG,1
+Charles Monia,1
+Rhustone Corporation,1
+VisionTech,1
+RSA Security Inc.,1
+W3C/MIT/UNIVE,1
+IDcide,1
+Broadwing Communications,1
+Computer Network Technology,1
+Nortelnetworks,1
+QuarryTech,1
+NTRU,1
+NortelNetworks,1
+UNISINOS,1
+Watercove Networks,1
+YingChun Xu,1
+Lycium Networks,1
+Brocade Communications Systems Inc.,1
+Curl Corporation,1
+INR/Swsoft,1
+Suse,1
+Celion,1
+Movaz,1
+Zolera Systems,1
+Alphion Corp.,1
+Catena Networks,1
+"Vieo, Inc.",1
+"SnapTell, Inc.",1
+Verilink,1
+Dublin Core Metadata Initiative,1
+Xiaofeng Xu,1
+VA,1
+Thrane & Thrane,1
+PD Nets,1
+RoutingLoop,1
+Lectrosonics,1
+Zolera,1
+Hasnaa MOUSTAFA,1
+Swinburne University,1
+James Kempf,1
+NetSeal,1
+"PanteraTech, Inc.",1
+K. Leung,1
+Jean-Marie Bonnin,1
+Federal University of Parana',1
+Activia,1
+Raghu Reddy,1
+Prakash Iyer,1
+Speechworks Inc.,1
+Nuance Communications,1
+Yong-Jin Kim,1
+Sookyoung Jeny Lee,1
+David E. McDysan,1
+Vesa Torvinen,1
+C. Jones,1
+TiMetra Inc,1
+Little River Elementary School,1
+University of Essen,1
+Mimosa Systems,1
+Rajeev Koodli,1
+NORTEL NETWORKS,1
+Grotto-Networking,1
+Octalis SA,1
+ITT A/CD,1
+Self Inc,1
+UltraDNS,1
+Univ. of California,1
+Sanrad Intelligent Storage,1
+Siliquent Technologies,1
+Georgian Internet Avenue,1
+HFCL R&D,1
+Tata Consultancy Services,1
+ARO/NCSU,1
+"MFN, Inc.",1
+Sonos Inc.,1
+Phoenix Technologies,1
+The Open Healthcare Group,1
+HFCL-IISc Research Program,1
+M. Zitterbart,1
+WIDE Project and INRIA,1
+Corona,1
+SAVVIS,1
+Millpark,1
+Koru Solutions,1
+Aki Yokote,1
+"Worldcom, Inc.",1
+Storigen,1
+Tomlinson Group,1
+Storigen Systems,1
+"CacheFlow, Inc.",1
+S. van den Bosch,1
+INRIA/ENS-Lyon,1
+International DOI,1
+L. Gwon,1
+Rohati Systems,1
+Riverstone Networks Inc,1
+Johns Hopkins University Applied,1
+USC-ISI,1
+Technologies,1
+University of Applied Sciences Darmstadt,1
+Real-Time Innovations,1
+SIPez,1
+Marconi Corporation,1
+M. Karsten,1
+Veraz Networks,1
+Tellme Networks Inc.,1
+Higgs Communications,1
+Bijt.net,1
+Oklahoma State University,1
+Meyer Consulting,1
+Mitrix,1
+Web3D Consortium,1
+H.Izumiyama,1
+The Grateful Net,1
+AaronSw.com,1
+Unisphere Networks,1
+Montilio Inc.,1
+ep.net,1
+Bernhard Collini-Nocker,1
+"DSTO, Australia",1
+The CommWorks Corp.,1
+Werk Mikro Systems,1
+"CTIE, Monash University",1
+Voxpath Networks,1
+Oksijen Teknoloji,1
+Stockholm University/KT,1
+iMagicTV Inc,1
+Schneider Automation Inc.,1
+Delaware State University,1
+Univ. of Washington,1
+Univ. of Wisconsin-Madison,1
+LLC,1
+"ICR, NUS",1
+Eleanor Hepworth,1
+NOAA/GFDL,1
+Citex Software,1
+Moowee Inc.,1
+Rincon,1
+"Inria, France",1
+INESC,1
+NCS,1
+"Arastra, Inc",1
+Infosys Technologies Ltd,1
+Laboratories for,1
+Project JXTA,1
+T-Systems Nova GmbH,1
+Univ. of North Texas,1
+Co-Author,1
+Samuelson Law,1
+Dynamicsoft,1
+Verison,1
+Ridgeway Systems & Software Ltd,1
+Univ. of Tuebingen/ICSI,1
+Sun Labs Europe,1
+M. Allman,1
+HCL Technologies Ltd.,1
+NTUA,1
+Cache Flow,1
+MacFergus,1
+Atrica,1
+GE GRC,1
+AYR Networks,1
+Aaaya,1
+Xythos Software,1
+iPath Services,1
+Cantata Technolgy,1
+ACI,1
+Ditech Networks,1
+"Worldcom, Inc",1
+CS Waikato University,1
+K. G. Shin,1
+Tellabs Oy,1
+Quadrille Ingenierie,1
+"Ares, Inria",1
+Columbia U./Siemens/U. Goettingen/Siemens,1
+The University of Chicago,1
+DataPower Technology,1
+MCM,1
+UTStarcom Inc,1
+EPSC-UPC,1
+OSAF,1
+Oz Communications,1
+iptel.org,1
+THOMSON,1
+Rob Elliott,1
+Ashwin Palekar,1
+Co-Editor,1
+Eloquant,1
+Center for,1
+February,1
+Pingtel Corporation,1
+M. Catalina-Gallego,1
+BCQRE,1
+Netplane Systems,1
+PricewarterhouseCoopers,1
+draft-nakhjiri-seamoby-ppp-ct-00.txt                   Motorola Inc.,1
+snom,1
+and H.Y. Yeom,1
+Motorola Inc.,1
+EarthLink,1
+Computer Architecture,1
+MetaSolv,1
+Heatherdale Group,1
+X-OBI,1
+Proficient Networks,1
+"G1M Co., Ltd.",1
+Samsung Information Systems America,1
+CS Division,1
+"Betrusted, Inc.",1
+ETH,1
+NEC Philips,1
+Sonim Technologies,1
+J. Jumarasamy,1
+A. T. Campbell,1
+TANDBERG Television,1
+Orion Security,1
+C. Canales,1
+Nextwave Wireless,1
+Kansas State University,1
+J. Jean-Marc,1
+USCL,1
+Artel,1
+Lucent Technologies/Bell Laboratories,1
+nominum,1
+Rincon Networks,1
+Co-Author/Editor,1
+C. Politis,1
+Codebay,1
+Birdstep,1
+Christian Tena,1
+ICR,1
+Fujitsu Laboratories Ltd,1
+University of Novi Sad,1
+NASA Jet Propulsion Laboratory,1
+Thammasat University,1
+Technological Concepts Inc.,1
+Monique Morrow,1
+webwasher AG,1
+University of Koblenz,1
+Data Connection Limited,1
+Tello Corporation,1
+Caspian,1
+Oryx Mail Systems GmhH,1
+Oryx,1
+Efficient Networks Inc.,1
+Tridea Works,1
+"Genuity, Inc.",1
+Randall Consulting,1
+Linova,1
+Tamura Corp.,1
+Gianluca Iannaccone,1
+Institute of Technology,1
+M. Naslund,1
+Turku Polytechnic,1
+EADS Defence and Security Systems Limited,1
+Technical University of Berlin,1
+CAIDA,1
+Sunil Iyengar,1
+DSI Consulting,1
+Pulver,1
+Tom Towle,1
+Johns Hopkins Univ,1
+Inet Technologies,1
+SBC Labs,1
+Nyquetek Inc,1
+ETS,1
+Gemini Security Solutions,1
+A&N Associates,1
+NMS Communications,1
+TGC,1
+University of Heidelberg,1
+FHTW Berlin,1
+Keio university,1
+BridgePort Networks,1
+Kent Leung,1
+Juan Hernandez-Serrano,1
+CyberGuard Corporation,1
+Deakin University,1
+NASK (PL-TLD),1
+Highland School,1
+bw.org,1
+Legra Systems,1
+D. Fulker,1
+Blissfully Retired,1
+Ovation,1
+Macromedia Corporation,1
+Meetinghouse Data Communications,1
+CSU San Bernardino,1
+Crystal Ball Inc.,1
+Manifest Solutions,1
+NPG,1
+OCLC,1
+TokyoFM Broadcasting,1
+NDS Limited,1
+fsck,1
+NSC,1
+Sandburst Corporation,1
+Cray Inc.,1
+ENST-B,1
+SJCE.NET,1
+ENST  Paris,1
+ICEsoft Technologies Inc.,1
+INFINEON,1
+NASK (+48 ENUM Registry),1
+byung Ho Yae,1
+College of William and Mary,1
+InformAsic AB,1
+Lunds Tekniska Hogskola,1
+spamfilt group,1
+ICEsoft Technologies,1
+Corrent Corporation,1
+Vidiator Technology US Inc.,1
+Jiyoung Cho,1
+University of Erlangen-Nuremberg,1
+J.koga,1
+INTEC NetCore Inc.,1
+Sourcegraph,1
+Silicon Circus,1
+The MITRE,1
+Linden Lab,1
+Pan-Am Internet Services,1
+NetContinuum,1
+C. Janneteau,1
+VB NetConsult,1
+Thales Communications,1
+H. Jegers,1
+GSYC/URJC,1
+Nyquetek Inc.,1
+University of Illinois at Chicago,1
+PMC-SIERRA,1
+"Netpath, Inc.",1
+Unfix/SixXS,1
+Tutpro,1
+ARO,1
+Y. Yang,1
+Richard D.,1
+Peter Psenak,1
+JOIN (WWU),1
+Samsung India,1
+The Elvey Partnership,1
+Viataal,1
+Rawflow,1
+Pioneer,1
+N.E.T.,1
+Changqing Yuan,1
+Dave Oran,1
+Trend Micro Inc.,1
+Netzwert AG,1
+Emergicon,1
+JOIN (University of Muenster),1
+Orange PCS Ltd,1
+NEC (Netlab),1
+PSL,1
+Emmanuel Baccelli,1
+"Cognitive Research Labs, Inc.",1
+Creytiv.com,1
+Antisip,1
+Clausthal University of Technology,1
+"NOWARE, Inc.",1
+Mobile TeleSystems OJSC,1
+Zhone Technologies,1
+J.-P. Vasseur,1
+University of Cambridge Computing Service,1
+SpreeBytes,1
+Sonos,1
+SDSC,1
+U. of North Carolina,1
+ITU-T,1
+Server Authority Inc,1
+xxx,1
+Keio University and WIDE,1
+Algenta,1
+Secure Software,1
+E. Riou,1
+Olddog Consulting,1
+CITEL Technologies Ltd,1
+Net.Com,1
+LINAGORA,1
+UTN FRH,1
+"NMA, Inc.",1
+"Sendmail, Inc",1
+CTIE Monash University,1
+BCN Systems,1
+Cable and Wireless,1
+Advista Technologies,1
+Ed (Avici Systems),1
+Alcatel USA Inc.,1
+Future Software,1
+TIC Systems,1
+Dongguk Univ.,1
+NAv6TF,1
+ENST Telecom,1
+Autonimica AB,1
+Orange Labs/France Telecom R&D,1
+Healing Thresholds,1
+Saavis Communications,1
+A. Ayyanger,1
+S. Felix Wu,1
+WIDE at Keio University,1
+Qwest,1
+Michael Dibiasio,1
+skymoon ventures,1
+SIP Edge,1
+Steve Uhlig,1
+NETikos S.p.A.,1
+University of Palermo,1
+MRV,1
+Cosine,1
+iCAIR,1
+GET-Telecom Paris,1
+OMA,1
+Systems,1
+University of Hawaii at Hilo,1
+UQAM University,1
+Special Research Centre for Optical,1
+National Computerization Agency,1
+NetIQ Corp.,1
+National Radio Astronomy Observatory,1
+UCO/Lick Observatory,1
+Brocade Inc.,1
+Command Information,1
+Effnet AB,1
+Nortel Networks/ENST Paris,1
+GET ENST Bretagne,1
+ENST,1
+Znyx,1
+ENDFORCE,1
+KDDI R&D Labs.,1
+AAMSX,1
+DIKU,1
+Purdue University Computer Science,1
+ISATAP Dot Org,1
+KMC Telecom Solutions,1
+S. Uhlig,1
+Sublime Solutions,1
+Jasomi Networks,1
+A. Melnikov,1
+University of Erlangen,1
+Concordia University/CIISE,1
+IRS-EMT,1
+Vasco,1
+Gemplus,1
+Aladdin,1
+LIX,1
+NIST/ETRI,1
+ePrivacy Group,1
+IAB and IESG,1
+Hitachi(China),1
+pobox.com,1
+Nadia BOUKHATEM,1
+Reva Systems Corp,1
+HotNIC LLC,1
+Insigma Techenology,1
+MJMontpetit.com,1
+Wei Li,1
+G. Sission,1
+Protegga,1
+Ayogo Games,1
+Unix-AG Universitaet Hannover,1
+E. Chung,1
+Saperix,1
+"BlinkMind, Inc.",1
+Archana P.V.,1
+R. Barrato,1
+"Axway, Inc.",1
+SIPStation,1
+Zelestra,1
+Rebellion,1
+Martti Huttunen,1
+Energize Urnet,1
+Emulex,1
+Japan FM Network,1
+ircd-ratbox,1
+Inventure Systems Ltd,1
+UDel,1
+Nimcat Networks,1
+The Univ. of Tokyo,1
+SPARTA Inc.,1
+Helsinki Institute for Information Technology,1
+Cassidian,1
+"ISAMET, Inc.",1
+M. Yanagiya,1
+ICSAlabs a Division of Cybertrust,1
+VTT Electronics,1
+Tumbleweed,1
+TBT,1
+OpenFortress Digital signatures,1
+Rainfinity,1
+Tel Aviv University,1
+Birdstep Technology ASA,1
+Strix Systems,1
+ENPPI,1
+Florida State University,1
+Sabari Illam,1
+IESG,1
+Hua-Chun Zhou,1
+Australian National University.,1
+Aria Networks Ltd.,1
+JHU Applied Physics Lab,1
+Xiao-Hua Chen,1
+Hamilton Institute,1
+HyerVision,1
+M.Yanagiya,1
+Devicescape Software,1
+UdelaR,1
+Deepfield Networks,1
+M. Martin,1
+LucidVision,1
+JL Le Roux,1
+Lucent Technologies/Bell,1
+Secure Multicast Networks LLC,1
+SiNett Corp,1
+FranceTelecom,1
+ROOT Inc.,1
+Mongolian University of Science and Technology,1
+S. Baek,1
+Research Consultant,1
+M. Calderon,1
+Reiji Aibara,1
+A. Garcia-Martinez,1
+FGAN,1
+ENSICA/TESA/Alcatel Alenia Space,1
+Intertrust,1
+IntelliCal,1
+Procter & Gamble,1
+Orion Health,1
+Open Mobile Alliance,1
+UO,1
+Flextronics Software System,1
+UnrealIRCd,1
+Republic Polytechnic,1
+Logica,1
+Colubris Networks,1
+"MOCOCO, Inc.",1
+SIL,1
+Effective Software Consulting,1
+Tech Mahindra Ltd,1
+Thomson,1
+Hongfei Chen,1
+CyberGuard,1
+All About IT,1
+Softfront,1
+Tilab,1
+IBBT- Ghent University,1
+diffxml,1
+Net-Mobile,1
+KDDI R&D,1
+W3C/Canon,1
+E-MC Software,1
+CleverSpoke,1
+Information and Communication,1
+Talari Networks,1
+Hyervision,1
+National Chiao Tung University,1
+Ubiquitous Network Research Center,1
+ICN LAB of Soongsil Univ,1
+Inmedius,1
+Southest University,1
+Saint Joseph's College,1
+Dampsoft GmbH,1
+P2PSIP.org/William and Mary,1
+Security and Standards,1
+Thales eSecurity,1
+Ecole Normale Superieure,1
+freenet.de GmbH,1
+PBS,1
+K.L Srini,1
+Portola Networks,1
+College of Technology,1
+BlankSpace,1
+Nexagent Ltd,1
+ABC software,1
+FT R&D,1
+T-Systems Enterprise Services GmbH,1
+Fraunhofer Institute Fokus,1
+Axalto,1
+UNICAMP-SP-BRAZIL,1
+Afilias Limited,1
+W. Adamson,1
+Matsushita Electric Industrial,1
+Pierre Francois,1
+Vivaldi Technologies AS,1
+GET/ENST-B,1
+Red Back,1
+Ditech Networks Inc.,1
+SAIT,1
+IRTF,1
+Radvision,1
+Wellstorm Development,1
+Senior Researcher,1
+Chief Scientist,1
+City University of New York,1
+Freebox S.A.,1
+"IPfonix, Inc.",1
+Lord of the Hosts,1
+Robinson Telephone Co.,1
+GigaBeam,1
+University of Florida,1
+S. Russert,1
+Spam and Open Relay Blocking System,1
+CANTV,1
+Nevis Networks,1
+NFC Forum,1
+Q2S,1
+Index Data ApS,1
+NICT/KDDI R&D Labs,1
+TranTech/MediaSolv,1
+ZNYX Networks,1
+C-COR,1
+Institut National des Telecommunications,1
+WIDE project,1
+NAC,1
+France Telecom RD,1
+NGI Research Center,1
+SIPeerior Technologies Inc.,1
+Z. Zhang,1
+Virtu,1
+SUSE Labs,1
+"SunRocket, Inc.",1
+Command Prompt Inc.,1
+Gallaudet University,1
+Motorola India Private Ltd,1
+NLNet,1
+G.,1
+Queen's University,1
+NueStar,1
+University of Electro Communications,1
+Mach. Chen,1
+I.Y Fung,1
+secunet SwissIT AG,1
+Eircom,1
+GSM Association,1
+Grandcolas Consulting,1
+ARIN AC,1
+Acoustra Productions,1
+Columbia University Alumni,1
+David Ward,1
+SIPeerior Technologies and William,1
+Aruba Wireless Networks,1
+Laboratory for Telecommunications,1
+University of Science and,1
+GISS,1
+"ComNets-ikom, University of Bremen",1
+T. Ue,1
+Port111 Labs.,1
+Mike Coulas,1
+CERT Network Situational,1
+CBA/MIT,1
+Technion IIT,1
+FastnLight,1
+Secure Endpoints Inc.,1
+catpipe ApS,1
+Soaring Hawk,1
+ARICENT,1
+FastSoft Inc.,1
+Siemens Business Services,1
+Anagran Inc,1
+Kapsch Business Com AG,1
+Wirtschaftsuniversitaet,1
+Siemens Networks,1
+"Hangzhou Domain Zones Tech.Co.,Ltd.",1
+SunRocket,1
+Eventful,1
+BAE Systems Advanced Technology Centre,1
+U.S. Naval Research Laboratory,1
+Ocarina Systems,1
+Azaire,1
+Tech-invite,1
+Computer Sciences Corporation,1
+Fluke Networks,1
+Citel Technologies,1
+Tech. Univ. of Catalonia/i2CAT,1
+Colorado State,1
+Sharp,1
+ED,1
+Citrix R&D India.,1
+EBU,1
+WU-Wien,1
+mobilkom austria AG,1
+Associate Professor,1
+Korea,1
+BS. Zhang,1
+AV8,1
+SES ASTRA,1
+RSIS,1
+TJM Consulting,1
+Instituto Tecnologico de,1
+Universidade Federal do ABC,1
+State Services Commission,1
+Catalyst IT Limited,1
+J-S. Jin,1
+"SICS, Swedish Institute of",1
+Axiomatics AB,1
+pawisda systems GmbH,1
+Idirect,1
+Central Research Laboratory,1
+Georgia Tech University,1
+Resolute Networks Ltd.,1
+Aria Networks,1
+TmaxSoft,1
+PacketVideo Corp,1
+Applied Research,1
+Jefferson Wells,1
+University of Southern California,1
+DVB Project,1
+Micronas GmbH,1
+Naval Research Lab,1
+Eman GNS Inc.,1
+Icomera,1
+ClaimID,1
+France Telecom Research and,1
+RCI,1
+Research in Motion UK Ltd,1
+Beijing Univ. of P&T,1
+NextPoint Networks,1
+GENBAND,1
+Skills 1st Ltd,1
+Aalto University/Comnet,1
+HuaweiSymantec USA,1
+Docomo Euro-Labs,1
+"Exostar, LLC",1
+NTEC Australia,1
+Connecticut College,1
+TIBCO,1
+Software AG,1
+Bluesocket,1
+Vallona,1
+C.,1
+Adax,1
+Experience IS,1
+TeliaSonera Corporation,1
+Locus Telecom,1
+This Space For Sale,1
+KDDI R&D Lab,1
+ServerVault,1
+Institute of Telematics,1
+"RNID, Department of New",1
+Cox,1
+Bytemobile Inc.,1
+E. Levy-Abegnoli,1
+Citrix Systems,1
+NEC Network Laboratories,1
+Johns Hopkins Univ.,1
+Mailvision,1
+The Johns Hopkins University,1
+Uecomm,1
+TKK Netlab,1
+"CohortFS, LLC",1
+Pompeu Fabra University,1
+Locus Telecommunications,1
+ethernot.org,1
+Yuzo Taenaka,1
+Bond Internet Systems,1
+U. of California,1
+CRC,1
+Technicalities,1
+Citrix systems,1
+"SaudiNIC, CITC",1
+Syrian Telecom Establishment,1
+France,1
+TeleFLASH,1
+KDDI CORPORATION,1
+UC Louvain,1
+Distributed Systems Group,1
+"COMSYS, RWTH Aachen University",1
+NSF,1
+AAB,1
+MUST,1
+Orange FT,1
+"Zensys, Inc.",1
+Univ. Aveiro,1
+Quantum,1
+Wachovia,1
+NEC Germany,1
+STUPI,1
+"BSAC, UC Berkeley",1
+PS&E,1
+GaTech,1
+H.-J. Lim,1
+Univ. of Illinois,1
+Stanford Libraries,1
+Shell,1
+Fujitsu Network,1
+Interlinux LTD,1
+ELPRO Technologies,1
+Ar. Mailyan,1
+Uninett,1
+DRS CenGen,1
+New Zealand Registry Services,1
+PGP Corp.,1
+Constant Contact,1
+G.G.S.I.P.U,1
+Swisscom Schweiz AG Network,1
+"Tellabs, Inc.",1
+Guangdong Commercial College,1
+I.Busi,1
+University of Michigan Library IT,1
+"Anagran, Inc",1
+Cable&Wireless,1
+nLayer Communications,1
+Sea Street Technologies Inc.,1
+iTSCOM,1
+H. Chong,1
+Corporate Technology Group,1
+"CAIA, Swinburne University of",1
+"NEC, China",1
+NiCT,1
+DOCOMO Innovations,1
+Magnum Semiconductor,1
+M. C. Betts Consulting Ltd.,1
+Roke Manor Research Ltd,1
+Washington University,1
+Messaging Architects,1
+RTFM Ltd,1
+Algorithmic Research,1
+EveryDNS,1
+HID Global,1
+govirtual.com.au,1
+Communication Valley,1
+Ghent University IBCN,1
+Schneider Electric,1
+BCAM-IKERBASQUE and LAAS-CNRS,1
+T. Yas'ur,1
+terrym.net pty ltd,1
+Global IP Solutions,1
+EE,1
+Arch Rock,1
+Nagravision S.A.,1
+NIA,1
+RIPENCC,1
+Insieme,1
+Duke University,1
+KDDI R&D Laboratories Inc.,1
+Pando,1
+Individual Consultant,1
+VOIPFUTURE,1
+ISO/IEC JTC 1/SC 6/WG 9,1
+"LIX, Ecole polytechnique",1
+Beijing University of Posts,1
+Graduate University of Chinese,1
+Institute of Microelectronics of,1
+Plaxo,1
+ALAXALA Networks Corporation,1
+TrendMicro,1
+iPost,1
+School of Computing Science,1
+Research In Motion Corporation,1
+University Of Maryland,1
+Sinodun Internet Technologies Ltd,1
+HuaweiTech,1
+Huaweil,1
+Huaweisymantec Inc.,1
+"Huaweisymantec, Inc.",1
+Leadcoretech,1
+Mitsubishi Electric,1
+Ftel,1
+RedSky,1
+HuaweiSymantec,1
+BitTorrent Inc,1
+Claranet Limited,1
+Alcatel-lucent Bell Labs,1
+COM.lounge,1
+INRS-EMT,1
+AAA-sec,1
+Open Garden,1
+Deutsche Telecom Laboratories,1
+virtual-presence.org,1
+Aerohive Networks,1
+Univ. Queensland,1
+Univ. Malaga,1
+CCS,1
+Major League Baseball Advanced Media,1
+ERNW GmbH,1
+Jagornet Technologies,1
+SSCI,1
+Synterra-Ural,1
+Odessa National Academy,1
+IPCom,1
+Gryphon Technology,1
+"Shinkuro, Inc.",1
+Strasbourg University,1
+Goettingen University,1
+US Cellular,1
+BlackBerry Corporation,1
+UC Riverside,1
+IETF ROLL WG,1
+DOCOMO Communications,1
+Hangzhou DPtech,1
+Open Cloud Initiative,1
+Logical Elegance,1
+Univ. of  Wuerzburg,1
+AirSpayce,1
+Regtime Ltd,1
+Shanghai Research Institute of,1
+"CITI, University of Michigan",1
+FUJITSU LIMITED,1
+IDT,1
+Zarlink,1
+GIS,1
+AUEB,1
+UMons,1
+Covad Communications,1
+ETRI/SRC,1
+Pranjal Kumar Dutta,1
+Businesswire,1
+Shuguang,1
+Sabre Inc.,1
+APnic,1
+R. Altman,1
+Thales,1
+Kyoung-pook National University,1
+EP.NET,1
+Workingcode,1
+"Skype Technologies, S.A.",1
+"Razoom, Inc",1
+Queensland University of,1
+"Stonyfish, Inc.",1
+Kaminario,1
+TUPILAQ Arctica,1
+Huaweisymantec Technologies,1
+Silverscale Associates Ltd,1
+CENTRIA,1
+OGC,1
+University College Dublin,1
+Philips Research Laboratories,1
+Free,1
+Xavient,1
+Hughes Systique,1
+Home Jinni Inc.,1
+Jacobs University Bremen gGmbH,1
+Anyang University,1
+China Internet Network Information,1
+Ethernot.org,1
+NEC Labs America.,1
+Live Media Pty. Ltd.,1
+Verismart Software Inc,1
+American Registry for Internet,1
+HW Embedded,1
+Universite catholique de,1
+Apparent Networks,1
+NEWRSC,1
+Tellabs Sinimaentie,1
+WorkingCode,1
+CAIDA/FhG FOKUS,1
+Tektronix Communications Berlin,1
+HYDRO-QUEBEC,1
+BROADCOM,1
+Univ. Politehnica of Bucharest,1
+Univ. College London,1
+National Research Council of Italy (CNR),1
+DFRI,1
+OpenAFS Project,1
+Gainspeed,1
+HIIT/ICSI,1
+SAP AG,1
+Bouvet ASA,1
+Infinidat Ltd.,1
+APT Licensing Ltd,1
+SkyFoundry,1
+Thomas Duryea Consulting,1
+Telenor ASA Digital Services,1
+University of Liverpool,1
+Ohio University IRG,1
+Name.com,1
+ICSI/UC Berkeley,1
+Open Grid Computing,1
+Interlinux Engineering,1
+SenthilKumarS,1
+Magyar Telekom,1
+Lookingglass,1
+Tempered Networks,1
+Polyverse Security,1
+"ICSAlabs, An Independent",1
+W. Townsley,1
+TEI of Mesolonghi,1
+JDCA,1
+Team Cymru,1
+J. Hsu,1
+Jian JIN,1
+TEI Consortium and INRIA,1
+The Royal Library,1
+Wells Fargo,1
+Comtrol Corp,1
+Private Consultant,1
+Gridmerge,1
+Brocade/ETRI,1
+L.J.Tang,1
+InTouch N.V.,1
+US Army,1
+"NeuStar,Inc",1
+Open IPTV Forum,1
+SecWorks Sweden AB,1
+Simon Josefsson Datakonsult AB,1
+Motorola Solutions Inc,1
+Jet Propulsion Lab,1
+Chromium Project,1
+Wingaa,1
+Webstorage,1
+"Sybase, Inc.",1
+Metaweb Technologies,1
+Roaring Penguin Software Inc.,1
+He-Wu Li,1
+Lei. zhu,1
+FreeBSD,1
+K.K. Tibanne,1
+Centergate,1
+Registro,1
+Collecta,1
+British Broadcasting Corportation,1
+"Itumi, LLC",1
+"NeuStar, Inc",1
+"Franklin and Marshall College, Mathematics and Computer Science",1
+"University of Delaware, Computer and Information Sciences Department",1
+"nLayer Communications, Inc.",1
+PADL Software Ltd,1
+Cariden Technologies,1
+ID/INOV,1
+Xunlei network,1
+TowerSec,1
+LINX,1
+VTT Technical Research Centre of,1
+University of Texas at Austin,1
+enStratus,1
+Ciena Limited,1
+M. xiao,1
+Inmobi India Pvt. Ltd.,1
+Accilent Corp.,1
+Firelytics.com,1
+Globallogic,1
+X.N.Miao,1
+ETRO/Vrije Universiteit Brussel,1
+SYRACOM Consulting AG,1
+Elster Solutions,1
+Dialogic,1
+SNIA,1
+US Naval Research Laboratory,1
+Metswitch Networks,1
+Hongyong.Jia,1
+Zhengzhou Institute of Information,1
+"DCS, Uni. of Glasgow",1
+Anagran Inc.,1
+MOT/OGERO,1
+Mobilab,1
+FireBrick Ltd,1
+CongXiao Bao,1
+Bit-way Corporation,1
+Alcatel-Lucent Bell,1
+Comodo Group,1
+PPLive,1
+X. Li,1
+Resiliens Communication AS,1
+DNS.com,1
+Silver Spring Networks,1
+Newbridge Networks Inc,1
+SUNET/NORDUnet,1
+FEAC,1
+Zhengzhou University,1
+Telstra Corp.,1
+SARA,1
+Centre for Wireless,1
+Uni. of Adelaide,1
+U.S. NIST,1
+Shaw Communications,1
+Shooting Soul,1
+"Genesys, Alcatel-Lucent",1
+WebTide,1
+IBBT,1
+Korea University of Technology,1
+Antiy Labs,1
+Univ. of Amsterdam,1
+Center for Sutton Movement Writing,1
+BT Trading Systems,1
+Rightside Group,1
+Messaging Anti-Abuse WG,1
+Motorola Mobility,1
+Tecnalia,1
+Optiva Media,1
+UNC-CH,1
+On behalf of the ITU-T TSB,1
+Strato AG,1
+BENOCS,1
+Cyber Switching,1
+Dell Force10 Networks,1
+RIM,1
+Viagenie Inc.,1
+HP Visual Collaboration,1
+Intalio,1
+Hangzhou BAUD Networks,1
+"GridFury, LLC",1
+DREN,1
+SPARTA/Cobham,1
+MG-SOFT,1
+Munich Univ. of Applied Sciences,1
+Alcatel-Lu,1
+Univ of Essex,1
+Intune Networks,1
+R. Raszuk,1
+"AICS, RIKEN",1
+Struik Consultancy,1
+AmericaFree.TV LLC,1
+CEFRIEL,1
+Icesi University,1
+Telenor,1
+CDTA,1
+Carillon Information Security,1
+Muenster Univ. of Applied,1
+Saga University,1
+Ritsumeikan University,1
+NORDUNet,1
+Videotron G.P.,1
+Carillon Information Security Inc.,1
+MapR Technologies,1
+Open Data Institute,1
+Interactive Instruments,1
+Galdos Systems,1
+COM.lounge GmbH,1
+N. Sprecher,1
+Faculty of Informatics,1
+ICC,1
+Cordance,1
+Sky Network Services,1
+JEJU Technopark,1
+Elster,1
+Ruijie Network,1
+Tokai University and University of,1
+University of Sussex,1
+Century Link,1
+ASTA Ventures,1
+Tektronix Communications,1
+Cinarra Systems,1
+Plantrontics,1
+Lucidvision,1
+Calnex Solutions Ltd.,1
+"RCIS, AIST",1
+WHOI,1
+Jack Klecha,1
+Casaba Security,1
+Xelerance,1
+DigitalShtick,1
+Telefonica R&D,1
+Nova Notio.Inc,1
+Diwan Software Limited,1
+USCERT,1
+Storvisor,1
+DeNA Co,1
+Gong Zhenghu,1
+PrimaryData,1
+Sigrand LLC,1
+L-3 Com,1
+University Nice Sophia Antipolis,1
+ebay Corporation,1
+redhat,1
+"Infinera, Inc.",1
+Digitalall,1
+Pantheon Technologies LLC,1
+DGA MI,1
+Level 3,1
+Gridmerge Ltd.,1
+Xiaoqian Li,1
+PhoneFromHere.com,1
+Acano,1
+ULD,1
+Dhofar University,1
+Intec Inc.,1
+JANET (UK),1
+Digital Television Group,1
+puremagic.com,1
+Maxim Integrated Products,1
+ERDF,1
+Hitachi R&D China,1
+Johns Hopkins University/APL,1
+UNI-KLU,1
+"ComNets, Hamburg University of Technology",1
+New York University Abu Dhabi,1
+Amdocs,1
+Key Bridge,1
+BBN Technologes,1
+Muenster University of Applied,1
+Deltatec,1
+Cyril Magaria,1
+CCSL-IFRN,1
+SBI,1
+Free Telecom,1
+Shenzhen Institute of Information Technology,1
+Authentication Metrics,1
+ISOEG,1
+Vrije Universiteit Amsterdam,1
+YRP Ubiquitous Networking Lab,1
+"Bangalore, India",1
+Tattam Software Enterprises Pty,1
+Globalcrossing,1
+IpInfusion,1
+Hewlett-Packard Corp,1
+UKLO Tczew,1
+lucidvision,1
+SI6 Networks/UTN-FRH,1
+TW Cable,1
+"Skytide, Inc.",1
+McAfee Inc.,1
+China Academy of Telecom,1
+ARISTA Networks,1
+"PhoneFactor, Inc.",1
+Shuai Gao,1
+CS Dept. University of Bologna,1
+Tropo,1
+Scuola Superiore S.Anna,1
+Tongji/Yale,1
+Hauwei,1
+Grid2Home,1
+Broadcom Ltd.,1
+"Logicalelegance, Inc.",1
+H-log,1
+Serva,1
+"HyTrust, Inc.",1
+SalesForce,1
+Technology Nexus,1
+Li-Li Wang,1
+HuaaWei,1
+F redan AB,1
+Treehouse Networks Ltd.,1
+Qbik New Zealand Ltd.,1
+Nymble Design,1
+Azuca Systems,1
+Pearlfisher International,1
+Deutsche Bundesbank,1
+DuraSpace,1
+SNA,1
+Universidad Politecnica de,1
+P. NG Tung,1
+Gang Feng,1
+FIS,1
+FACEBOOK,1
+Japan Electronic Publishing Association,1
+T. Perrin,1
+University of Quebec in Montreal,1
+LJMU,1
+Janardhanan Pathangi Narasimhan,1
+Stateless,1
+Institute of Acoustics,1
+Radware,1
+Cloudshield,1
+Royal Holloway,1
+"IECA, Inc",1
+ConteXtream,1
+Redeem Software,1
+GE Digital Energy,1
+Thames Stanley,1
+JM Lee,1
+"ITEC, Universidade Federal do Para",1
+INTERNET MULTIFEED CO.,1
+ICT/CAS,1
+GE MDS LLC,1
+HSA,1
+Allied Telesis Labs,1
+Ericcsson,1
+AimValley,1
+University of South Florida,1
+XiaoPeng Yang,1
+Polythecnic Institute of NYU,1
+Eaton's Cooper Power Systems Business,1
+TU-BS,1
+Watteco.,1
+Compression Labs,1
+Square,1
+S.V.University,1
+Morphoss,1
+Tonian,1
+Entrust Ltd.,1
+Ip Infusion,1
+"StatusNet, Inc.",1
+Detecon International Gmbh,1
+Tarsnap,1
+DisTel Research,1
+Nicolaus Copernicus University,1
+European Emergency Number,1
+International University of Japan,1
+O. Garcia-Morchon,1
+Asia Pacific Network Information,1
+"Directv, Inc.",1
+VAF.NET Internet Consulting,1
+Orange-France Telecom,1
+M. Wasserman,1
+Scarfone Cybersecurity,1
+Jerusalem College of Technology,1
+C. Jennings,1
+BBIX,1
+SignPuddle,1
+D. van Gulik,1
+Afilias Technologies Limited,1
+"BioFortis, Inc.",1
+Jozef Stefan Institute,1
+BitGo,1
+Xian-wei Zhou,1
+University of Utah,1
+Network Working Group,1
+"GREE, Inc.",1
+Viptela,1
+Mingchuan Zhang,1
+Hobbyist developer,1
+GoalTree Consulting,1
+HAW HAmburg,1
+Dowdeswell Security Architecture,1
+University of Aveiro,1
+Nano Sec Co,1
+Furukawa Network Solution,1
+Alpen-Adria Universitat Klagenfurt,1
+Digicert,1
+Cygnacom,1
+Comodo,1
+SecureIT,1
+University of Zilina,1
+Skyport Systems,1
+Meinberg-USA,1
+ShunWan Zhuang,1
+Rogers,1
+"vLine, Inc.",1
+TATA Communications,1
+C-DAC Hyderabad,1
+P. Pierre Francois,1
+Hitachi (China) Research and Development Corporation,1
+"ICTEAM, Universite catholique de",1
+Byungtak Lee,1
+M2Soft,1
+A-L,1
+"IT-Security, RWTH Aachen",1
+Deutshe Telekom,1
+vIPtela,1
+Intec,1
+IID,1
+Kyushu Univ.,1
+Cybersecurity Association,1
+Comonad Dev,1
+OpenFortress B.V.,1
+TokBox,1
+Restrena,1
+Interrupt Sciences,1
+Universidad Nueva Esparta,1
+Arcode Corporation,1
+Uber,1
+Petz Enterprises LLC,1
+Nkom,1
+Mentor Embedded Software Division,1
+Internet Solutions,1
+J. Lennox,1
+Johns Hopkins University Applied Physics Laboratory,1
+Netzkonform,1
+Centero,1
+C. Boucadair,1
+ICT Chinese Academy of Sciences,1
+United International University,1
+L. Xia,1
+I. de Miguel,1
+Universidad de Valladolid,1
+Boeing Corporation,1
+DJ,1
+OGUD Consulting,1
+LIST,1
+Swedish Defence Material Administration (FMV),1
+Infoblox Inc.,1
+UCAS,1
+Tor,1
+S-Terra,1
+SugarCRM,1
+Gigamon,1
+CERT.at,1
+Jun-Qi Duan,1
+InterConnect Communications Ltd,1
+Mapbox Inc.,1
+Great Wall Asset Management,1
+University of Chinese Academy,1
+Net Optics,1
+U.S. Bank,1
+Uniregistry,1
+COPELABS,1
+"ConteXtream, Inc.",1
+SnT/Univ. of Luxembourg/IPv6 Forum,1
+public project,1
+DONG-EUI Univ,1
+DNS-OARC,1
+University of Oulou,1
+AEPROVI,1
+UtopiaCompression Corporation,1
+Telefonica GCTO,1
+Qualcomm (QCE),1
+"DTS, Inc.",1
+Dnsmasq,1
+B.T.,1
+ResMed,1
+X. W. Zhou,1
+Orange/LIP6,1
+Hadron Industries,1
+Ericcson,1
+IK4-IKERLAN,1
+Pavonis Consulting,1
+BitMovin,1
+University of Rome Tor Vergata,1
+Instituto de Telecomunicacoes Aveiro,1
+Athlone Institute of Technology,1
+Alvestrand Data,1
+Sungard Availability Services,1
+China Electric Power Research Institute,1
+Nanjing University of Posts and Telecommunications,1
+BGP Innovations,1
+D. Longley,1
+"Timee, Inc.",1
+NAT Consulting LLC,1
+YAuth.JP LLC,1
+iDirect Technologies,1
+ZmartZone IAM,1
+Z. M. Cheng,1
+DVB Digital Video Broadcasting Project,1
+ActivIdentity Corp.,1
+U. of Twente,1
+U. of Patras,1
+Tiledmedia,1
+Universidad de Los Andes,1
+U. Politecnica Catalunya,1
+University of the Western Cape,1
+Abdus Salam ICTP,1
+ICTP,1
+Bosch Sensortec GmbH,1
+dmfs,1
+Fei song,1
+Bharti Airtel,1
+Latin American and Caribbean IP Address Regional Registry,1
+RIPE Network Coordination Centre,1
+African Network Information Centre (AFRINIC),1
+Big Switch,1
+ACME Corporation,1
+Boeing EO&T IT,1
+UCLouvain and Tessares,1
+Windriver,1
+Leibniz Uni-Hannover,1
+"Alibaba Co., Ltd",1
+Aspect Software,1
+Cohesity,1
+China Cache,1
+"NDSC, China",1
+Meteor Network,1
+UCI,1
+GITDA,1
+PDF Association,1
+Global Graphics,1
+Astute Technology,1
+Grad Student UC Berkley,1
+Uni. of Aberdeen,1
+British Telcom,1
+Inria Rennes Bretagne Atlantique,1
+g10 Code,1
+Mediatek,1
+"CNES, Telecom Bretagne",1
+NATO C&I Agency,1
+Tesla,1
+MIT-KIT,1
+Dendory Networks,1
+JPCERT/CC,1
+Styra,1
+Independent Reseacher,1
+BISDN,1
+Hydro-Quebec,1
+TelVGG,1
+NEC/H-DA,1
+dotgay LLC,1
+C.BaudoinE.bouttier,1
+Catholic University of Murcia,1
+Normal College of Shenzhen University,1
+North South University,1
+Mobolize,1
+ATIS,1
+Samsung Research,1
+Canon Research Centre France,1
+Muenster Univ. of Appl. Science,1
+Equinix Inc.,1
+AnsuR Technologies,1
+Tech. Univ. of Sofia.,1
+Oriental Cable Network,1
+B-STAR,1
+Salesforce.com Inc,1
+France telecom,1
+Dell/EMC,1
+Brocade Communication,1
+US VRS Providers,1
+Suncorp,1
+Eudaemon,1
+Sealance,1
+Canada Bell,1
+Rambus Cryptography Research,1
+Subset AB,1
+Queen's University Belfast,1
+Tail-F,1
+Uniregistry Corp.,1
+Kielce University of Technology,1
+University of Paris-Diderot,1
+"Windrock, Inc.",1
+Wipro Limited,1
+"Volta Networks, Inc.",1
+PPE Consulting,1
+Altran Research,1
+Daejon University,1
+ADVA,1
+Boeing Research and Technology,1
+SoftBank Mobile Corp.,1
+UbiTech Ltd,1
+Mines ParisTech,1
+TUT,1
+"VmWare, Inc.",1
+JSOND.org,1
+Phenome Networks,1
+University of Memphis,1
+lin. Jiao,1
+Dell Products LP,1
+Undatech,1
+Plex,1
+Hainan University,1
+Seeking affiliation,1
+University of Central Florida,1
+mistnet.io,1
+Tecent,1
+DirecTV Inc,1
+* Pending affiliation change.,1
+Springpath,1
+yahoo,1
+Sungkyunkwan Univ./ETRI,1
+Cambridge University,1
+Lavabit LLC,1
+SSU,1
+BAE Systems AI Labs,1
+Kookmin Univ.,1
+Cozy Cloud,1
+A. Kumar,1
+Transpacket,1
+A.,1
+Abratech Corp.,1
+Atos Research and Innovation,1
+Qualcomm CDMA Technologies GMBH,1
+DNS International,1
+FACTOR-TS,1
+TCI,1
+NCI Agency,1
+NLNet Labs,1
+Swedish University Network,1
+Support Vectors,1
+C. Wetphal,1
+Salih. K.A,1
+Blue Meadow Networking,1
+Coding Rights,1
+Centre for Internet and Human Rights,1
+HERIT,1
+Japan Network Enabler,1
+Junipr Networks,1
+Universite Moulay Ismail,1
+O. Gonzalez,1
+Washington State University,1
+"8x8, Inc. / Jitsi",1
+Uber Technologies,1
+EthAirNet Associates,1
+Arrcus Networks,1
+SupportVectors,1
+Roland Computing Services,1
+Nutanix,1
+Pusan National University,1
+Rozanak.com,1
+Avassa,1
+"ASRC Space And Defense, NASA GSFC",1
+Kinney Consulting LLC,1
+Spectracom Corporation,1
+OneAccess,1
+UPMC,1
+Research Computer Center MSU,1
+Cloudera,1
+Verisign labs,1
+TCSL,1
+VGEC,1
+Cadcorp,1
+Planet Labs,1
+Cryptosense/INRIA,1
+Amazon Lab126,1
+OMNICS,1
+022China Mobile,1
+"vIPtela, Inc.",1
+Prime Tel,1
+"Neustar, Inc",1
+F5 Neworks,1
+UTN-FRM/Aalto,1
+Broadband Forum,1
+vArmour,1
+University of Portsmouth,1
+Fundacion Sadosky,1
+Monoski LLC,1
+University of Montenegro,1
+"ForwardingPlane, LLC",1
+"Nomura Research Institute, Ltd.",1
+KDDI Research Inc.,1
+Peerless Network,1
+Versa Networks,1
+Securax,1
+DePaul University,1
+BIGLOBE Inc.,1
+Chinaunicom,1
+KETI,1
+Eantc,1
+Mellanox Technologies Ltd,1
+ABDK Consulting,1
+Indvidual,1
+MIRANTIS,1
+AfriNIC,1
+NBCUniversal,1
+SCTE,1
+SeaChange,1
+Vodafone D2 GmbH,1
+The University of Adelaide,1
+Advertising Digital Identification,1
+Nimbus Operations Inc.,1
+Curveball Networks,1
+"NAVOMI, Inc.",1
+Luiginius,1
+University of Deleware,1
+Zalando SE,1
+Network Polygraph,1
+Institut Mines Telecom-Telecom Sud Paris,1
+Institut Mines Telecom-Telecom Bretagne,1
+ACKLIO,1
+Hopcount,1
+Univ. of Rome Tor Vergata/CNIT,1
+Universidad Carlos III Madrid,1
+SUNY,1
+Solacia,1
+RABT,1
+"Inside Products, Inc.",1
+Forcepoint,1
+Iron Mountain,1
+Altice Labs,1
+G. Wang,1
+Telhoc,1
+Lund University,1
+Cirrus Data Solutions Inc.,1
+optivo GmbH,1
+Dell EMC Research Europe,1
+GQ Wang,1
+"Rightside Group, Ltd.",1
+NIC Chile Research Labs,1
+Orolia USA,1
+Freelancer,1
+Shenzhen Olym Info. Security Tech. Ltd.,1
+Soonchunhyang University,1
+AVIC China Aero-Polytechnology Establishment,1
+Philips IP&S,1
+UA partners,1
+www.sutton-signwriting.io,1
+"University of California, Berkeley",1
+H. LABIOD,1
+B. LONC,1
+A. SERHROUCHNI,1
+Network RADIUS SARL,1
+Check Point Software Technologies Ltd.,1
+Lilac Cloud,1
+Conntac GmbH,1
+"DeNA Co., Ltd.",1
+University of New Hampshire,1
+PCCW Global,1
+Bell Canada.,1
+Cryptography Engineering LLC,1
+Interisle Consulting,1
+Fujitsu Laboratories LTD,1
+European Telecommunication Standards Institute,1
+D-Link Corp,1
+"Expedia, Inc.",1
+"Netcracker, Inc.",1
+Moulay Ismail University of Meknes,1
+X. Wang,1
+Universitat Politecnica de Catalunya/Fundacio i2cat,1
+Wenzhou-Kean University,1
+Universitat Politècnica de Catalunya,1
+AccuKnox,1
+Mavenir,1
+India Institute of Technology,1
+Wireless Telcom Consultant,1
+Singtel,1
+IEIT System,1
+The University of Memphis,1
+Lobaro UG,1
+NLNetLabs,1
+"FreeBit Co., Ltd.",1
+Ecole polytechnique,1
+Inocybe Technologies,1
+Lumina Networks Inc.,1
+Lucid Vision LLC,1
+Cambridge Greys Limited,1
+Danish Maritime Authority,1
+FICORA,1
+One Identity,1
+STZ Elektronik,1
+Hackers Mauritius,1
+NIC Labs Chile,1
+SoftBank Telecom Japan,1
+U of Tuebingen,1
+LONAP,1
+"8x8, Inc.",1
+Standard Velocity,1
+Freie Universitaet Berlin,1
+"TransUnion, Inc.",1
+"Arbor Networks, Inc.",1
+YES Europe AG,1
+20C,1
+McMaster University,1
+"Logical Elegance, LLC.",1
+Interconnect Services B.V.,1
+Odette International,1
+School of Communication and and Information Engineering,1
+The Intertubes,1
+ircdocs,1
+Unify / Atos,1
+Rowan University,1
+Bournemouth University,1
+"University of Applied Sciences and Arts
+      Northwestern Switzerland",1
+DataPlane.org,1
+Stripe Inc.,1
+MLB@Realtime Communications,1
+prettydiff.com,1
+Independent Submitter,1
+Network Systems Research & Design,1
+Portland State Univ.,1
+Qrator Labs & Yandex,1
+SKKU,1
+Technical Centre of Internet,1
+true,1
+Wonder Hamster,1
+ENCS,1
+United States National Security Agency,1
+University of Debrecen,1
+Eotvos Lorand University,1
+APNIC P/L.,1
+AFRINIC Ltd.,1
+University of St. Andrews,1
+Fraunhofer Institute,1
+Wi-SUN Alliance,1
+Etri,1
+KoreaTech,1
+National Internet Exchange of India (NIXI),1
+Aruba-HPE,1
+HFT Stuttgart - Univ. of Applied Sciences,1
+MNK Consulting,1
+LIP6 UPMC,1
+Hochschule Esslingen,1
+TU Munich,1
+Beijing Normal University,1
+Spotify,1
+Incites,1
+InnoRoute,1
+Boston University and Algorand,1
+Hong Kong University of Science and Technology,1
+Open Xchange Oy,1
+ATT Services Inc,1
+Thycotic,1
+Bomgar,1
+Lieberman Software,1
+"CERT, Software Engineering Institute, Carnegie Mellon University",1
+Agilicus,1
+Internet Neutral Exchange Association CLG,1
+BlackBerry,1
+Steinwurf ApS,1
+TTTech Computertechnik AG,1
+NICT/Japan,1
+WMware,1
+U3CM,1
+YANDEX,1
+Capital University of Science and Technology,1
+Diennea,1
+MLB,1
+Nuagenetworks,1
+Snake Hill Labs,1
+School of Communication and,1
+Bosch.IO GmbH,1
+Software Architect,1
+"Lyft, Inc.",1
+ValiMail,1
+KOEVOO,1
+IIT Kharagpur,1
+O. Adamuz-Hinojosa,1
+"Palo Alto Networks, Inc.",1
+MTS Web Services (MWS),1
+Future Technologies,1
+no org,1
+Democritus University of Thrace,1
+Autonomous University of Barcelona,1
+Universidad de Buenos Aires - CONICET,1
+NEC Laboratories Europe GmbH,1
+Kitami Institute of Technology,1
+Enterprise Data Center Operators,1
+u-blox UK,1
+"LabN Consulting, LLC.",1
+Camelot,1
+Cornell Tech,1
+"Stanford University, UIT",1
+"California Things, Inc",1
+Rensselaer Polytechnic Institute,1
+"Yoyodyne, Inc.",1
+Hudson River Trading,1
+"NEC Platforms, Ltd.",1
+IoTrust,1
+Edward Jones,1
+ETSI,1
+Squarespace,1
+CTM Insights,1
+Telefonica I+D/GCTO,1
+Seconize,1
+Chemical Abstract Services,1
+ODVA,1
+Cryptocom,1
+Mavenier,1
+GSTA,1
+Apstra Inc.,1
+Fitug e.V.,1
+"Rhyolite Software, LLC",1
+"Royal Holloway, University of London",1
+Yanzi Networks AB,1
+Singapore Telecommunications Ltd,1
+Sedona,1
+IoT Square Inc.,1
+BizMobile Inc.,1
+"Mercari, Inc. R4D",1
+"Japan Digital Design, Inc.",1
+Japan Blockchain Association,1
+"Advanced Security Division, Internet Initiative Japan Inc.",1
+Digital Security,1
+"Beijing Capital Highway Development
+      Group Co.,Ltd.",1
+Elf Tools AB,1
+Friedrich-Alexander Universitaet Erlangen-Nuernberg,1
+yes.com AG,1
+CETC,1
+Thinking Cat,1
+Linagora,1
+Spatiam Corporation,1
+First Look Media,1
+The Intercept,1
+"NIT, Delhi",1
+Assistant Professor,1
+Meta Platforms,1
+JetLend,1
+Volta,1
+Université de Montréal,1
+Twelve Dot Systems,1
+Cyberstorm.mu,1
+RealVNC Ltd,1
+Algorand Foundation,1
+Inter net Society,1
+Toyohashi University of Technology,1
+"Merit Network, Inc.",1
+Sung Kyun Kwan University,1
+Software Tool and Die,1
+Open-Exchange,1
+Redbit Networks,1
+CITC,1
+"link-lab & FU
+      Berlin",1
+Harvard Kennedy School,1
+Ester LE Rouzic,1
+Matrium Technologies,1
+RightMesh,1
+Kamstrup A/S,1
+Cinea Corp.,1
+TeleCommunication Systems,1
+AS210036,1
+Tor Project,1
+"GREE, inc",1
+HPE Aruba,1
+Institut MINES TELECOM ; IMT Atlantique,1
+Universitaet Klagenfurt,1
+BT Plc,1
+LG Uplus,1
+Telecentro,1
+T. He,1
+NetSecOPEN,1
+Hickory Hill,1
+University of Hamburg,1
+Veridify Security,1
+Cryptocom LTD,1
+Schallsoft,1
+University for Applied Sciences Munich,1
+Algorand and University of Waterloo,1
+Algorand and ENS,1
+Zink Magical Contraptions,1
+Lupin Lodge,1
+Independent Research Consultant India,1
+Pragmatic Web Security,1
+Skye Logicworks,1
+ECIX - Megaport,1
+Acronis,1
+Norton Lifelock,1
+Ball Aerospace and Technologies Corp.,1
+Aalto,1
+TAU,1
+Victoria University of Wellington,1
+ETC Labs Core,1
+Constructor University,1
+Arrcus & IIJ Research Lab,1
+Unabiz (Sigfox),1
+"IRIF, Université Paris Cité",1
+BGPexpert.com,1
+L7TR,1
+Mediatek USA,1
+"Red Hound Software, Inc.",1
+IETF NOC Team,1
+"Auriga, Inc",1
+ThreatSTOP,1
+Stalworthy Computing,1
+Hasselt University,1
+Vrizon,1
+I. Wijanands,1
+"Stalworthy Computing, Ltd.",1
+SR2 Communications,1
+internet Research Lab,1
+Deloitte Canada,1
+Operator Foundation,1
+Shandong Computer Science Center,1
+Shandong Institute of Big Data,1
+Tennessee Tech University,1
+zkSecurity,1
+ABN AMRO Bank,1
+Independent Submissions Editor,1
+U Chicago,1
+Entrust Datacard Limited,1
+Linagora Vietnam,1
+Stardust Consulting,1
+Corning Incorporated,1
+DE-IX,1
+Aruba,1
+GNU Project,1
+Linaro Ltd.,1
+InfoTeCS JSC,1
+Electric Energy Control Test Team,1
+Golisano College of Computing and Information Sciences,1
+shipcloud GmbH,1
+Qualcomm Europe,1
+Wickr,1
+IOHK,1
+Secunet,1
+Verve Interactive Pty Ltd,1
+Andromeda Security,1
+Department of ICMCT,1
+"Dombox, Inc.",1
+Bitcoin,1
+Oterra.ai,1
+Ariga.io,1
+CNCERT,1
+"Acquia, Inc.",1
+ThoughtSpot,1
+Quantum Secret,1
+SecurityBiaS,1
+Cabase - Cámara Argentina de Internet,1
+Rydal Inc.,1
+Stichting NLnet Labs,1
+Korea Aerospace University,1
+Unionpay,1
+Pepperpot Media,1
+WebWeaving Internet Engineering,1
+Sky UK Ltd,1
+Haivision,1
+China Academy of Information Communications Technology,1
+WINGS,1
+Alten,1
+UST Global,1
+Open-Xchange OY,1
+"Arrcus, DRL, & IIJ Research",1
+"National Institute of Information and
+    Communications Technology",1
+Clearcast,1
+University of Haifa and Meta,1
+17beta,1
+Celestica Inc.,1
+Cox Communications Inc.,1
+Capitalonline.,1
+"Ecole Normale Superieure, Paris",1
+Shanxi Univ.,1
+Beihang Univ.,1
+TransIP,1
+The University of Edinburgh,1
+"deSEC, SSE - Secure Systems Engineering",1
+Selfie Networks,1
+Norwegian Communications Authority,1
+Akira Systems Private Limited,1
+"BitRipple, Inc.",1
+AWS Security,1
+"University Computing Centre, University of Zagreb (SRCE)",1
+InterDigital Europe Limited,1
+Capital Online Inc.,1
+Open-Xchange Ltd,1
+Endress + Hauser Liquid Analysis - Gerlingen,1
+Alloc Init Labs - New York,1
+"Proofpoint, Inc",1
+University of A Coruna,1
+Hong Kong University of Science and Technology (Guangzhou),1
+"SIE Europe, U.G.",1
+Kentik,1
+ch. Zhu,1
+Namibian Network Information Center (Pty) Ltd,1
+Pluribus Networks,1
+CNCERT/SD,1
+Shandong Computing Science Center,1
+Post Luxembourg,1
+iC Consult GmbH,1
+SourceHut,1
+"Research Institute CODE, UniBw M",1
+University of New Mexico,1
+Universite Savoie Mont Blanc,1
+TELUS Communications Inc,1
+Internet policy advisors,1
+Association for Progressive Communications,1
+Tana,1
+KTC Control AB,1
+Grafana Labs,1
+GitLab,1
+Robust Perception,1
+Chronosphere,1
+TheSoul Publishing Ltd.,1
+FQX,1
+LIP,1
+"INESC-ID, Instituto Superior Tecnico, MIT",1
+Ruijie,1
+Seccom GmbH,1
+"F5, Inc.",1
+Sequoia-PGP,1
+FSIJ,1
+Network UPS Tools Project,1
+Ghent University – imec,1
+Zcash Foundation,1
+McGill University,1
+ipUnplugged AB,1
+W. Britto,1
+RAD,1
+DDI Alliance,1
+Haivision Systems,1
+"Arrcus, Inc. & Internet Initiative Japan",1
+Self Employed,1
+Starten Systems,1
+Kirei,1
+Webweaving,1
+(deceased),1
+CICS-CERT,1
+twitter,1
+Rostelecom,1
+Skyelogicworks,1
+TBD,1
+BBC R&D,1
+Technische Universitaet Berlin,1
+IN Groupe,1
+Ribbon Communications Inc.,1
+Bharti Airtel Ltd,1
+The Internet,1
+Meinberg USA Inc.,1
+"JPL, Calif. Inst. of Technology",1
+Security Researcher,1
+MTS Web Services,1
+THEO Technologies,1
+Hyogo Prefectural Ono High School,1
+Hexabuild,1
+CleverReach GmbH & Co. KG,1
+Argus Networks,1
+P.L. Peng,1
+CentecNetworks,1
+"Avinta Communications, Inc.",1
+Hewlett Packard Enterprise Co.,1
+Without Affiliation,1
+Stewart Bryant Ltd,1
+DP Security Consulting,1
+MASQUE Enthusiasts LLC,1
+"City, University of London",1
+"CICT, PCL",1
+Professional writer,1
+Alaxala Networks Co.,1
+Graphiant Inc.,1
+Independent Identity Inc.,1
+Algeria Telecom,1
+Igalia,1
+IE Domain Registry,1
+Silex Insight,1
+2you.io,1
+IFRN,1
+UFRJ,1
+Open Ethics Initiative,1
+Ubitech,1
+bibital LLC,1
+Binary Firefly,1
+Syndeno,1
+VESvault Corp,1
+University of Mons (UMONS),1
+Safespring AB,1
+Anonymous,1
+Crossword Cybersecurity,1
+IoTeX,1
+HCL Software,1
+Transloadit Ltd,1
+JellyHive,1
+XL Axiata,1
+Red Barn,1
+UK Safer Internet Centre,1
+Lakeside Robotics Corporation,1
+DigitalOcean,1
+MMU,1
+ETH Zuerich,1
+"Stratus Technologies, Inc.",1
+Colt Technology Services,1
+University of Surrey ISC,1
+"Telefonica, I+D",1
+IoTsense LLC,1
+Ege University,1
+King’s College London,1
+Munster Technological University,1
+A. Liu,1
+Avinta,1
+Sailpoint Technologies,1
+"Workday, Inc.",1
+"Dawning Information Industry Co., Ltd.",1
+NeuralAgent GmbH,1
+Opendrives.com,1
+"Fastmail, PTY LTD",1
+ActiveCampaign,1
+Uncloud,1
+TII,1
+Carleton College,1
+"UCLouvain, WEL RI",1
+New H3C,1
+"in personal capacity (NetDEF, Inc.)",1
+Department of Electical and Computer Engineering,1
+"Université Paris-Saclay, CEA, LIST",1
+Neustar (a TransUnion company),1
+CableLabs Inc.,1
+J. Paillisse Vilanova,1
+Interpeer gUG (haftungsbeschraenkt),1
+Instituto Superior de Engenharia do Porto,1
+Inria and University of Luxembourg,1
+Netnod Internet Exchangen,1
+IMT atlantique,1
+Center for Internet Security (CIS),1
+Kakao Corp.,1
+Entrust - nCipher Security Limited,1
+Standcore,1
+China Broadcast Mobile Network Company,1
+School of Global Studies,1
+Sentry Software,1
+CoolTech Inc.,1
+NorthernBlock,1
+Soba Yazılım A.Ş.,1
+Retired / Unaffiliated,1
+"PQShield, LTD",1
+MIT CSAIL,1
+Aviatrix,1
+"Wireless Broadband Alliance, Inc.",1
+pwnedkeys.com,1
+The Monitoring Plugins Project,1
+SSE - Secure Systems Engineering GmbH,1
+ARM Corporation,1
+Sunderland University,1
+Oxford University,1
+Knight-Georgetown Institute (KGI),1
+"Inside Products, Inc",1
+Forwarding Plane,1
+"INESC-ID, Técnico Lisboa, Blockdaemon",1
+"Ruijie Networks Co.,Ltd",1
+Xiph.org,1
+KSA,1
+Jio Reliance,1
+Mercata SagL,1
+NEC Lab,1
+"UTFPR, Brazil",1
+The Hong Kong University of Science and Technology (Guangzhou),1
+Enterprise Ethereum Alliance,1
+TrasnUnion,1
+Organization ChazahGroup,1
+Chazah Group,1
+Gen Digital,1
+"Independent Identity, Inc.",1
+"AlefEdge, Inc",1
+Shopify Inc,1
+University of Electronic Science and Technology of China,1
+Raytheon BBN,1
+"Visionist, Inc.",1
+Crowdstrike,1
+Yunqi Academy,1
+Institut MINES TELECOM; IMT-Atlantique,1
+Nillion,1
+Seagate,1
+SIAE,1
+"LabN Networks, L.L.C.",1
+"School of Cyber Science and Engineering, Sichuan University",1
+HKUST (Guangzhou),1
+"THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY
+      (GUANGZHOU)",1
+Cohesive Networks,1
+Karlsruhe Institute of Technology (KIT),1
+Telefonica Innovacion Digital,1
+InkBridge,1
+Chosen Few Software,1
+InternetNZ,1
+"Cybersecurity, Risk & Privacy Senior Consultant",1
+CrowdStrike,1
+IRISA,1
+Universite de Liege,1
+Kongsberg Defense & Aerospace,1
+Qualcomm Germany GmbH,1
+mavennet,1
+SKELDUS,1
+Technische Universität Berlin,1
+Everycast Labs Ltd,1
+Alston Networks,1
+Internet Neutral Exchange Association,1
+Bowball Technologies Ltd,1
+MIT Connection Science,1
+Volkswagen Infotainment GmbH,1
+AS58280.net,1
+"Fastly, Inc.",1
+Beonex GmbH,1
+THU,1
+KTH Royal Institute of Technology,1
+University of New Hampshire InterOperability Laboratory,1
+R. Pang,1
+Illuminated Security Ltd,1
+Perinet GmbH,1
+Northern Block,1
+Digital Governance Council,1
+Technische Universität Wien,1
+Glevia GmbH,1
+"BastionZero, Inc.",1
+Alibaba Cloud Computing Co. Ltd.,1
+"BringYour, Inc.",1
+ICRC,1
+"Blue Fern
+      Consulting",1
+Linux NFS Project,1
+National Australia Bank,1
+NextHop AI,1
+Booking BV,1
+Quan Cheng Laboratory,1
+CRC Corporation,1
+AppViewX Inc,1
+Bank of New York Mellon,1
+DriveNets,1
+valentin-43-44.org,1
+UBITECH Ltd.,1
+"Grenoble INP - Ensimag, LIG Lab",1
+FIve9,1
+Mediatek Inc,1
+IEIT SYSTEMS,1
+Aserto,1
+3Edges,1
+NVIDIA Corporation,1
+NSA Center for Cybersecurity Standards,1
+Department of Electrical & Computer Engineering,1
+Yocto,1
+Taurus SA,1
+SpaceX,1
+Electric Coin Co,1
+Rock Solid Knowledge,1
+University of Kent School of Computing,1
+JournalList.net,1
+TiDB,1
+Cleverbase,1
+"Departamento de Ingenieria Electrica, Universidad de Chile",1
+Everything-Ops,1
+UNamur,1
+Knipp Medien und Kommunikation GmbH,1
+D3 Global Inc,1
+Fiberhome Telecom LTD./CICT.,1
+China PCL.,1
+Silent Sector,1
+Chunghwa Telecom Laboratories,1
+Arqit Quantum Inc,1
+University of Applied Sciences Bonn-Rhein-Siegx,1
+University of Connecticut,1
+"8x8, Inc / Jitsi",1
+neptela,1
+China Southern Power Grid Company Limited,1
+woori-net,1
+NBN,1
+T-SYSTEMS,1
+Santa Clara University,1
+Midnight Blue,1
+Cornell Tech and Cornell University,1
+Hazelcast,1
+Episteme Technology Consulting,1
+Snowflake,1
+Nrolabs,1
+Quad State Internet,1
+Space Initiatives,1
+SURF,1
+Freshworks,1
+Lenovo,1
+Wuhan University,1
+Infosec,1
+Goodix,1
+DATAMARK Technologies,1
+US DHS/CISA,1
+Common Crawl Foundation,1
+Vidarka Technologies,1
+Optima SC Inc.,1
+Altera,1
+Tailscale Inc.,1
+Monal Instant Messenger,1
+CNIC-CAS,1
+Orange Group,1
+id3as,1
+CTOiC,1
+Squire Technologies Ltd,1
+trueCall Ltd,1
+Birmingham City University,1
+Full Frontal Nerdity Industries,1
+Private Octopus Inc,1
+NRO,1
+InnovCOM Sup'COM,1
+Tsinghua SIGS,1
+Ontario Nurses' Association,1
+Seoul National Univ.,1
+Daejeon Univ.,1
+TTA,1
+"Cloud Software Group, Inc.",1
+National Astronomical Observatory of Japan / WIDE Project,1
+Bank of America,1
+Federal Office for Information Security,1
+TREX Regional Exchanges Oy,1
+"Provenant, Inc",1
+Relaycorp,1
+"Zhixin Technology Co., Ltd. (Kercore)",1
+University of Toamasina / ISOC Comoros Chapter,1
+Your Organization Here,1
+"University of California, Irvine",1
+Zixt Chat,1
+HPE Aruba Networking,1
+Congdon Consulting,1
+Moore Threads,1
+Resnics Technology,1
+Cloudnine Information Technologies,1
+Metanet Networking Technology,1
+Hygon,1
+Enflame Technology,1
+Tejas Networks,1
+Practical Identity,1
+"IRIF, Université Paris-Cité",1
+Aviontex GmbH,1
+Selkie Cryptography,1
+"Intuit, Inc.",1
+Centurion Intelligence Consulting Agency,1
+GEE Space,1
+Technische Universität München,1
+Kleiner Perkins,1
+1Finity,1
+Signicat,1
+Datatrails,1
+Prometheus Systems,1
+SecRoot.io,1
+Merklemap,1
+1&1 Mail & Media GmbH,1
+Aiiva.org,1
+Allot,1
+University of Sheffield,1
+TikTok,1
+Nebius,1
+IETF IPMC,1
+Adam Networks Inc.,1
+UCLouvain & NGI Zero Core,1
+Swisscom AG,1
+JHU Applied Physics Laboratory,1
+Emerald Groupware Project,1
+Harvard University retired,1
+Keycard Labs,1
+The Hong University of Science and Technology (Guangzhou),1
+DataraAI,1
+DeepBlue Dynamics,1
+National Union of Journalists,1
+Internet Engineering & Infrastructure Strategic Initiative,1
+PastWipe Ltd,1
+Advance,1
+Indenpendent,1
+PastWipe S.L.,1
+Lockb0x LLC,1
+Knight-Georgetown Institute,1
+University of Science and Technology Beijing,1
+Transworld Enterprise Services,1
+"Consulate, Inc.",1
+PACIFIC IT Solutions s.r.o.,1
+"Beijing Infosec Technologies Co., LTD.",1
+Taler Systems AG,1
+JPMorgan Chase,1
+no.org,1
+Paducah Internet Exchange (Paducah IX),1
+Anuna Research Pty Ltd,1
+XMTP Labs,1
+Cerebras,1
+ANP Open Source Community,1
+Cerebras Systems,1
+"Cox Communications, Inc.",1
+Aerospacelab,1
+Inria / Saarland University,1
+Hicagent,1
+SUPCON,1
+FartLabs,1
+Compellio Inc.,1
+Ajna.inc,1
+Verid.id,1
+Cathmere,1
+Blockcast Inc,1
+"Crosslayer Labs, Inc.",1
+"Aalyria Technologies, LLC",1
+foxyfy.net,1
+Social Web Foundation,1
+Qoria,1
+SIROS Foundation,1
+Inveigle.net,1
+Argonne National Laboratory -- Data Science and Learning Division,1
+INSA-Lyon & Inria,1
+cnTnc LLC,1
+Tranquil IT SAS,1
+Servesys Labs,1
+Janeway and Wildman Limited,1
+Dataplane.org,1
+Inventor,1
+Audi,1
+SAHollenbeck LLC,1
+mesibo,1
+draft-nsiangani-phi-ns-01,1
+AppViewX Inc.,1
+Peculiar Ventures,1
+JamOne-DE,1
+SIMS.NET Inc,1
+MPlace2.social,1
+"Cryptic Forest Software, Ltd",1
+OraSRS Protocol,1
+FXCO Ltd.,1
+H2 Technologies LLC,1
+Clearpath Intelligence,1
+EKOA/UNLP,1
+DXC Technology,1
+draft-eli-z-protocol-00,1
+CITTAMARKET Protocol,1
+Bitwarden,1
+1Password,1
+IUT R&T Bethune,1
+CORE,1
+ApertoDNS,1
+Varlil Corporation,1
+Self-published,1
+"EKOA, Facultad de Informática - UNLP",1
+ZEROBANKX PTE. LTD.,1
+VeritasChain Standards Organization (VSO),1
+Midwest Cyber LLC,1
+IDEAFARM.COM,1
+Institute of Spacecraft System Engineering,1
+EntglDb,1
+FAF Foundation,1
+State University of Campinas (UNICAMP),1
+MyTerms,1
+"Internet Systems
+       Consortium",1
+Nova Labs,1
+merlinux gmbh,1
+n0 Inc.,1
+"VeritasChain Co., Ltd.",1
+ULISSY s.r.l.,1
+"German Aerospace Center, DLR",1
+Boeing Technology Innovation,1
+"Skyfire, Inc.",1
+"Ory Corp, Inc.",1
+DanLevy Consulting,1
+Yuthent,1
+AI Visibility Architecture Group Limited,1
+ACE Working Group,1
+GreenArrow Email,1
+Service Now,1
+Marist University,1
+Fordham University,1
+Berlin AI Labs,1
+VextCODE,1
+AILEX LLC / VeritasChain Standards Organization,1
+AsiaInfo Technologies (China) Inc,1
+"Ironstead Group, LLC.",1
+CAW,1
+Cognitive Emergence Lab,1
+Nylo Project,1
+JMH,1
+Grantex,1
+ONE NEW EXPERIENCE,1
+IMTF,1
+Cyntrisec,1
+PipeStream AI,1
+East China Normal University,1
+Tsinghua Shenzhen International Graduate School,1
+Tech Mahindra,1
+Westford Academy,1
+"Inspur Computer Technology Co., Ltd.",1
+Skyfire,1
+Violet Sky Security SEZC,1
+Kenosian,1
+GudLab,1
+NeuroVix Systems,1
+Atea Sverige AB,1
+"KH Sovereign, Inc.",1
+"Open Agent Registry, Inc.",1
+Montcao,1
+Greicodex Software,1
+"GMO Internet Group, Inc.",1
+Ant Group.,1
+Tenuo,1
+Iterable,1
+Luminesce Limited,1
+Qorsa,1
+GMO Internet Group,1
+Third Level IT LLC,1
+Vulnetix,1
+Individual Author,1
+AIEndpoint,1
+ThriveTech Services LLC,1
+Sequentum,1
+Mumble Group,1
+Shared Health Services,1
+Helixar Limited,1
+Attest,1
+ITB.it,1
+ScopeBlind (Veritas Acta),1
+HJS Foundation Ltd.,1
+SubThought Corporation,1
+CoCa. Foundation,1
+h-network,1
+AEOESS,1
+SANS Institute,1
+Bastionnage Consulting,1
+Polytechnique Montréal,1
+iCalDAV Project,1
+L'ABtelier IA -- AI Community of Practice,1
+AI Research Assistant,1
+Adligo Inc.,1
+Infinitum Nihil,1
+Ertl Software Productions,1
+TwoGenIdentity,1
+NirvanAI,1
+Agentflow,1
+Umarise,1
+"Vivoh, Inc.",1
+Veritas Acta,1
+Creative Commons,1
+The Clearing Room,1
+Atlanta Contra Dancers,1
+Vorim AI,1
+"Nivalto, Inc.",1
+VERIDIC Inc.,1
+Bertoldi Cybersecurity,1
+Universita' degli Studi di Napoli Federico II,1
+WritersLogic Inc.,1
+"Ask McConnell, LLC",1
+One Limited,1
+OIA Lab,1
+Vertiv Holdings Co.,1
+Valtrix Labs,1
+RegisteredBrands.AI,1
+Rolab,1
+Midas Labs,1
+INUID Research Group,1
+Tachibana General Laboratories,1
+TrueSource,1
+RuleMesh,1
+Zenith Intelligence Technologies Inc.,1
+RustyKey®,1
+c0dx3,1
+MobileStack,1
+Authproof,1
+AG Pixel Studio / Sovereign AG,1
+Hewlett Packard Enterprise (HPE),1
+Aldana Innovations,1
+Asqav,1
+Crovia Trust,1
+SoftOboros,1
+TaskHawk Systems LLC,1
+Red5,1
+Business Cyber Guardian,1
+Apex Infrastructure,1
+Litzki Systems LLC,1
+"TU Dresden, Germany",1
+Agentir Network,1
+InterAlliance OU,1
+SAIHM (Sovereign AI Horizontal Memory),1
+In solidarity with CTC and the Youth of Cuba,1
+Curity,1
+ANML Foundation,1
+Baur Software,1
+Project Tick,1
+Individual Submission,1
+CryptoKRI GmbH,1
+RedTeamLeaders,1
+LedgerProof Foundation,1
+e.Mix,1
+OrcaTI,1
+Sysbrasil Tecnologia,1
+Vero Internet,1
+Zadara,1
+Faculty of Systems Engineering,1
+Trimplayer,1
+Hope Project,1
+Saki Studio,1
+ViYouna,1
+"Sippy Software, Inc.",1
+Eyevinn Technology,1
+Accenture,1
+Peachymango.org,1
+Meridian Verity Group,1
+April Labs,1
+"BubbleFish Technologies, Inc.",1
+1 Euro SEO,1
+Nextident,1
