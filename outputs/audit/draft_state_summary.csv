@@ -1,0 +1,7 @@
+state_slug,state_name,state_uri
+active,Active,/api/v1/doc/state/1/
+expired,Expired,/api/v1/doc/state/2/
+rfc,RFC,/api/v1/doc/state/3/
+repl,Replaced,/api/v1/doc/state/4/
+auth-rm,Withdrawn by Submitter,/api/v1/doc/state/5/
+ietf-rm,Withdrawn by IETF,/api/v1/doc/state/6/

@@ -1,0 +1,2 @@
+successful_n,unsuccessful_n,successful_median,unsuccessful_median,mann_whitney_u_successful,p_value,rank_biserial_correlation,effect_size_magnitude,direction
+8316,24965,2.0,2.0,126584529.5,3.177201084820857e-216,0.21945162380772243,small,Successful higher

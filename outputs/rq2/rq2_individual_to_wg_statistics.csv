@@ -1,0 +1,2 @@
+analysis,n,positive_group,negative_group,positive_successful,positive_unsuccessful,positive_success_rate,negative_successful,negative_unsuccessful,negative_success_rate,success_rate_difference,chi_square,degrees_of_freedom,p_value,cramers_v,effect_size_magnitude,odds_ratio_positive_vs_negative,zero_cell_correction_used
+RQ2b: Individual -> Recorded WG trajectory,24898,Individual -> Recorded WG,"Individual, no recorded WG",2111,397,0.8417065390749602,856,21534,0.0382313532827155,0.8034751857922446,13871.232290796275,1,0.0,0.7464062907178701,large,133.7669024694555,0

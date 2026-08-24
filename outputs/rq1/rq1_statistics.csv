@@ -1,0 +1,4 @@
+variable,label,successful_n,unsuccessful_n,successful_median,unsuccessful_median,median_difference_success_minus_failure,mann_whitney_u_successful,p_value,rank_biserial_correlation,effect_size_magnitude,direction
+lineage_revision_count,Lineage revision count,8316,24965,9.0,2.0,7.0,180980066.0,0.0,0.7434708351191428,large,Successful higher
+development_duration_days,Development duration (days),8316,24965,644.0,1.0,643.0,168973016.5,0.0,0.6278009656038896,large,Successful higher
+lineage_length,Lineage length (draft Documents),8316,24965,1.0,1.0,0.0,137731589.0,0.0,0.3268367826549281,medium,Successful higher
