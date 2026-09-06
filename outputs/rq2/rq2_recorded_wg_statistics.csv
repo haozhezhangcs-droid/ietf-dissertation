@@ -1,2 +1,2 @@
 analysis,n,positive_group,negative_group,positive_successful,positive_unsuccessful,positive_success_rate,negative_successful,negative_unsuccessful,negative_success_rate,success_rate_difference,chi_square,degrees_of_freedom,p_value,cramers_v,effect_size_magnitude,odds_ratio_positive_vs_negative,zero_cell_correction_used
-RQ2a: Recorded WG association,33281,Recorded WG,No recorded WG,6304,3032,0.675235646958012,2012,21933,0.08402589267070369,0.5912097542873083,12525.90697729465,1,0.0,0.6134884736058352,large,22.665070264429257,0
+RQ2a: Recorded WG association,31709,Recorded WG,No recorded WG,6304,2833,0.6899419940899639,2012,20560,0.08913698387382597,0.600805010216138,12134.528397506956,1,0.0,0.6186146178845912,large,22.73865455344179,0

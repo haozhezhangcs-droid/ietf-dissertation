@@ -1,0 +1,7 @@
+variable,outcome,n,median,iqr
+Revision count,Successful,8316,9.0,9.0
+Revision count,Unsuccessful,23393,2.0,2.0
+Development duration (days),Successful,8316,644.0,923.0
+Development duration (days),Unsuccessful,23393,0.0,244.0
+Lineage length,Successful,8316,1.0,1.0
+Lineage length,Unsuccessful,23393,1.0,0.0
