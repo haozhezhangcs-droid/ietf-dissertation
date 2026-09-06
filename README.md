@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/CompSci_colour.png"
+       alt="University of Glasgow School of Computing Science"
+       width="450">
+</p>
 # IETF Dissertation
 
 **MSc Computing Science Dissertation**  
