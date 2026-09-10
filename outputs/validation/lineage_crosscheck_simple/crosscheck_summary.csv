@@ -1,0 +1,13 @@
+stage,count
+all_reconstructed_lineages,35993
+all_draft_documents,42648
+individual_non_wg_style_drafts,32318
+wg_style_drafts,10330
+all_exact_name_matches,6652
+exact_matches_same_lineage,3863
+exact_matches_different_lineage,2789
+exact_name_candidates,2789
+nn_to_00_chronology_candidates,1660
+author_supported_candidates,1245
+name_rule_exact_topic_suffix,1691
+name_rule_exact_author_wg_topic,1098
